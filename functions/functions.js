@@ -226,3 +226,35 @@ exports.createAuthTemplate = async (templateName, otp_type, language, wabaId, ac
       throw new Error(error?.response?.data?.error?.message || 'Failed to create template on Meta');
     }
 }
+
+exports.getBusinessData = async (metaBusinessId, accessToken) => {
+  try {
+    let BUSINESS_ID = metaBusinessId;
+    let ACCESS_TOKEN = accessToken;
+    const url = `https://graph.facebook.com/v21.0/${BUSINESS_ID}?access_token=${ACCESS_TOKEN}`;
+    const response = await axios.get(url);
+    return response.data;
+  } catch (error) {
+    console.error("Error fetching business data:", error.response?.data || error.message);
+    throw new Error("Failed to fetch business data from Meta API");
+  }
+};
+
+exports.createProductCatalog = async (metaBusinessId, name, accessToken) => {
+  try {
+    let BUSINESS_ID = metaBusinessId;
+    let catalogName = name;
+    let ACCESS_TOKEN = accessToken;
+    const url = `https://graph.facebook.com/v19.0/${BUSINESS_ID}/owned_product_catalogs`;
+    const response = await axios.post(url, null, {
+      params: {
+        name: catalogName,
+        access_token: ACCESS_TOKEN,
+      },
+    });
+    return response.data;
+  } catch (error) {
+    console.error("Error creating product catalog:", error.response?.data || error.message);
+    throw new Error("Failed to create product catalog");
+  }
+};

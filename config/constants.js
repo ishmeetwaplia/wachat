@@ -132,7 +132,8 @@ const resMessage = {
     Otp_expired: "OTP has expired",
     Carousel_limit_exceed: "Carousel component cannot have more than 10 cards.",
     Data_fetch_successfully: "Data fetch successfully",
-    Data_updated: "Data updated successfully"
+    Data_updated: "Data updated successfully",
+    Catalog_created: "Catalog created successfully"
 };
 
 module.exports = {

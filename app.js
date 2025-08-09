@@ -24,6 +24,7 @@ const conversationRoutes = require('./routes/conversation');
 const dashboardRoutes = require('./routes/dashboardRoutes');
 const projectDashboardRoutes = require('./routes/projectDashboard');
 const flowRoutes = require('./routes/flowRoutes');
+const catalogRoutes = require('./routes/catalog');
 
 connectDB();
 const app = express();
@@ -89,6 +90,7 @@ app.use('/api/projects/:projectId/flows', flowRoutes);
 app.use('/api/projects/', projectDashboardRoutes);
 app.use('/api/projects/:projectId/messages', messageRoutes);
 app.use('/api/projects/:projectId/team-member', teamMemberRoutes);
+app.use('/api/catalog', catalogRoutes);
 
 // app.get('/auth/facebook/login', (req, res) => {
 //   const redirectUri = encodeURIComponent(`https://wachat.matkadash.in/auth/facebook/callback`);
