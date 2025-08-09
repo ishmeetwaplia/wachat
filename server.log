@@ -1,0 +1,1673 @@
+[23/7/2025, 18:14:16] Server running on port 5001
+[23/7/2025, 18:14:17] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[23/7/2025, 18:16:35] Server running on port 5001
+[23/7/2025, 18:16:35] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[23/7/2025, 18:22:56] Server running on port 5001
+[23/7/2025, 18:22:57] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[24/7/2025, 18:28:30] Server running on port 5001
+[24/7/2025, 18:28:33] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 10:24:20] Server running on port 5001
+[25/7/2025, 10:24:21] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 10:36:02] Server running on port 5001
+[25/7/2025, 10:36:04] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 11:34:31] Server running on port 5001
+[25/7/2025, 11:34:33] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 11:48:07] Server running on port 5001
+[25/7/2025, 11:48:08] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 12:34:07] Server running on port 5001
+[25/7/2025, 12:34:08] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 12:34:12] Server running on port 5001
+[25/7/2025, 12:34:13] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 12:35:30] Server running on port 5001
+[25/7/2025, 12:35:31] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 12:35:36] Server running on port 5001
+[25/7/2025, 12:35:36] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 12:38:37] Server running on port 5001
+[25/7/2025, 12:38:38] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 12:38:43] Server running on port 5001
+[25/7/2025, 12:38:44] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 12:39:42] Server running on port 5001
+[25/7/2025, 12:39:42] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 12:39:55] Server running on port 5001
+[25/7/2025, 12:39:56] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 12:39:59] Server running on port 5001
+[25/7/2025, 12:39:59] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 12:40:01] Server running on port 5001
+[25/7/2025, 12:40:01] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 12:40:37] Server running on port 5001
+[25/7/2025, 12:40:38] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 12:41:41] Server running on port 5001
+[25/7/2025, 12:41:42] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 12:41:51] Server running on port 5001
+[25/7/2025, 12:41:51] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 12:41:59] Server running on port 5001
+[25/7/2025, 12:41:59] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 12:42:09] Server running on port 5001
+[25/7/2025, 12:42:09] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 12:44:46] Server running on port 5001
+[25/7/2025, 12:44:47] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 12:44:52] Server running on port 5001
+[25/7/2025, 12:44:53] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 12:45:00] Server running on port 5001
+[25/7/2025, 12:45:01] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 12:45:13] Server running on port 5001
+[25/7/2025, 12:45:13] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 13:42:11] Server running on port 5001
+[25/7/2025, 13:42:11] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 13:44:09] Server running on port 5001
+[25/7/2025, 13:44:09] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 13:44:15] Server running on port 5001
+[25/7/2025, 13:44:16] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 13:44:25] Server running on port 5001
+[25/7/2025, 13:44:25] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 13:45:07] Server running on port 5001
+[25/7/2025, 13:45:07] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 13:45:21] Server running on port 5001
+[25/7/2025, 13:45:22] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 13:45:36] Server running on port 5001
+[25/7/2025, 13:45:36] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 13:47:58] Server running on port 5001
+[25/7/2025, 13:47:59] Server running on port 5001
+[25/7/2025, 13:48:00] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 13:48:07] Server running on port 5001
+[25/7/2025, 13:48:08] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 13:48:16] Server running on port 5001
+[25/7/2025, 13:48:16] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 13:48:38] Server running on port 5001
+[25/7/2025, 13:48:38] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 13:48:45] Server running on port 5001
+[25/7/2025, 13:48:46] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 13:49:21] Server running on port 5001
+[25/7/2025, 13:49:22] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 13:51:18] Server running on port 5001
+[25/7/2025, 13:51:55] Server running on port 5001
+[25/7/2025, 13:51:57] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 13:53:39] Server running on port 5001
+[25/7/2025, 13:53:43] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 13:53:56] Server running on port 5001
+[25/7/2025, 13:53:57] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 13:53:59] Server running on port 5001
+[25/7/2025, 13:54:00] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 15:40:18] Server running on port 5001
+[25/7/2025, 15:40:39] Server running on port 5001
+[25/7/2025, 15:40:40] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 15:40:41] Server running on port 5001
+[25/7/2025, 15:40:43] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 15:43:44] Server running on port 5001
+[25/7/2025, 15:43:45] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 15:44:11] Server running on port 5001
+[25/7/2025, 15:44:12] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 15:45:59] Server running on port 5001
+[25/7/2025, 15:46:00] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 15:47:07] Server running on port 5001
+[25/7/2025, 15:47:08] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 15:47:44] Server running on port 5001
+[25/7/2025, 15:47:45] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 15:54:04] Server running on port 5001
+[25/7/2025, 15:54:05] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 15:55:35] Server running on port 5001
+[25/7/2025, 15:55:36] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 15:55:39] Server running on port 5001
+[25/7/2025, 15:55:40] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 15:56:48] Server running on port 5001
+[25/7/2025, 15:56:48] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 15:57:04] Server running on port 5001
+[25/7/2025, 15:57:04] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 15:58:27] Server running on port 5001
+[25/7/2025, 15:58:27] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 16:00:18] Server running on port 5001
+[25/7/2025, 16:00:19] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 16:02:24] Server running on port 5001
+[25/7/2025, 16:02:25] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 16:02:43] Server running on port 5001
+[25/7/2025, 16:02:44] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 16:05:34] Server running on port 5001
+[25/7/2025, 16:05:34] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 16:07:57] Server running on port 5001
+[25/7/2025, 16:07:58] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 16:13:00] Server running on port 5001
+[25/7/2025, 16:13:01] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 16:13:31] Validating body: {"_original":{"name":"jfevekf@@##","metaAccessToken":"47638463sdcececwerve","metaAppId":"jhvckjdcvd"},"details":[{"message":"ID is required.","path":["businessProfileId"],"type":"any.required","context":{"label":"Business Profile ID","key":"businessProfileId"}},{"message":"ID is required.","path":["userId"],"type":"any.required","context":{"label":"User ID","key":"userId"}},{"message":"ID is required.","path":["tenantId"],"type":"any.required","context":{"label":"Tenant ID","key":"tenantId"}},{"message":"Business name must not contain special characters.","path":["name"],"type":"string.pattern.base","context":{"regex":{},"value":"jfevekf@@##","label":"name","key":"name"}},{"message":"Meta App ID should contain only letters and numbers.","path":["metaAppId"],"type":"string.pattern.base","context":{"regex":{},"value":"jhvckjdcvd","label":"metaAppId","key":"metaAppId"}}]}
+[25/7/2025, 16:13:56] Server running on port 5001
+[25/7/2025, 16:13:56] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 16:14:14] Server running on port 5001
+[25/7/2025, 16:14:15] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 16:14:27] Server running on port 5001
+[25/7/2025, 16:14:27] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 16:14:30] Validating body: {"_original":{"name":"jfevekf@@##","metaAccessToken":"47638463sdcececwerve","metaAppId":"1234567890"},"details":[{"message":"ID is required.","path":["businessProfileId"],"type":"any.required","context":{"label":"Business Profile ID","key":"businessProfileId"}},{"message":"ID is required.","path":["userId"],"type":"any.required","context":{"label":"User ID","key":"userId"}},{"message":"ID is required.","path":["tenantId"],"type":"any.required","context":{"label":"Tenant ID","key":"tenantId"}},{"message":"Name must not contain special characters.","path":["name"],"type":"string.pattern.base","context":{"regex":{},"value":"jfevekf@@##","label":"name","key":"name"}}]}
+[25/7/2025, 16:14:34] Validating body: {"_original":{"name":"jfevekf@@##","metaAccessToken":"47638463sdcececwerve","metaAppId":"1234567890a"},"details":[{"message":"ID is required.","path":["businessProfileId"],"type":"any.required","context":{"label":"Business Profile ID","key":"businessProfileId"}},{"message":"ID is required.","path":["userId"],"type":"any.required","context":{"label":"User ID","key":"userId"}},{"message":"ID is required.","path":["tenantId"],"type":"any.required","context":{"label":"Tenant ID","key":"tenantId"}},{"message":"Name must not contain special characters.","path":["name"],"type":"string.pattern.base","context":{"regex":{},"value":"jfevekf@@##","label":"name","key":"name"}},{"message":"Meta App ID should contain only numbers.","path":["metaAppId"],"type":"string.pattern.base","context":{"regex":{},"value":"1234567890a","label":"metaAppId","key":"metaAppId"}}]}
+[25/7/2025, 16:14:41] Validating body: {"_original":{"name":"jfevekf@@##","metaAccessToken":"47638463sdcececwerve","metaAppId":"1234567890!"},"details":[{"message":"ID is required.","path":["businessProfileId"],"type":"any.required","context":{"label":"Business Profile ID","key":"businessProfileId"}},{"message":"ID is required.","path":["userId"],"type":"any.required","context":{"label":"User ID","key":"userId"}},{"message":"ID is required.","path":["tenantId"],"type":"any.required","context":{"label":"Tenant ID","key":"tenantId"}},{"message":"Name must not contain special characters.","path":["name"],"type":"string.pattern.base","context":{"regex":{},"value":"jfevekf@@##","label":"name","key":"name"}},{"message":"Meta App ID should contain only numbers.","path":["metaAppId"],"type":"string.pattern.base","context":{"regex":{},"value":"1234567890!","label":"metaAppId","key":"metaAppId"}}]}
+[25/7/2025, 16:16:09] Validating body: {"_original":{"name":"jfevekf@@##","metaAccessToken":"47638463sdcececwerve","metaAppId":"1234567890!"},"details":[{"message":"ID is required.","path":["businessProfileId"],"type":"any.required","context":{"label":"Business Profile ID","key":"businessProfileId"}},{"message":"ID is required.","path":["userId"],"type":"any.required","context":{"label":"User ID","key":"userId"}},{"message":"ID is required.","path":["tenantId"],"type":"any.required","context":{"label":"Tenant ID","key":"tenantId"}},{"message":"Name must not contain special characters.","path":["name"],"type":"string.pattern.base","context":{"regex":{},"value":"jfevekf@@##","label":"name","key":"name"}},{"message":"Meta App ID should contain only numbers.","path":["metaAppId"],"type":"string.pattern.base","context":{"regex":{},"value":"1234567890!","label":"metaAppId","key":"metaAppId"}}]}
+[25/7/2025, 16:17:59] Server running on port 5001
+[25/7/2025, 16:18:00] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 16:18:03] Server running on port 5001
+[25/7/2025, 16:18:04] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 16:18:06] Validating body: {"_original":{"name":"jfevekf@@##","metaAccessToken":"47638463sdcececwerve","metaAppId":"1234567890!"},"details":[{"message":"_id is required.","path":["businessProfileId"],"type":"any.required","context":{"label":"businessProfileId","key":"businessProfileId"}},{"message":"userId is required.","path":["userId"],"type":"any.required","context":{"label":"userId","key":"userId"}},{"message":"tenantId is required.","path":["tenantId"],"type":"any.required","context":{"label":"tenantId","key":"tenantId"}},{"message":"Name must not contain special characters.","path":["name"],"type":"string.pattern.base","context":{"regex":{},"value":"jfevekf@@##","label":"name","key":"name"}},{"message":"Meta App ID should contain only numbers.","path":["metaAppId"],"type":"string.pattern.base","context":{"regex":{},"value":"1234567890!","label":"metaAppId","key":"metaAppId"}}]}
+[25/7/2025, 16:18:38] Server running on port 5001
+[25/7/2025, 16:18:39] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 16:20:46] Server running on port 5001
+[25/7/2025, 16:20:47] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 16:22:47] Server running on port 5001
+[25/7/2025, 16:22:48] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[25/7/2025, 16:26:26] Server running on port 5001
+[25/7/2025, 16:26:27] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 16:35:40] Server running on port 5001
+[25/7/2025, 16:35:41] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 17:02:31] Server running on port 5001
+[25/7/2025, 17:02:33] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 17:03:40] Server running on port 5001
+[25/7/2025, 17:03:41] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[25/7/2025, 17:03:47] Server running on port 5001
+[25/7/2025, 17:03:48] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[25/7/2025, 17:03:49] Server running on port 5001
+[25/7/2025, 17:03:50] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:35:39] Server running on port 5001
+[27/7/2025, 14:35:40] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:35:51] Validating body: {"_original":{"name":"","metaAccessToken":"","metaAppId":""},"details":[{"message":"_id is required.","path":["businessProfileId"],"type":"any.required","context":{"label":"businessProfileId","key":"businessProfileId"}},{"message":"userId is required.","path":["userId"],"type":"any.required","context":{"label":"userId","key":"userId"}},{"message":"tenantId is required.","path":["tenantId"],"type":"any.required","context":{"label":"tenantId","key":"tenantId"}},{"message":"\"name\" is not allowed to be empty","path":["name"],"type":"string.empty","context":{"label":"name","value":"","key":"name"}},{"message":"\"metaAccessToken\" is not allowed to be empty","path":["metaAccessToken"],"type":"string.empty","context":{"label":"metaAccessToken","value":"","key":"metaAccessToken"}},{"message":"\"metaAppId\" is not allowed to be empty","path":["metaAppId"],"type":"string.empty","context":{"label":"metaAppId","value":"","key":"metaAppId"}}]}
+[27/7/2025, 14:35:56] Server running on port 5001
+[27/7/2025, 14:35:57] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:35:59] Validating body: {"_original":{"name":"","metaAccessToken":"","metaAppId":""},"details":[{"message":"_id is required.","path":["businessProfileId"],"type":"any.required","context":{"label":"businessProfileId","key":"businessProfileId"}},{"message":"userId is required.","path":["userId"],"type":"any.required","context":{"label":"userId","key":"userId"}},{"message":"tenantId is required.","path":["tenantId"],"type":"any.required","context":{"label":"tenantId","key":"tenantId"}},{"message":"\"name\" is not allowed to be empty","path":["name"],"type":"string.empty","context":{"label":"name","value":"","key":"name"}},{"message":"\"metaAccessToken\" is not allowed to be empty","path":["metaAccessToken"],"type":"string.empty","context":{"label":"metaAccessToken","value":"","key":"metaAccessToken"}},{"message":"\"metaAppId\" is not allowed to be empty","path":["metaAppId"],"type":"string.empty","context":{"label":"metaAppId","value":"","key":"metaAppId"}}]}
+[27/7/2025, 14:36:11] Server running on port 5001
+[27/7/2025, 14:36:11] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:36:15] Server running on port 5001
+[27/7/2025, 14:36:16] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:36:17] Server running on port 5001
+[27/7/2025, 14:36:18] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:36:53] Server running on port 5001
+[27/7/2025, 14:36:53] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:37:39] Server running on port 5001
+[27/7/2025, 14:37:39] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:38:37] Server running on port 5001
+[27/7/2025, 14:38:38] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:38:55] Server running on port 5001
+[27/7/2025, 14:38:55] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:39:07] Server running on port 5001
+[27/7/2025, 14:39:08] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:39:14] Validating body: {"_original":{"name":"dsdkjbvlkvbw!","metaAccessToken":"d","metaAppId":"d"},"details":[{"message":"Name must not contain special characters.","path":["name"],"type":"string.pattern.base","context":{"regex":{},"value":"dsdkjbvlkvbw!","label":"name","key":"name"}},{"message":"Meta App ID should contain only numbers.","path":["metaAppId"],"type":"string.pattern.base","context":{"regex":{},"value":"d","label":"metaAppId","key":"metaAppId"}}]}
+[27/7/2025, 14:39:41] Server running on port 5001
+[27/7/2025, 14:39:42] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:39:47] Validating body: {"_original":{"name":"dsdkjbvlkvbw!","metaAccessToken":"d","metaAppId":"d"},"details":[{"message":"Name must not contain special characters.","path":["name"],"type":"string.pattern.base","context":{"regex":{},"value":"dsdkjbvlkvbw!","label":"name","key":"name"}},{"message":"Meta App ID should contain only numbers.","path":["metaAppId"],"type":"string.pattern.base","context":{"regex":{},"value":"d","label":"metaAppId","key":"metaAppId"}}]}
+[27/7/2025, 14:39:52] Validating body: {"_original":{"name":"dsdkjbvlkvbw!","metaAccessToken":"d","metaAppId":"1"},"details":[{"message":"Name must not contain special characters.","path":["name"],"type":"string.pattern.base","context":{"regex":{},"value":"dsdkjbvlkvbw!","label":"name","key":"name"}}]}
+[27/7/2025, 14:39:56] Validating body: 
+[27/7/2025, 14:40:13] Server running on port 5001
+[27/7/2025, 14:40:14] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:40:16] Server running on port 5001
+[27/7/2025, 14:40:16] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:40:19] Server running on port 5001
+[27/7/2025, 14:40:20] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:40:28] Server running on port 5001
+[27/7/2025, 14:40:28] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:42:46] Server running on port 5001
+[27/7/2025, 14:42:47] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:42:59] Server running on port 5001
+[27/7/2025, 14:43:00] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:43:17] Server running on port 5001
+[27/7/2025, 14:43:17] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:45:00] Server running on port 5001
+[27/7/2025, 14:45:01] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:46:30] Server running on port 5001
+[27/7/2025, 14:46:30] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:46:39] Server running on port 5001
+[27/7/2025, 14:46:40] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:46:51] Server running on port 5001
+[27/7/2025, 14:46:52] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:46:57] Server running on port 5001
+[27/7/2025, 14:46:58] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:47:14] Server running on port 5001
+[27/7/2025, 14:47:14] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:47:25] Validating body: 
+[27/7/2025, 14:47:57] Server running on port 5001
+[27/7/2025, 14:47:58] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:48:03] Validating body: 
+[27/7/2025, 14:48:40] Server running on port 5001
+[27/7/2025, 14:48:40] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:48:42] Validating body: 
+[27/7/2025, 14:49:38] Server running on port 5001
+[27/7/2025, 14:49:38] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:49:40] Validating body: 
+[27/7/2025, 14:49:40] Update BusinessProfile request: {"name":"dsdkjbvlkvbw","metaAccessToken":"d","metaAppId":"1"}
+[27/7/2025, 14:49:50] Server running on port 5001
+[27/7/2025, 14:49:50] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:50:48] Server running on port 5001
+[27/7/2025, 14:50:49] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:50:51] Validating body: 
+[27/7/2025, 14:50:51] Business profile updated successfully: {"_id":"6883158c56c226c3bf35938c","userId":"6883153a56c226c3bf359370","tenantId":"685a4c632a36a49fac5ab710","name":"dsdkjbvlkvbw","businessAddress":"","metaAccessToken":"d","metaAppId":"1","metaBusinessId":"1220709106476133","isDefault":false,"createdAt":"2025-07-25T05:26:36.882Z","updatedAt":"2025-07-27T09:20:51.364Z","__v":0}
+[27/7/2025, 14:51:00] Server running on port 5001
+[27/7/2025, 14:51:01] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 14:51:51] Validating body: 
+[27/7/2025, 14:53:07] Server running on port 5001
+[27/7/2025, 14:53:08] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:53:15] Server running on port 5001
+[27/7/2025, 14:53:15] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:53:41] Server running on port 5001
+[27/7/2025, 14:53:42] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:55:00] Server running on port 5001
+[27/7/2025, 14:55:01] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[27/7/2025, 14:55:07] Update BusinessProfile data: {"status":200,"success":true,"message":"Business Profile updated successfully.","data":{"_id":"6883158c56c226c3bf35938c","userId":"6883153a56c226c3bf359370","tenantId":"685a4c632a36a49fac5ab710","name":"dsdkjbvlkvbw","businessAddress":"","metaAccessToken":"d","metaAppId":"1","metaBusinessId":"1220709106476133","isDefault":false,"createdAt":"2025-07-25T05:26:36.882Z","updatedAt":"2025-07-27T09:25:07.503Z","__v":0}}
+[27/7/2025, 14:55:56] Server running on port 5001
+[27/7/2025, 14:55:57] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[27/7/2025, 14:56:08] Server running on port 5001
+[27/7/2025, 14:56:08] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[27/7/2025, 15:06:32] Server running on port 5001
+[27/7/2025, 15:06:33] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 15:50:56] Server running on port 5001
+[28/7/2025, 15:50:57] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 15:52:08] Server running on port 5001
+[28/7/2025, 15:52:08] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 15:52:19] Server running on port 5001
+[28/7/2025, 15:52:20] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 15:54:11] Server running on port 5001
+[28/7/2025, 15:54:12] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 15:54:18] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"fields"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"fields","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 15:54:18] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"contactList"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"contactList","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 15:54:20] Fetched 1 templates for page 1 of 1
+[28/7/2025, 15:54:59] Server running on port 5001
+[28/7/2025, 15:55:00] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 15:55:07] Server running on port 5001
+[28/7/2025, 15:55:08] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 15:55:45] Server running on port 5001
+[28/7/2025, 15:55:45] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 15:56:27] Server running on port 5001
+[28/7/2025, 15:56:27] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 15:57:39] Server running on port 5001
+[28/7/2025, 15:57:40] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 15:57:50] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"contactList"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"contactList","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 15:57:50] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"fields"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"fields","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 15:58:03] Fetched 1 templates for page 1 of 1
+[28/7/2025, 15:58:05] Fetched 1 templates for page 1 of 1
+[28/7/2025, 15:58:07] Fetched 1 templates for page 1 of 1
+[28/7/2025, 15:58:11] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"contactList"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"contactList","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 15:58:11] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"fields"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"fields","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 16:12:26] Server running on port 5001
+[28/7/2025, 16:12:27] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:13:16] Fetched 1 templates for page 1 of 1
+[28/7/2025, 16:13:56] Server running on port 5001
+[28/7/2025, 16:13:57] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:14:27] Server running on port 5001
+[28/7/2025, 16:14:28] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:15:53] Server running on port 5001
+[28/7/2025, 16:15:53] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:16:24] Server running on port 5001
+[28/7/2025, 16:16:25] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:16:46] Server running on port 5001
+[28/7/2025, 16:16:46] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:16:57] Server running on port 5001
+[28/7/2025, 16:16:58] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:17:24] Server running on port 5001
+[28/7/2025, 16:17:24] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:17:59] Server running on port 5001
+[28/7/2025, 16:18:00] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:18:46] Server running on port 5001
+[28/7/2025, 16:18:47] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:19:27] Server running on port 5001
+[28/7/2025, 16:19:28] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:20:01] Server running on port 5001
+[28/7/2025, 16:20:02] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:22:31] Server running on port 5001
+[28/7/2025, 16:22:32] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:22:44] Server running on port 5001
+[28/7/2025, 16:22:44] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:23:49] Server running on port 5001
+[28/7/2025, 16:23:50] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:24:20] Server running on port 5001
+[28/7/2025, 16:24:20] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:29:40] Server running on port 5001
+[28/7/2025, 16:29:42] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:29:56] Server running on port 5001
+[28/7/2025, 16:29:56] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:32:37] Server running on port 5001
+[28/7/2025, 16:32:38] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:32:42] Server running on port 5001
+[28/7/2025, 16:32:43] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:33:12] Server running on port 5001
+[28/7/2025, 16:33:13] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:33:48] Server running on port 5001
+[28/7/2025, 16:33:49] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:34:06] Server running on port 5001
+[28/7/2025, 16:34:06] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:35:26] Server running on port 5001
+[28/7/2025, 16:35:27] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:39:09] Server running on port 5001
+[28/7/2025, 16:39:10] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:39:21] Server running on port 5001
+[28/7/2025, 16:39:22] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:40:56] Server running on port 5001
+[28/7/2025, 16:40:56] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:41:06] Multi-archive request for group IDs: {"ids":["68873a1d3803284e7d52ea56"]}
+[28/7/2025, 16:42:03] Server running on port 5001
+[28/7/2025, 16:42:04] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:42:17] Server running on port 5001
+[28/7/2025, 16:42:18] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:42:28] Bulk delete request for contact IDs: ["68873a323803284e7d52ea68"]
+[28/7/2025, 16:43:23] Bulk delete request for contact IDs: ["68875b36a53e2abde3090bae","68875b4ea53e2abde3090bbc"]
+[28/7/2025, 16:44:49] Server running on port 5001
+[28/7/2025, 16:44:51] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:47:27] Server running on port 5001
+[28/7/2025, 16:47:28] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:48:39] Server running on port 5001
+[28/7/2025, 16:48:39] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:51:10] Multi-archive request for group IDs: {"ids":["68875d1abae7a15b7ea4709a"]}
+[28/7/2025, 16:52:21] Server running on port 5001
+[28/7/2025, 16:52:22] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:53:36] Server running on port 5001
+[28/7/2025, 16:53:36] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 16:53:38] Server running on port 5001
+[28/7/2025, 16:53:38] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:54:21] 📌 Group IDs for contact: []
+[28/7/2025, 16:56:06] Server running on port 5001
+[28/7/2025, 16:56:06] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:56:12] 📌 Existing groups found: []
+[28/7/2025, 16:56:12] 📌 Group IDs for contact: []
+[28/7/2025, 16:56:44] Server running on port 5001
+[28/7/2025, 16:56:45] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 16:57:34] 📌 Existing groups found: []
+[28/7/2025, 16:57:34] 📌 Group IDs for contact: []
+[28/7/2025, 16:58:02] Server running on port 5001
+[28/7/2025, 16:58:03] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 16:58:11] Bulk delete request for contact IDs: ["68875d952ad0749adc987639","68875d952ad0749adc98763a","68875d952ad0749adc98763b"]
+[28/7/2025, 16:58:57] 📌 Existing groups found: []
+[28/7/2025, 16:58:57] 📌 Group IDs for contact: []
+[28/7/2025, 17:00:43] Server running on port 5001
+[28/7/2025, 17:00:45] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 17:01:17] A user connected: 13m1VuqI5lyelG3XAAAC
+[28/7/2025, 17:01:17] A user connected: MpJ_wvCV8mp1mTm5AAAD
+[28/7/2025, 17:01:18] A user connected: AsqokCGxfECB3Tc_AAAF
+[28/7/2025, 17:01:25] User disconnected: 13m1VuqI5lyelG3XAAAC
+[28/7/2025, 17:01:25] User disconnected: AsqokCGxfECB3Tc_AAAF
+[28/7/2025, 17:01:25] User disconnected: MpJ_wvCV8mp1mTm5AAAD
+[28/7/2025, 17:01:25] A user connected: 0GaV3W4dmaTGVJQbAAAI
+[28/7/2025, 17:01:25] A user connected: lYFZm_FSUDrE2zTLAAAK
+[28/7/2025, 17:01:25] A user connected: UTaPFrOWelcT6ME6AAAL
+[28/7/2025, 17:01:26] User disconnected: 0GaV3W4dmaTGVJQbAAAI
+[28/7/2025, 17:01:26] User disconnected: UTaPFrOWelcT6ME6AAAL
+[28/7/2025, 17:01:26] User disconnected: lYFZm_FSUDrE2zTLAAAK
+[28/7/2025, 17:01:27] A user connected: FaXN2imGtzT-miXjAAAO
+[28/7/2025, 17:01:27] A user connected: HYSPXE4PGs6eISsVAAAP
+[28/7/2025, 17:01:27] A user connected: cHTP5AFglOu6mr-vAAAR
+[28/7/2025, 17:01:30] 📌 Resolving group names to IDs: ["gp1"]
+[28/7/2025, 17:01:30] 📌 Tenant ID: "68870730cf57d11281eb4363" User ID: "688726580f70016036a6af53"
+[28/7/2025, 17:01:30] 📌 Existing groups found: []
+[28/7/2025, 17:01:30] 📌 Group IDs for contact: []
+[28/7/2025, 17:01:45] User disconnected: HYSPXE4PGs6eISsVAAAP
+[28/7/2025, 17:01:45] User disconnected: FaXN2imGtzT-miXjAAAO
+[28/7/2025, 17:01:45] User disconnected: cHTP5AFglOu6mr-vAAAR
+[28/7/2025, 17:01:45] A user connected: L2Bq7IFjZMNj24VzAAAU
+[28/7/2025, 17:01:45] A user connected: X0GFEqThyviad9oNAAAV
+[28/7/2025, 17:01:45] A user connected: aEzx7FPvHjn27yFOAAAX
+[28/7/2025, 17:02:01] User disconnected: L2Bq7IFjZMNj24VzAAAU
+[28/7/2025, 17:02:01] User disconnected: aEzx7FPvHjn27yFOAAAX
+[28/7/2025, 17:02:01] User disconnected: X0GFEqThyviad9oNAAAV
+[28/7/2025, 17:02:01] A user connected: As2nhLoG_GZoP39OAAAa
+[28/7/2025, 17:02:01] A user connected: CyQCSLFESUkKVbj_AAAb
+[28/7/2025, 17:02:01] A user connected: UlZX__LgjcjWaJn4AAAd
+[28/7/2025, 17:02:11] A user connected: edSKjZaZ0PK71N4QAAAh
+[28/7/2025, 17:02:11] A user connected: UE0o478WTIl6zMrHAAAi
+[28/7/2025, 17:02:11] A user connected: bBfi688jfXyUSuMaAAAj
+[28/7/2025, 17:02:35] Server running on port 5001
+[28/7/2025, 17:02:36] A user connected: AjPtJYTXtTyAR3gAAAAC
+[28/7/2025, 17:02:36] A user connected: e2C90YS4bGhxAMVLAAAD
+[28/7/2025, 17:02:36] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:02:37] A user connected: rb1so7WB04KD1a5XAAAF
+[28/7/2025, 17:02:37] A user connected: oJZYLSUw6W-oq0OZAAAH
+[28/7/2025, 17:02:37] A user connected: 6ttStc6tWocgQRs3AAAJ
+[28/7/2025, 17:02:38] A user connected: Ucxl_KI8R6IVONMOAAAL
+[28/7/2025, 17:02:46] Bulk delete request for contact IDs: ["68875f92eb32e879a7bfe9b1","68875f92eb32e879a7bfe9b2","68875f92eb32e879a7bfe9b3"]
+[28/7/2025, 17:02:51] User disconnected: e2C90YS4bGhxAMVLAAAD
+[28/7/2025, 17:02:51] User disconnected: 6ttStc6tWocgQRs3AAAJ
+[28/7/2025, 17:02:51] User disconnected: rb1so7WB04KD1a5XAAAF
+[28/7/2025, 17:02:53] User disconnected: AjPtJYTXtTyAR3gAAAAC
+[28/7/2025, 17:02:53] User disconnected: Ucxl_KI8R6IVONMOAAAL
+[28/7/2025, 17:02:53] User disconnected: oJZYLSUw6W-oq0OZAAAH
+[28/7/2025, 17:03:13] 📌 Resolving group names to IDs: ["gp1"]
+[28/7/2025, 17:03:13] 📌 Tenant ID: "68870730cf57d11281eb4363" User ID: "688726580f70016036a6af53"
+[28/7/2025, 17:03:13] 📌 Existing groups found: [{"_id":"68875ae4044d713eaceb28f8","tenantId":"68870730cf57d11281eb4363","userId":"688726580f70016036a6af53","projectId":"688737673803284e7d52e8ea","title":"gp1","description":"dsc","isActive":true,"createdAt":"2025-07-28T11:11:32.054Z","updatedAt":"2025-07-28T11:11:32.058Z","__v":0}]
+[28/7/2025, 17:03:13] 📌 Group IDs for contact: ["68875ae4044d713eaceb28f8"]
+[28/7/2025, 17:03:51] Server running on port 5001
+[28/7/2025, 17:03:52] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:20:51] Fetched 1 templates for page 1 of 1
+[28/7/2025, 17:21:11] Bulk delete request for contact IDs: ["68876389df38856c520caf74"]
+[28/7/2025, 17:26:05] Server running on port 5001
+[28/7/2025, 17:26:06] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 12:40:19] Server running on port 5001
+[28/7/2025, 12:40:20] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 12:40:30] Server running on port 5001
+[28/7/2025, 12:40:31] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 12:42:10] Server running on port 5001
+[28/7/2025, 12:42:11] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:42:24] Server running on port 5001
+[28/7/2025, 12:42:24] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:42:40] Server running on port 5001
+[28/7/2025, 12:42:40] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:42:51] Server running on port 5001
+[28/7/2025, 12:42:52] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 12:42:54] Server running on port 5001
+[28/7/2025, 12:42:55] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:43:37] Server running on port 5001
+[28/7/2025, 12:43:38] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:49:54] Server running on port 5001
+[28/7/2025, 12:49:55] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 12:50:25] Server running on port 5001
+[28/7/2025, 12:50:26] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 12:51:12] Server running on port 5001
+[28/7/2025, 12:51:13] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 12:52:14] Server running on port 5001
+[28/7/2025, 12:52:16] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 12:52:38] Server running on port 5001
+[28/7/2025, 12:52:39] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 12:52:58] Server running on port 5001
+[28/7/2025, 12:52:58] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:53:31] Server running on port 5001
+[28/7/2025, 12:53:31] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:53:37] Server running on port 5001
+[28/7/2025, 12:53:38] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:53:41] Server running on port 5001
+[28/7/2025, 12:53:42] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 12:54:41] Server running on port 5001
+[28/7/2025, 12:54:41] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 12:55:10] Server running on port 5001
+[28/7/2025, 12:55:10] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 12:55:14] Server running on port 5001
+[28/7/2025, 12:55:14] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:55:29] Server running on port 5001
+[28/7/2025, 12:55:29] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 12:56:13] Server running on port 5001
+[28/7/2025, 12:56:14] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 12:58:08] Server running on port 5001
+[28/7/2025, 12:58:09] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:58:10] User found: null
+[28/7/2025, 12:58:54] Server running on port 5001
+[28/7/2025, 12:58:55] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 12:59:08] Server running on port 5001
+[28/7/2025, 12:59:09] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 12:59:34] Server running on port 5001
+[28/7/2025, 12:59:35] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 12:59:57] Server running on port 5001
+[28/7/2025, 12:59:57] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 13:56:55] Server running on port 5001
+[28/7/2025, 13:56:56] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 14:08:24] Server running on port 5001
+[28/7/2025, 14:08:26] Server running on port 5001
+[28/7/2025, 14:08:26] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 14:33:55] Server running on port 5001
+[28/7/2025, 14:33:56] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 14:34:21] Logout token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ODcyNjU4MGY3MDAxNjAzNmE2YWY1MyIsImlhdCI6MTc1MzY5Mjg0NSwiZXhwIjoxNzU2Mjg0ODQ1fQ.Oyh6skBiZHLRrlbdNawuL8xkPFEjHsSfo8buFeB4fwc
+[28/7/2025, 14:34:21] Decoded token: {"id":"688726580f70016036a6af53","iat":1753692845,"exp":1756284845}
+[28/7/2025, 14:34:21] Blacklisted token: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ODcyNjU4MGY3MDAxNjAzNmE2YWY1MyIsImlhdCI6MTc1MzY5Mjg0NSwiZXhwIjoxNzU2Mjg0ODQ1fQ.Oyh6skBiZHLRrlbdNawuL8xkPFEjHsSfo8buFeB4fwc","expiresAt":"2025-08-27T08:54:05.000Z","_id":"68873d151ce4cc4c048de0c4","__v":0}
+[28/7/2025, 14:34:45] token "688726580f70016036a6af53" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 14:35:20] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"contactList"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"contactList","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 14:35:20] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"fields"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"fields","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 14:35:24] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"contactList"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"contactList","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 14:35:24] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"fields"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"fields","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 14:35:27] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"contactList"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"contactList","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 14:35:27] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"fields"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"fields","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 14:35:47] Logout token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ODcyNjU4MGY3MDAxNjAzNmE2YWY1MyIsImVtYWlsIjoiZGlsaXAwNjIyOEBnbWFpbC5jb20iLCJpYXQiOjE3NTM2OTM0ODUsImV4cCI6MTc1NDI5ODI4NX0.4jl_2ohRu_fKV4w0c2jtiSIfMGKVSRyiz4dEGGf1N8U
+[28/7/2025, 14:35:47] Decoded token: {"id":"688726580f70016036a6af53","email":"dilip06228@gmail.com","iat":1753693485,"exp":1754298285}
+[28/7/2025, 14:35:47] Blacklisted token: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ODcyNjU4MGY3MDAxNjAzNmE2YWY1MyIsImVtYWlsIjoiZGlsaXAwNjIyOEBnbWFpbC5jb20iLCJpYXQiOjE3NTM2OTM0ODUsImV4cCI6MTc1NDI5ODI4NX0.4jl_2ohRu_fKV4w0c2jtiSIfMGKVSRyiz4dEGGf1N8U","expiresAt":"2025-08-04T09:04:45.000Z","_id":"68873d6b1ce4cc4c048de160","__v":0}
+[28/7/2025, 14:35:53] token "688726580f70016036a6af53" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 14:37:37] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"fields"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"fields","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 14:37:37] Validating $ {"_original":{"projectId":"688737673803284e7d52e8ea","contactId":"contactList"},"details":[{"message":"Invalid ObjectId","path":["contactId"],"type":"custom","context":{"label":"contactId","value":"contactList","key":"contactId"}},{"message":"\"projectId\" is not allowed","path":["projectId"],"type":"object.unknown","context":{"child":"projectId","label":"projectId","value":"688737673803284e7d52e8ea","key":"projectId"}}]}
+[28/7/2025, 14:37:40] Fetched 1 templates for page 1 of 1
+[28/7/2025, 14:37:44] Meta API response for template sync: {"data":[{"name":"hello_world","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Hello World"},{"type":"BODY","text":"Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us."},{"type":"FOOTER","text":"WhatsApp Business Platform sample message"}],"language":"en_US","status":"APPROVED","category":"UTILITY","id":"2492593544437655"}],"paging":{"cursors":{"before":"MAZDZD","after":"MjQZD"}}}
+[28/7/2025, 14:37:44] Processing Meta template: hello_world (en_US)
+[28/7/2025, 14:37:44] Fetched 1 templates for page 1 of 1
+[28/7/2025, 14:49:26] Server running on port 5001
+[28/7/2025, 14:49:27] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 14:50:03] Server running on port 5001
+[28/7/2025, 14:50:03] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:32:10] Server running on port 5001
+[28/7/2025, 17:32:11] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:32:43] Server running on port 5001
+[28/7/2025, 17:32:43] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:32:45] Server running on port 5001
+[28/7/2025, 17:32:46] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:32:48] Server running on port 5001
+[28/7/2025, 17:32:49] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:33:54] Server running on port 5001
+[28/7/2025, 17:33:55] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 17:34:07] Server running on port 5001
+[28/7/2025, 17:34:08] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:35:00] Bulk delete request for contact IDs: ["68875ff912ff12a64ae72358"]
+[28/7/2025, 17:35:18] Bulk delete request for contact IDs: ["688762b0df38856c520caf59","688764dbdf38856c520cb01d","68875ff912ff12a64ae72359","68875ff912ff12a64ae7235a"]
+[28/7/2025, 17:35:38] Server running on port 5001
+[28/7/2025, 17:35:39] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:36:02] Server running on port 5001
+[28/7/2025, 17:36:02] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:36:06] Server running on port 5001
+[28/7/2025, 17:36:07] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:36:12] Bulk delete request for contact IDs: ["688767a40361e402e7dd1a76"]
+[28/7/2025, 17:37:05] Server running on port 5001
+[28/7/2025, 17:37:06] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:37:42] Bulk delete request for contact IDs: ["688767a40361e402e7dd1a76","688767a40361e402e7dd1a77"]
+[28/7/2025, 17:39:24] Server running on port 5001
+[28/7/2025, 17:39:25] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:40:30] Multi-archive request for group IDs: {"ids":["68876044df38856c520cae73"]}
+[28/7/2025, 17:41:14] Server running on port 5001
+[28/7/2025, 17:41:16] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 17:41:18] Bulk delete request for contact IDs: ["688767a40361e402e7dd1a78"]
+[28/7/2025, 17:42:32] Server running on port 5001
+[28/7/2025, 17:42:32] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:44:12] Server running on port 5001
+[28/7/2025, 17:44:13] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 17:44:31] Server running on port 5001
+[28/7/2025, 17:44:31] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:44:42] Server running on port 5001
+[28/7/2025, 17:44:42] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:44:58] Server running on port 5001
+[28/7/2025, 17:44:58] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:45:18] Server running on port 5001
+[28/7/2025, 17:45:19] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 17:45:37] Server running on port 5001
+[28/7/2025, 17:45:38] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 17:45:42] Server running on port 5001
+[28/7/2025, 17:45:43] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:45:48] Server running on port 5001
+[28/7/2025, 17:45:48] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:47:00] token "6887138c5ce662ddebdba1f4" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 17:53:47] Server running on port 5001
+[28/7/2025, 17:53:48] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:54:09] Server running on port 5001
+[28/7/2025, 17:54:09] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:54:23] Server running on port 5001
+[28/7/2025, 17:54:24] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:54:51] Server running on port 5001
+[28/7/2025, 17:54:51] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:55:27] Server running on port 5001
+[28/7/2025, 17:55:27] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 17:57:04] Server running on port 5001
+[28/7/2025, 17:57:06] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:57:11] Server running on port 5001
+[28/7/2025, 17:57:11] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 17:57:47] Server running on port 5001
+[28/7/2025, 17:57:48] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:58:24] Server running on port 5001
+[28/7/2025, 17:58:25] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 17:58:34] Server running on port 5001
+[28/7/2025, 17:58:34] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:58:52] Server running on port 5001
+[28/7/2025, 17:58:52] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 17:58:57] Server running on port 5001
+[28/7/2025, 17:58:58] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 17:59:05] Server running on port 5001
+[28/7/2025, 17:59:06] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:04:03] Server running on port 5001
+[28/7/2025, 18:04:03] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:05:01] Server running on port 5001
+[28/7/2025, 18:05:01] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:07:19] Multi-archive request for group IDs: {"ids":["68876044df38856c520cae73"]}
+[28/7/2025, 18:08:28] token "688726580f70016036a6af53" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 18:09:11] Server running on port 5001
+[28/7/2025, 18:09:12] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:10:12] Server running on port 5001
+[28/7/2025, 18:10:13] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:10:41] Server running on port 5001
+[28/7/2025, 18:10:42] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:10:43] Server running on port 5001
+[28/7/2025, 18:10:44] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:10:50] Server running on port 5001
+[28/7/2025, 18:10:51] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:11:13] Server running on port 5001
+[28/7/2025, 18:11:14] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:11:53] token "688726580f70016036a6af53" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 18:12:34] Server running on port 5001
+[28/7/2025, 18:12:34] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:12:44] token "68876feb2f88cb967ea49a3e" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 18:13:04] Server running on port 5001
+[28/7/2025, 18:13:04] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:13:32] Multi-archive request for group IDs: {"ids":["6887706cad7b8247d2df110f"]}
+[28/7/2025, 18:14:31] Server running on port 5001
+[28/7/2025, 18:14:32] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:14:38] Bulk delete request for contact IDs: ["688770a7ad7b8247d2df118b"]
+[28/7/2025, 18:14:46] Server running on port 5001
+[28/7/2025, 18:14:46] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:14:53] Server running on port 5001
+[28/7/2025, 18:14:54] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:14:57] Server running on port 5001
+[28/7/2025, 18:14:58] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:15:01] Server running on port 5001
+[28/7/2025, 18:15:02] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:15:04] Server running on port 5001
+[28/7/2025, 18:15:05] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:15:11] Server running on port 5001
+[28/7/2025, 18:15:11] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:15:17] Server running on port 5001
+[28/7/2025, 18:15:17] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:15:20] Server running on port 5001
+[28/7/2025, 18:15:21] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:15:23] Server running on port 5001
+[28/7/2025, 18:15:23] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:15:24] token "68876feb2f88cb967ea49a3e" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 18:15:26] Server running on port 5001
+[28/7/2025, 18:15:26] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:15:29] Server running on port 5001
+[28/7/2025, 18:15:30] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:15:32] Server running on port 5001
+[28/7/2025, 18:15:32] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:15:35] Server running on port 5001
+[28/7/2025, 18:15:35] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:15:38] Server running on port 5001
+[28/7/2025, 18:15:38] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:15:41] Server running on port 5001
+[28/7/2025, 18:15:42] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:15:44] Server running on port 5001
+[28/7/2025, 18:15:45] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:15:52] Server running on port 5001
+[28/7/2025, 18:15:52] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:15:56] Server running on port 5001
+[28/7/2025, 18:15:57] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:16:01] Server running on port 5001
+[28/7/2025, 18:16:02] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:16:03] token "68876feb2f88cb967ea49a3e" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 18:16:04] Server running on port 5001
+[28/7/2025, 18:16:04] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:16:10] Server running on port 5001
+[28/7/2025, 18:16:11] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:17:27] Server running on port 5001
+[28/7/2025, 18:17:27] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:17:28] token "68876feb2f88cb967ea49a3e" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 18:18:15] token "6887138c5ce662ddebdba1f4" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 18:18:16] Server running on port 5001
+[28/7/2025, 18:18:17] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:18:25] token "6887138c5ce662ddebdba1f4" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 18:18:28] Server running on port 5001
+[28/7/2025, 18:18:29] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[28/7/2025, 18:18:56] token "6887138c5ce662ddebdba1f4" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 18:20:07] Server running on port 5001
+[28/7/2025, 18:20:08] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:22:01] Server running on port 5001
+[28/7/2025, 18:22:02] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[28/7/2025, 18:22:08] Server running on port 5001
+[28/7/2025, 18:22:09] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:22:40] Server running on port 5001
+[28/7/2025, 18:22:40] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[28/7/2025, 18:34:58] token "6887138c5ce662ddebdba1f4" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[28/7/2025, 18:38:06] 🔐 [updateUser] Called
+[28/7/2025, 18:38:06] 🧾 [updateUser] Param User ID: 6887138c5ce662ddebdba1f4
+[28/7/2025, 18:38:06] 🧾 [updateUser] Token User ID: "6887138c5ce662ddebdba1f4"
+[28/7/2025, 18:38:06] 🧾 [updateUser] Tenant ID: "68870730cf57d11281eb4363"
+[28/7/2025, 18:38:06] 📥 [updateUser] Incoming Body: {"name":"yogesh","email":"yogesh@gmail.com","companySize":"","timezone":"","state":"RAJASTHAN","country":"India","industry":"","currency":"","firstName":"","lastName":"","gender":"","dob":"","profilePicture":""}
+[28/7/2025, 18:38:06] 🔍 [updateUser] Finding user with ID, tenantId, and email...
+[28/7/2025, 18:38:06] ✏️ [updateUser] Updating user fields...
+[28/7/2025, 18:38:06] ✅ [updateUser] User updated successfully
+[29/7/2025, 10:11:54] Server running on port 5001
+[29/7/2025, 10:11:55] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 10:12:00] A user connected: J2jMjKqaaNwW429eAAAB
+[29/7/2025, 10:12:03] A user connected: tmlouzdWdKRcFgWbAAAD
+[29/7/2025, 10:22:43] User disconnected: tmlouzdWdKRcFgWbAAAD
+[29/7/2025, 10:22:43] User disconnected: J2jMjKqaaNwW429eAAAB
+[29/7/2025, 10:22:46] A user connected: x9xDIIPc73kDfPJaAAAF
+[29/7/2025, 10:22:47] A user connected: k69MwmHv9mwnO7DDAAAH
+[29/7/2025, 10:27:53] A user connected: Lr31y4Xy-CmT8y77AAAK
+[29/7/2025, 10:27:53] A user connected: tFa6jWP9n2wpbIZhAAAL
+[29/7/2025, 10:28:25] User disconnected: Lr31y4Xy-CmT8y77AAAK
+[29/7/2025, 10:28:25] User disconnected: tFa6jWP9n2wpbIZhAAAL
+[29/7/2025, 10:28:27] A user connected: LrokwXrJeuUjWLM1AAAO
+[29/7/2025, 10:28:27] A user connected: 4YCr87QscKDB4Q36AAAP
+[29/7/2025, 10:31:13] User disconnected: 4YCr87QscKDB4Q36AAAP
+[29/7/2025, 10:31:13] User disconnected: LrokwXrJeuUjWLM1AAAO
+[29/7/2025, 10:31:16] A user connected: a3SggV5oU1596fx0AAAS
+[29/7/2025, 10:31:16] A user connected: p0S7uPLsh1YD0YEKAAAT
+[29/7/2025, 10:33:55] User disconnected: a3SggV5oU1596fx0AAAS
+[29/7/2025, 10:33:55] User disconnected: p0S7uPLsh1YD0YEKAAAT
+[29/7/2025, 10:33:58] A user connected: E0DWMNyVu-GnvC6lAAAW
+[29/7/2025, 10:33:58] A user connected: oFbY-4mn0POqvDhIAAAX
+[29/7/2025, 10:33:58] User disconnected: oFbY-4mn0POqvDhIAAAX
+[29/7/2025, 10:33:58] User disconnected: E0DWMNyVu-GnvC6lAAAW
+[29/7/2025, 10:34:03] User disconnected: x9xDIIPc73kDfPJaAAAF
+[29/7/2025, 10:34:03] User disconnected: k69MwmHv9mwnO7DDAAAH
+[29/7/2025, 10:34:07] A user connected: xw2R7Bf8Ul2qr1t6AAAZ
+[29/7/2025, 10:34:08] A user connected: VwCL1x54aLW1f_TqAAAb
+[29/7/2025, 10:36:47] A user connected: pYBw5w7u2aIDTqp7AAAe
+[29/7/2025, 10:36:47] A user connected: rfUKBPjyxV_wTF4TAAAf
+[29/7/2025, 10:38:35] User disconnected: VwCL1x54aLW1f_TqAAAb
+[29/7/2025, 10:38:35] User disconnected: xw2R7Bf8Ul2qr1t6AAAZ
+[29/7/2025, 10:38:37] A user connected: plTpMWvnQgRKhsKTAAAh
+[29/7/2025, 10:38:37] A user connected: eMPlUdjbv4_3J9-LAAAj
+[29/7/2025, 10:39:28] User disconnected: plTpMWvnQgRKhsKTAAAh
+[29/7/2025, 10:39:28] User disconnected: eMPlUdjbv4_3J9-LAAAj
+[29/7/2025, 10:40:27] A user connected: Tk0ZHZs1khspkRN6AAAm
+[29/7/2025, 10:40:27] A user connected: C6_Oiut7KQh0wU9JAAAn
+[29/7/2025, 10:40:31] User disconnected: rfUKBPjyxV_wTF4TAAAf
+[29/7/2025, 10:40:31] User disconnected: pYBw5w7u2aIDTqp7AAAe
+[29/7/2025, 10:40:37] A user connected: 3o6AGtWPjLf5wW-1AAAq
+[29/7/2025, 10:40:37] A user connected: yVmUnhLTisELjJFvAAAr
+[29/7/2025, 10:40:39] User disconnected: C6_Oiut7KQh0wU9JAAAn
+[29/7/2025, 10:40:39] User disconnected: Tk0ZHZs1khspkRN6AAAm
+[29/7/2025, 10:41:57] Server running on port 5001
+[29/7/2025, 10:41:59] A user connected: rqapYJXr5V6VWjspAAAB
+[29/7/2025, 10:41:59] A user connected: KZi6R-qudeUABEHlAAAD
+[29/7/2025, 10:42:00] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 10:42:02] Server running on port 5001
+[29/7/2025, 10:42:03] A user connected: OVKZr7XNtBqfshsKAAAB
+[29/7/2025, 10:42:03] A user connected: vDnP7yZDabYJ2fpSAAAD
+[29/7/2025, 10:42:03] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 10:42:06] Server running on port 5001
+[29/7/2025, 10:42:07] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 10:42:07] A user connected: NrcTydGymUiQ3IbeAAAB
+[29/7/2025, 10:42:08] A user connected: O4I_j7Yvr4eIzst9AAAD
+[29/7/2025, 10:42:23] Server running on port 5001
+[29/7/2025, 10:42:23] A user connected: UWO6-OhKWJWt7PK5AAAB
+[29/7/2025, 10:42:23] A user connected: kkWJdaXWb5eiQ9lsAAAD
+[29/7/2025, 10:42:26] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 10:42:29] Server running on port 5001
+[29/7/2025, 10:42:29] A user connected: xlxDuCDaTbW4pb_zAAAB
+[29/7/2025, 10:42:30] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 10:42:32] A user connected: IzD_8V7NnAnh_YBvAAAD
+[29/7/2025, 10:42:40] Server running on port 5001
+[29/7/2025, 10:42:40] A user connected: dcoZkEvxm3WAPW2yAAAB
+[29/7/2025, 10:42:40] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 10:42:42] A user connected: YJEi9Md7yFxBEV-kAAAD
+[29/7/2025, 10:42:51] Server running on port 5001
+[29/7/2025, 10:42:51] A user connected: fmEeJFr3fHJrdaNfAAAB
+[29/7/2025, 10:42:52] A user connected: ZKXvMxle7wIkzZRLAAAD
+[29/7/2025, 10:42:57] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 10:43:06] Server running on port 5001
+[29/7/2025, 10:43:06] A user connected: OVnl9CZzm-KBlMRuAAAB
+[29/7/2025, 10:43:07] A user connected: 5Em2KkRdipBstu5OAAAD
+[29/7/2025, 10:43:07] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 10:43:22] Server running on port 5001
+[29/7/2025, 10:43:22] A user connected: yoHj3X3n4ueEZ0onAAAB
+[29/7/2025, 10:43:22] A user connected: jL_Q4_C8v1m7AP89AAAD
+[29/7/2025, 10:43:23] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 10:43:46] Server running on port 5001
+[29/7/2025, 10:43:47] A user connected: WDoycgjnm5BFgKvmAAAB
+[29/7/2025, 10:43:47] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 10:43:48] A user connected: uYuBOBiiWIsYzz7OAAAD
+[29/7/2025, 10:43:50] Server running on port 5001
+[29/7/2025, 10:43:50] A user connected: NmnmacPPlPaM3o-zAAAB
+[29/7/2025, 10:43:51] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 10:43:52] A user connected: qgEMXp9EyXdWUQ1-AAAD
+[29/7/2025, 10:44:14] Server running on port 5001
+[29/7/2025, 10:44:14] A user connected: socrp67NDjnnr5VKAAAB
+[29/7/2025, 10:44:15] A user connected: dFXDYnzR1HRPCsXCAAAD
+[29/7/2025, 10:44:15] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 10:44:44] Server running on port 5001
+[29/7/2025, 10:44:44] A user connected: nd__MSySxH0EXHyPAAAB
+[29/7/2025, 10:44:44] A user connected: j60TxbPyVVciXib-AAAD
+[29/7/2025, 10:44:45] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 10:45:03] User disconnected: nd__MSySxH0EXHyPAAAB
+[29/7/2025, 10:45:03] User disconnected: j60TxbPyVVciXib-AAAD
+[29/7/2025, 10:45:03] A user connected: U_kJAsrBM_Wy6hhRAAAG
+[29/7/2025, 10:45:03] A user connected: CufhdpBLYMl-KF5GAAAH
+[29/7/2025, 10:45:20] User disconnected: U_kJAsrBM_Wy6hhRAAAG
+[29/7/2025, 10:45:20] User disconnected: CufhdpBLYMl-KF5GAAAH
+[29/7/2025, 10:45:21] A user connected: g0g6gwN1gjJjnMpxAAAK
+[29/7/2025, 10:45:21] A user connected: 4CN7Ir-oyyu5JShjAAAL
+[29/7/2025, 10:45:56] User disconnected: 4CN7Ir-oyyu5JShjAAAL
+[29/7/2025, 10:45:56] User disconnected: g0g6gwN1gjJjnMpxAAAK
+[29/7/2025, 10:45:59] A user connected: gwDgLTwJ6LenTIuBAAAO
+[29/7/2025, 10:45:59] A user connected: 8OsiDZwlYX8yTuA7AAAP
+[29/7/2025, 10:49:24] User disconnected: 8OsiDZwlYX8yTuA7AAAP
+[29/7/2025, 10:49:24] User disconnected: gwDgLTwJ6LenTIuBAAAO
+[29/7/2025, 10:49:27] A user connected: GeXDp0Wjs84pTJIZAAAS
+[29/7/2025, 10:49:27] A user connected: v39TkJnhrJ6kV_TSAAAT
+[29/7/2025, 10:51:55] User disconnected: GeXDp0Wjs84pTJIZAAAS
+[29/7/2025, 10:51:55] User disconnected: v39TkJnhrJ6kV_TSAAAT
+[29/7/2025, 10:51:58] A user connected: ODs085WE3o7UrWTzAAAW
+[29/7/2025, 10:51:58] A user connected: 90R6YfQDagMM6RDxAAAX
+[29/7/2025, 10:52:31] User disconnected: 90R6YfQDagMM6RDxAAAX
+[29/7/2025, 10:52:31] User disconnected: ODs085WE3o7UrWTzAAAW
+[29/7/2025, 10:52:33] A user connected: yRw9gh3PbQULdWRvAAAa
+[29/7/2025, 10:52:33] A user connected: KIsp5E00OUz2C1XfAAAb
+[29/7/2025, 10:53:15] User disconnected: yRw9gh3PbQULdWRvAAAa
+[29/7/2025, 10:53:15] User disconnected: KIsp5E00OUz2C1XfAAAb
+[29/7/2025, 10:57:56] A user connected: oV77YYJRMkfxoVrfAAAe
+[29/7/2025, 10:57:56] A user connected: 6X5Bq4ktEEdISfBPAAAf
+[29/7/2025, 10:58:58] User disconnected: oV77YYJRMkfxoVrfAAAe
+[29/7/2025, 10:58:58] User disconnected: 6X5Bq4ktEEdISfBPAAAf
+[29/7/2025, 10:59:00] A user connected: PRb2GhKaivj6o2saAAAi
+[29/7/2025, 10:59:00] A user connected: 7uN_Ahji_PBRmMhuAAAj
+[29/7/2025, 10:59:55] Server running on port 5001
+[29/7/2025, 10:59:57] A user connected: RlZVIaMrWv0VxJYoAAAB
+[29/7/2025, 10:59:57] A user connected: QGjBLvi1ib58R-zrAAAD
+[29/7/2025, 10:59:59] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 11:00:32] Server running on port 5001
+[29/7/2025, 11:00:32] A user connected: 3GNLpb_dqo2b44SPAAAB
+[29/7/2025, 11:00:32] A user connected: JOPR-qIMOu-_abbmAAAD
+[29/7/2025, 11:00:33] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 11:01:51] User disconnected: 3GNLpb_dqo2b44SPAAAB
+[29/7/2025, 11:01:51] User disconnected: JOPR-qIMOu-_abbmAAAD
+[29/7/2025, 11:01:53] A user connected: 8Eng--XfjYdaW1orAAAG
+[29/7/2025, 11:01:53] A user connected: ypbLNCrr2jmLb_dAAAAH
+[29/7/2025, 11:03:04] Server running on port 5001
+[29/7/2025, 11:03:04] A user connected: 2tc6ECJ3ya3di6zdAAAB
+[29/7/2025, 11:03:05] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 11:03:05] A user connected: sE6Brrxrlv2pj8BxAAAD
+[29/7/2025, 11:03:24] User disconnected: 2tc6ECJ3ya3di6zdAAAB
+[29/7/2025, 11:03:24] User disconnected: sE6Brrxrlv2pj8BxAAAD
+[29/7/2025, 11:03:26] A user connected: bNDxMuSAnAlEX_WsAAAG
+[29/7/2025, 11:03:26] A user connected: cjOob5sNx9YGUMzZAAAH
+[29/7/2025, 11:04:27] A user connected: oB-R0oR48nEOz5doAAAK
+[29/7/2025, 11:04:27] A user connected: IRbqMUnDfYzb8dNHAAAL
+[29/7/2025, 11:05:32] Server running on port 5001
+[29/7/2025, 11:05:32] A user connected: fM4d7mN-nFqlityZAAAB
+[29/7/2025, 11:05:32] A user connected: YR7fxDrjCbgSwj_JAAAD
+[29/7/2025, 11:05:32] A user connected: u9FNkHlwRD7ZWqdUAAAF
+[29/7/2025, 11:05:33] A user connected: peD8NPVuNp-HKfcoAAAH
+[29/7/2025, 11:05:33] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 11:06:35] User disconnected: u9FNkHlwRD7ZWqdUAAAF
+[29/7/2025, 11:06:35] User disconnected: YR7fxDrjCbgSwj_JAAAD
+[29/7/2025, 11:06:37] A user connected: 8OrSt1RDQRjbfxdhAAAK
+[29/7/2025, 11:06:37] A user connected: hDTscu6VeTfLHrDdAAAL
+[29/7/2025, 11:11:11] A user connected: 7UWob2lJZnLQc44cAAAN
+[29/7/2025, 11:12:43] User disconnected: fM4d7mN-nFqlityZAAAB
+[29/7/2025, 11:12:43] User disconnected: 7UWob2lJZnLQc44cAAAN
+[29/7/2025, 11:12:43] User disconnected: peD8NPVuNp-HKfcoAAAH
+[29/7/2025, 11:20:48] User disconnected: hDTscu6VeTfLHrDdAAAL
+[29/7/2025, 11:20:48] User disconnected: 8OrSt1RDQRjbfxdhAAAK
+[29/7/2025, 11:44:49] Server running on port 5001
+[29/7/2025, 11:44:52] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 11:45:00] Server running on port 5001
+[29/7/2025, 11:45:02] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 11:45:05] Server running on port 5001
+[29/7/2025, 11:45:06] Server running on port 5001
+[29/7/2025, 11:45:07] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 11:45:09] Server running on port 5001
+[29/7/2025, 11:45:11] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 11:49:24] A user connected: eZJJAyGrvHBkY_4gAAAC
+[29/7/2025, 11:49:24] A user connected: ZergICf25t0pHCtpAAAD
+[29/7/2025, 11:49:42] User disconnected: eZJJAyGrvHBkY_4gAAAC
+[29/7/2025, 11:49:42] User disconnected: ZergICf25t0pHCtpAAAD
+[29/7/2025, 11:49:45] A user connected: ZhyF2CdUQpO9VoeOAAAG
+[29/7/2025, 11:49:45] A user connected: 8kC0bXZXe1vn_0zlAAAH
+[29/7/2025, 11:49:50] User disconnected: ZhyF2CdUQpO9VoeOAAAG
+[29/7/2025, 11:49:50] User disconnected: 8kC0bXZXe1vn_0zlAAAH
+[29/7/2025, 11:49:52] A user connected: 5v6mOPklc8klEK9FAAAL
+[29/7/2025, 11:49:52] A user connected: u7E8Hf7iH23cfaaEAAAM
+[29/7/2025, 11:49:52] A user connected: OM-8WPCMhQpYZzqNAAAN
+[29/7/2025, 11:50:49] User disconnected: 5v6mOPklc8klEK9FAAAL
+[29/7/2025, 11:50:49] User disconnected: OM-8WPCMhQpYZzqNAAAN
+[29/7/2025, 11:50:49] User disconnected: u7E8Hf7iH23cfaaEAAAM
+[29/7/2025, 12:05:11] A user connected: b-6kOwJlviiPgw6IAAAR
+[29/7/2025, 12:05:11] A user connected: YMl7kQXrye8orqVsAAAS
+[29/7/2025, 12:05:11] A user connected: cEgAiVzxlFYoxh6TAAAT
+[29/7/2025, 12:06:28] token "688714615ce662ddebdba24d" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[29/7/2025, 12:06:42] Fetched 5 templates for page 1 of 1
+[29/7/2025, 12:06:44] Meta API response for template sync: {"data":[{"name":"hello_world","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Hello World"},{"type":"BODY","text":"Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us."},{"type":"FOOTER","text":"WhatsApp Business Platform sample message"}],"language":"en_US","status":"APPROVED","category":"UTILITY","id":"1910399639718840"},{"name":"button_template","parameter_format":"POSITIONAL","components":[{"type":"BODY","text":"Hello, This template is for testing purpose."},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}],"language":"en","status":"APPROVED","category":"MARKETING","sub_category":"CUSTOM","id":"2440442226336876"},{"name":"test_image","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/511440978_723645490451051_7874677363281472032_n.jpg?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=zvGRm3uUldAQ7kNvwEDVG1B&_nc_oc=AdmyzOdcsDRS4hHw7tx4y4z18Tbe-WSa9w3-UlhD7Lm7wMbLNgGGuK21Nfl-Fo3sYvmJaAbpsQD5eYEbwHmoFFoZ&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=A1RnGESI8Z07csJ3m9nLdg&oh=01_Q5Aa2AFz_zkQscu7otIrKA4ew3wIfoAEKH2uds60z8uoSuKkqQ&oe=68AFD38B"]}},{"type":"BODY","text":"This is image for testing."}],"language":"en","status":"APPROVED","category":"MARKETING","sub_category":"CUSTOM","id":"723645487117718"},{"name":"carousel_template","parameter_format":"POSITIONAL","components":[{"type":"BODY","text":"helo i am from testing team ho are you bro {{1}}","example":{"body_text":[["Example_1"]]}},{"type":"CAROUSEL","cards":[{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/522058172_1723844184904837_5266955580549759704_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=LczlYt143CUQ7kNvwGeyBHf&_nc_oc=AdlYpcvNzA1bwGA_zjZf1Xv33FaTgrT3ibxnmbjidShaQNZTq5n92X4Ep87HBikEa6-fPXkwiI14LV5yQIIVEh9Y&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=A1RnGESI8Z07csJ3m9nLdg&oh=01_Q5Aa2AHE_Gp5StjMAFBL7ld4Mu6JQJRUZSXuRjmFwvSvayK-xQ&oe=68AFC9FE"]}},{"type":"BODY","text":"hello i am from testing team {{1}} hoe are you bro good na {{2}} dgf ok ok","example":{"body_text":[["Example_1","Example_2"]]}},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]},{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/522058172_1181320383752587_8140949986512136819_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=2GI5Ax7XAK8Q7kNvwHXy4mL&_nc_oc=AdkQA5Hs_hSUj8pdyKLpnIuAnLb5232cGYYCRQbsLmuURTxFUNqPNsZ_xOnX9oJU5YExTadayPBr2UX_YUWp6ilU&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=A1RnGESI8Z07csJ3m9nLdg&oh=01_Q5Aa2AFhz4-6moGitQHticuqikk8d_c-zcOvHrdfyqzQ4lWFWA&oe=68AFF082"]}},{"type":"BODY","text":"eh fdgf dfgdf dfdfgd dgdf ddfgd sdfggd ddg {{1}} fhfg dfgdf dfgdf dfgdf {{2}}","example":{"body_text":[["Example_1","Example_2"]]}},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]}]}],"language":"af","status":"APPROVED","category":"MARKETING","id":"4076615632579811"},{"name":"testimg","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491878467_2317125712023525_8830204382430147073_n.jpg?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=SdwDeofGR1UQ7kNvwHWzAXp&_nc_oc=AdmUF7AjMS6dUXQ8yopGA0rM5VDqFO54dlvL3AsI9J797b7df1tGZhWCfseKwxH2MZ05Uew1Lqwd17XAlerc5h7b&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=A1RnGESI8Z07csJ3m9nLdg&oh=01_Q5Aa2AENaWBEn8ROnKKSpX9oF04wJH2k-OWWtnDLLf-NZPt1gA&oe=68AFF014"]}},{"type":"BODY","text":"Hello testing image to send to user with some variable in the body to test. {{1}} kumar also . hare i am writing more text to not get reject . this very good if you are in the good work for sending templates .","example":{"body_text":[["test"]]}},{"type":"FOOTER","text":"type 'STOP' to stop services"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Talk to Expert"},{"type":"URL","text":"Go to website","url":"https://sabnode.com/"},{"type":"PHONE_NUMBER","text":"Call Now","phone_number":"+918757011172"}]}],"language":"en","status":"APPROVED","category":"MARKETING","sub_category":"CUSTOM","id":"2317125708690192"}],"paging":{"cursors":{"before":"MAZDZD","after":"MjQZD"}}}
+[29/7/2025, 12:06:44] Processing Meta template: hello_world (en_US)
+[29/7/2025, 12:06:45] Processing Meta template: button_template (en)
+[29/7/2025, 12:06:45] Processing Meta template: test_image (en)
+[29/7/2025, 12:06:45] Processing Meta template: carousel_template (af)
+[29/7/2025, 12:06:45] Processing Meta template: testimg (en)
+[29/7/2025, 12:06:46] Fetched 5 templates for page 1 of 1
+[29/7/2025, 12:09:35] Fetched 5 templates for page 1 of 1
+[29/7/2025, 12:09:38] Socket b-6kOwJlviiPgw6IAAAR joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:09:38] Socket b-6kOwJlviiPgw6IAAAR joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:09:38] Fetched 5 templates for page 1 of 1
+[29/7/2025, 12:09:44] Socket b-6kOwJlviiPgw6IAAAR joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:09:44] Socket b-6kOwJlviiPgw6IAAAR joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:09:56] Socket b-6kOwJlviiPgw6IAAAR joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:09:56] Socket b-6kOwJlviiPgw6IAAAR joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:09:57] Fetched 5 templates for page 1 of 1
+[29/7/2025, 12:16:50] Socket b-6kOwJlviiPgw6IAAAR joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:16:50] Socket b-6kOwJlviiPgw6IAAAR joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:21:15] User disconnected: cEgAiVzxlFYoxh6TAAAT
+[29/7/2025, 12:21:15] User disconnected: YMl7kQXrye8orqVsAAAS
+[29/7/2025, 12:21:15] User disconnected: b-6kOwJlviiPgw6IAAAR
+[29/7/2025, 12:21:20] A user connected: hLT0neB3O64la5jUAAAX
+[29/7/2025, 12:21:20] A user connected: 4_ctRK2o6cOGOJ3PAAAY
+[29/7/2025, 12:21:20] A user connected: 8HAc1U2XftTetQzeAAAZ
+[29/7/2025, 12:21:20] Socket hLT0neB3O64la5jUAAAX joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:21:20] Socket hLT0neB3O64la5jUAAAX joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:21:21] Fetched 5 templates for page 1 of 1
+[29/7/2025, 12:21:21] User disconnected: hLT0neB3O64la5jUAAAX
+[29/7/2025, 12:21:21] User disconnected: 8HAc1U2XftTetQzeAAAZ
+[29/7/2025, 12:21:21] User disconnected: 4_ctRK2o6cOGOJ3PAAAY
+[29/7/2025, 12:21:21] A user connected: vUYX-g7Gql6xUEnKAAAd
+[29/7/2025, 12:21:21] A user connected: 5Mw78px5j38r-o35AAAe
+[29/7/2025, 12:21:21] A user connected: K_7vPqzc4NFoWO7eAAAf
+[29/7/2025, 12:21:22] Socket vUYX-g7Gql6xUEnKAAAd joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:21:22] Socket vUYX-g7Gql6xUEnKAAAd joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:21:23] Fetched 5 templates for page 1 of 1
+[29/7/2025, 12:21:26] User disconnected: K_7vPqzc4NFoWO7eAAAf
+[29/7/2025, 12:21:26] User disconnected: 5Mw78px5j38r-o35AAAe
+[29/7/2025, 12:21:26] User disconnected: vUYX-g7Gql6xUEnKAAAd
+[29/7/2025, 12:21:26] A user connected: RnwIn03yXuLZr9bQAAAj
+[29/7/2025, 12:21:26] A user connected: IjO66GJ3MjHOOrr4AAAk
+[29/7/2025, 12:21:26] A user connected: xLp46y-QCEdeKU_rAAAl
+[29/7/2025, 12:22:43] User disconnected: xLp46y-QCEdeKU_rAAAl
+[29/7/2025, 12:22:43] User disconnected: IjO66GJ3MjHOOrr4AAAk
+[29/7/2025, 12:22:43] User disconnected: RnwIn03yXuLZr9bQAAAj
+[29/7/2025, 12:22:46] A user connected: yAe-tzMvAhAOgiDrAAAp
+[29/7/2025, 12:22:46] A user connected: yTbi5ocn9D326IppAAAq
+[29/7/2025, 12:22:46] A user connected: JUWKa5vSqaz1tBjXAAAr
+[29/7/2025, 12:25:01] A user connected: -y6pYchjfU_9CXTkAAAt
+[29/7/2025, 12:25:02] A user connected: JQXi5BLuGza_vYz7AAAv
+[29/7/2025, 12:25:03] A user connected: L5JD4KcVm9D_196XAAAx
+[29/7/2025, 12:25:14] token "688726580f70016036a6af53" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[29/7/2025, 12:25:16] User disconnected: JUWKa5vSqaz1tBjXAAAr
+[29/7/2025, 12:25:16] User disconnected: yTbi5ocn9D326IppAAAq
+[29/7/2025, 12:25:16] User disconnected: yAe-tzMvAhAOgiDrAAAp
+[29/7/2025, 12:25:19] A user connected: bOU5AuQanG2SEWrdAAA1
+[29/7/2025, 12:25:19] A user connected: N13Bx3T_E0_8C3QWAAA2
+[29/7/2025, 12:25:19] A user connected: OxArcz73EN9rb_pjAAA3
+[29/7/2025, 12:25:23] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:26:29] 🟡 Resumable Upload params: {"facebookUrl":"https://graph.facebook.com","graphVersion":"v19.0","appIdUsedForUploads":"1552905692540289","accessToken":true,"mimeType":"image/jpeg","fileSize":231810}
+[29/7/2025, 12:26:29] Resumable Upload Init URL: https://graph.facebook.com/v19.0/763282839597862/uploads
+[29/7/2025, 12:26:30] ✅ Init upload session response: {"id":"upload:MTphdHRhY2htZW50Ojk2YjBhZTE3LTc2M2EtNDQ5Ni05ZDVlLTkyNjE4MDczNTEwOT9maWxlX2xlbmd0aD0yMzE4MTAmZmlsZV90eXBlPWltYWdlJTJGanBlZw==?sig=ARYShTpiQe9ld15_ehw"}
+[29/7/2025, 12:26:30] Resumable Upload File URL: https://graph.facebook.com/v19.0/upload:MTphdHRhY2htZW50Ojk2YjBhZTE3LTc2M2EtNDQ5Ni05ZDVlLTkyNjE4MDczNTEwOT9maWxlX2xlbmd0aD0yMzE4MTAmZmlsZV90eXBlPWltYWdlJTJGanBlZw==?sig=ARYShTpiQe9ld15_ehw
+[29/7/2025, 12:26:32] ✅ Media uploaded to Meta: {"h":"4::aW1hZ2UvanBlZw==:ARYcGBaRO5ZEbTk2dcN6vA8jadyy-3-IuPJkdplqTR9VymaCJk5wP7-RDZqed7lGdoR3lrIrxZg-17Okd_Hp_n0jOttadoh8SQGB1eJrLF41gA:e:1754117792:763282839597862:61578691132929:ARYeQS5ZgcvzVxtrWNs"}
+[29/7/2025, 12:26:43] 🟡 Resumable Upload params: {"facebookUrl":"https://graph.facebook.com","graphVersion":"v19.0","appIdUsedForUploads":"1552905692540289","accessToken":true,"mimeType":"image/jpeg","fileSize":3949076}
+[29/7/2025, 12:26:43] Resumable Upload Init URL: https://graph.facebook.com/v19.0/763282839597862/uploads
+[29/7/2025, 12:26:44] ✅ Init upload session response: {"id":"upload:MTphdHRhY2htZW50OmI2NWFhMThlLWMwMDMtNGQ0Yi04NDkyLTI0MmJmMzI1NjkwMj9maWxlX2xlbmd0aD0zOTQ5MDc2JmZpbGVfdHlwZT1pbWFnZSUyRmpwZWc=?sig=ARbEgA6b-Z_ErILR44M"}
+[29/7/2025, 12:26:44] Resumable Upload File URL: https://graph.facebook.com/v19.0/upload:MTphdHRhY2htZW50OmI2NWFhMThlLWMwMDMtNGQ0Yi04NDkyLTI0MmJmMzI1NjkwMj9maWxlX2xlbmd0aD0zOTQ5MDc2JmZpbGVfdHlwZT1pbWFnZSUyRmpwZWc=?sig=ARbEgA6b-Z_ErILR44M
+[29/7/2025, 12:27:15] 🟡 Resumable Upload params: {"facebookUrl":"https://graph.facebook.com","graphVersion":"v19.0","appIdUsedForUploads":"1552905692540289","accessToken":true,"mimeType":"image/jpeg","fileSize":231810}
+[29/7/2025, 12:27:15] Resumable Upload Init URL: https://graph.facebook.com/v19.0/763282839597862/uploads
+[29/7/2025, 12:27:21] ✅ Init upload session response: {"id":"upload:MTphdHRhY2htZW50OjBkYzM2OTEzLWExYTItNDFkZi05MTM0LTlhYWFjNTA4MTY5ZD9maWxlX2xlbmd0aD0yMzE4MTAmZmlsZV90eXBlPWltYWdlJTJGanBlZw==?sig=ARav-q4XApb838iWk10"}
+[29/7/2025, 12:27:21] Resumable Upload File URL: https://graph.facebook.com/v19.0/upload:MTphdHRhY2htZW50OjBkYzM2OTEzLWExYTItNDFkZi05MTM0LTlhYWFjNTA4MTY5ZD9maWxlX2xlbmd0aD0yMzE4MTAmZmlsZV90eXBlPWltYWdlJTJGanBlZw==?sig=ARav-q4XApb838iWk10
+[29/7/2025, 12:27:31] ✅ Media uploaded to Meta: {"h":"4::aW1hZ2UvanBlZw==:ARbLfhrT8EFaYlxqLsI6wv-dWFUdqdQohTf67Dbbu5rOcUWbgmMI7jJdVZ6PyRZ5jSbYea3OG3_xAWIVeCfNqUXE07-kDLFw-yMf7hMQSUok0g:e:1754117851:763282839597862:61578691132929:ARZ7jCIeEGkTsH-hsAg"}
+[29/7/2025, 12:27:33] ✅ Media uploaded to Meta: {"h":"4::aW1hZ2UvanBlZw==:ARaeYsi7Ovvkrv4ywaI5FbCCy01Vrafy_FXekzGZHlmUJoitWuoX5Df7K6vHF5TnfSLTRDjDNm8FiwrlTygWmzUxJ-_5hDTPl-AOuIYcDnNtcg:e:1754117816:763282839597862:61578691132929:ARZ4GW2AIG_s82WW2U0\n4::aW1hZ2UvanBlZw==:ARZVfF0gIK_793AW6nJwi7eFiXVIrnb6wTR_tgLkTHQgCbLfGjdskhYLmNoPWCfr_-_W3wip7Y6WGY_NFW6hyE9AZXHvAwZedp0KIBkTjTrk8w:e:1754117835:763282839597862:61578691132929:ARbkCjlojHni21mUpCU\n4::aW1hZ2UvanBlZw==:ARZtdic93Mi5MAKd8eWUBug3OHqr0t7uZmc9BoLS1ETwHsqI30sxV8K6H3KT5QAzMgjy_oqAtqwcOUk0CcB00zF-nqiAIDIfpDWF8NN2Q65xng:e:1754117846:763282839597862:61578691132929:ARYrx1TpUawpd_M7oUc\n4::aW1hZ2UvanBlZw==:ARY8E7YWnDjmgcKuXBJErZZ2j2kSQgCuMmEUZvj9eKaEsmJj0IXQd84B4HIj0FZ7EunBH2Dtv4yw5MYkaIfuChAXALeMdqazGQHU0kpF4gz6dQ:e:1754117853:763282839597862:61578691132929:ARa1sT2iMc9uiV_4ED0"}
+[29/7/2025, 12:28:20] 🟡 Resumable Upload params: {"facebookUrl":"https://graph.facebook.com","graphVersion":"v19.0","appIdUsedForUploads":"1552905692540289","accessToken":true,"mimeType":"image/jpeg","fileSize":3949076}
+[29/7/2025, 12:28:20] Resumable Upload Init URL: https://graph.facebook.com/v19.0/763282839597862/uploads
+[29/7/2025, 12:28:21] ✅ Init upload session response: {"id":"upload:MTphdHRhY2htZW50OjgwODBmNDE0LWEyODEtNDc3Ni1iNDI5LWYxYmRmNDIwNTRiOD9maWxlX2xlbmd0aD0zOTQ5MDc2JmZpbGVfdHlwZT1pbWFnZSUyRmpwZWc=?sig=ARb5Bdzz1FDQ2TeJep4"}
+[29/7/2025, 12:28:21] Resumable Upload File URL: https://graph.facebook.com/v19.0/upload:MTphdHRhY2htZW50OjgwODBmNDE0LWEyODEtNDc3Ni1iNDI5LWYxYmRmNDIwNTRiOD9maWxlX2xlbmd0aD0zOTQ5MDc2JmZpbGVfdHlwZT1pbWFnZSUyRmpwZWc=?sig=ARb5Bdzz1FDQ2TeJep4
+[29/7/2025, 12:28:47] 🟡 Resumable Upload params: {"facebookUrl":"https://graph.facebook.com","graphVersion":"v19.0","appIdUsedForUploads":"1552905692540289","accessToken":true,"mimeType":"image/jpeg","fileSize":231810}
+[29/7/2025, 12:28:47] Resumable Upload Init URL: https://graph.facebook.com/v19.0/763282839597862/uploads
+[29/7/2025, 12:28:48] ✅ Init upload session response: {"id":"upload:MTphdHRhY2htZW50OmI3ZjAyZTE0LTU1OTUtNDBjOC05MTAzLTY3Nzc5NDNlNGY0Mj9maWxlX2xlbmd0aD0yMzE4MTAmZmlsZV90eXBlPWltYWdlJTJGanBlZw==?sig=ARar7_mxfP97XHj0ORU"}
+[29/7/2025, 12:28:48] Resumable Upload File URL: https://graph.facebook.com/v19.0/upload:MTphdHRhY2htZW50OmI3ZjAyZTE0LTU1OTUtNDBjOC05MTAzLTY3Nzc5NDNlNGY0Mj9maWxlX2xlbmd0aD0yMzE4MTAmZmlsZV90eXBlPWltYWdlJTJGanBlZw==?sig=ARar7_mxfP97XHj0ORU
+[29/7/2025, 12:28:51] ✅ Media uploaded to Meta: {"h":"4::aW1hZ2UvanBlZw==:ARZ0v4XbXmTKIHBUkY4FZ_Lq_cAQUPJ1uK_sIFKP0iZ28gP2PTIZQQj7LyO5rSbsLOtmxfZY3q1XE1ZbHyPX45RMv4FHE5ObZ8fiCNgUf6nshw:e:1754117930:763282839597862:61578691132929:ARZWcDSSKadu35QjHkE"}
+[29/7/2025, 12:28:59] ✅ Media uploaded to Meta: {"h":"4::aW1hZ2UvanBlZw==:ARaVeAvUZ1wmvI1EpHx856Or1KMZBOEdu_vt7Q2xBdSZscN5ari8OczEjtu_KIwvbnUccfbWz47Pedhl1jyppU_1mrABuTs_in2emPonc9Z1xA:e:1754117915:763282839597862:61578691132929:ARYQ3kr4cNTWpG3JnjU\n4::aW1hZ2UvanBlZw==:ARYidgt7qLzNgo3zEj-xsvzfprftY406a4P2qrKhnIxwGTvoD_9tW8fN4RZ6daHQpbMKAgI_tVdT4eh8Kb3wxG__0mjUzTcjLhmcH6gZJFtE5Q:e:1754117922:763282839597862:61578691132929:ARbGmltLF00dZfl5PXI\n4::aW1hZ2UvanBlZw==:ARZvzrhdkdP9tCIbSCPolm106aFZgGDYFj16FZIbZGzEJTLcy0MqkHV21CoJz9vhwnjjPXVq6dDtlJxTPtpxUMEehXxuDXxSZKi2UJHxEO8eMg:e:1754117934:763282839597862:61578691132929:ARYP8kl7s_rl9OkInrY\n4::aW1hZ2UvanBlZw==:ARaxT6NFYmhestLs4FTN024oWq5kF9pcvh-5kj6hID0KZ0D56gHhdBLMqUr7MeH8aTVM8oJ--pqurbYEedZwhF-1md0aTEIinByC3Mq42ixxdQ:e:1754117939:763282839597862:61578691132929:ARZwoIKfqOnY7YfoIh4"}
+[29/7/2025, 12:29:01] Sending carousel template creation request to Meta: {
+  "name": "template_carr1",
+  "language": "en",
+  "category": "MARKETING",
+  "components": [
+    {
+      "type": "BODY",
+      "text": "Hello carrousel "
+    },
+    {
+      "type": "CAROUSEL",
+      "cards": [
+        {
+          "components": [
+            {
+              "type": "HEADER",
+              "format": "IMAGE",
+              "example": {
+                "header_handle": [
+                  "4::aW1hZ2UvanBlZw==:ARYcGBaRO5ZEbTk2dcN6vA8jadyy-3-IuPJkdplqTR9VymaCJk5wP7-RDZqed7lGdoR3lrIrxZg-17Okd_Hp_n0jOttadoh8SQGB1eJrLF41gA:e:1754117792:763282839597862:61578691132929:ARYeQS5ZgcvzVxtrWNs"
+                ]
+              }
+            },
+            {
+              "type": "BODY",
+              "text": "Hello carrousel "
+            },
+            {
+              "type": "FOOTER",
+              "text": "Hello carrousel  foo"
+            },
+            {
+              "type": "BUTTONS",
+              "buttons": [
+                {
+                  "type": "QUICK_REPLY",
+                  "text": "Quick Reply"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "components": [
+            {
+              "type": "HEADER",
+              "format": "IMAGE",
+              "example": {
+                "header_handle": [
+                  "4::aW1hZ2UvanBlZw==:ARZ0v4XbXmTKIHBUkY4FZ_Lq_cAQUPJ1uK_sIFKP0iZ28gP2PTIZQQj7LyO5rSbsLOtmxfZY3q1XE1ZbHyPX45RMv4FHE5ObZ8fiCNgUf6nshw:e:1754117930:763282839597862:61578691132929:ARZWcDSSKadu35QjHkE"
+                ]
+              }
+            },
+            {
+              "type": "BODY",
+              "text": "Hello carrousel "
+            },
+            {
+              "type": "FOOTER",
+              "text": "Hello carrousel  foo"
+            },
+            {
+              "type": "BUTTONS",
+              "buttons": [
+                {
+                  "type": "QUICK_REPLY",
+                  "text": "Quick Reply"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+[29/7/2025, 12:29:05] Meta API carousel template creation response: {"id":"763467629488481","status":"PENDING","category":"MARKETING"}
+[29/7/2025, 12:29:08] Fetched 3 templates for page 1 of 1
+[29/7/2025, 12:29:38] Fetched 3 templates for page 1 of 1
+[29/7/2025, 12:30:39] Server running on port 5001
+[29/7/2025, 12:30:40] A user connected: z2WYsM1_AxiraFW9AAAB
+[29/7/2025, 12:30:40] A user connected: E5FsIcQluAKkUW7qAAAD
+[29/7/2025, 12:30:40] A user connected: XABhi7aY6wKkmUCRAAAF
+[29/7/2025, 12:30:41] A user connected: hLNIm9J3zTzN23WUAAAH
+[29/7/2025, 12:30:41] A user connected: f2t5PPyLxSwcTRBeAAAJ
+[29/7/2025, 12:30:42] A user connected: c_Sy9K8RpsBYtwdiAAAL
+[29/7/2025, 12:30:46] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 12:31:50] Server running on port 5001
+[29/7/2025, 12:31:50] A user connected: K4L9p_cysvOxCcA_AAAB
+[29/7/2025, 12:31:51] A user connected: bXHKuHiQancwI0QHAAAD
+[29/7/2025, 12:31:51] A user connected: LxCv34ehQ7P179t1AAAF
+[29/7/2025, 12:31:51] A user connected: q3WNv3vOJ5NDSC85AAAH
+[29/7/2025, 12:31:51] A user connected: lo6CoB2pmP86zRozAAAJ
+[29/7/2025, 12:31:51] A user connected: 8N7yWBds5BuAr1EbAAAL
+[29/7/2025, 12:31:57] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 12:32:43] token "688726580f70016036a6af53" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[29/7/2025, 12:33:04] token "688726580f70016036a6af53" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[29/7/2025, 12:35:32] Fetched 3 templates for page 1 of 1
+[29/7/2025, 12:35:50] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:36:02] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:36:04] Meta API response for template sync: {"data":[{"name":"template_carr1","parameter_format":"POSITIONAL","components":[{"type":"BODY","text":"Hello carrousel"},{"type":"CAROUSEL","cards":[{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491873227_1998613507571652_6242519443063286607_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=YYnQQkv1u_UQ7kNvwHrHJIv&_nc_oc=Adn81AsbS669JtdFo0asrPeyMuVLookvYuB14Tr4oRy0djWMGZqI2ZC1Dvfiy48gIAYPdQfUhywE3g0uZmvPya8N&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=zWNAj9n4VobxjL1CQLo9nQ&oh=01_Q5Aa2AHcNCumrW6JqyuQEiwUenAS9zqJ3dzy0x66zEgIrxtM_A&oe=68AFF50F"]}},{"type":"BODY","text":"Hello carrousel"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]},{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491873612_1288885909253670_5933319049841578051_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=K9t2gCE8vhgQ7kNvwF1Tm0E&_nc_oc=Adn0cQAgaL_EtkhbXFzyj5P9z8UNC4tyokNRh1oBQaX0VUV7t95VNk5u7ayJz3gvocbM46A-K9eOvPTD2hqkxd6I&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=zWNAj9n4VobxjL1CQLo9nQ&oh=01_Q5Aa2AEwhz14YO3SCAZzMU8jLHYA-pUcY0iw-YS8fQzAp0AcAg&oe=68AFDC14"]}},{"type":"BODY","text":"Hello carrousel"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]}]}],"language":"en","status":"PENDING","category":"MARKETING","id":"763467629488481"},{"name":"template_text","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"buy at best price"},{"type":"BODY","text":"hello ,buy at best price"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}],"language":"en","status":"PENDING","category":"MARKETING","id":"715343711298235"},{"name":"hello_world","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Hello World"},{"type":"BODY","text":"Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us."},{"type":"FOOTER","text":"WhatsApp Business Platform sample message"}],"language":"en_US","status":"APPROVED","category":"UTILITY","id":"2492593544437655"}],"paging":{"cursors":{"before":"MAZDZD","after":"MjQZD"}}}
+[29/7/2025, 12:36:04] Processing Meta template: template_carr1 (en)
+[29/7/2025, 12:36:05] Processing Meta template: template_text (en)
+[29/7/2025, 12:36:05] Processing Meta template: hello_world (en_US)
+[29/7/2025, 12:36:06] Fetched 3 templates for page 1 of 1
+[29/7/2025, 12:36:12] Meta API response for template sync: {"data":[{"name":"template_carr1","parameter_format":"POSITIONAL","components":[{"type":"BODY","text":"Hello carrousel"},{"type":"CAROUSEL","cards":[{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491873227_1998613507571652_6242519443063286607_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=YYnQQkv1u_UQ7kNvwHrHJIv&_nc_oc=Adn81AsbS669JtdFo0asrPeyMuVLookvYuB14Tr4oRy0djWMGZqI2ZC1Dvfiy48gIAYPdQfUhywE3g0uZmvPya8N&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=3b26Knsd_5_MLKUTRFJdsQ&oh=01_Q5Aa2AHyPO4ebhzEOn6KHaGNClJo67qK7v21LYkHxl-BrLqmtQ&oe=68AFF50F"]}},{"type":"BODY","text":"Hello carrousel"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]},{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491873612_1288885909253670_5933319049841578051_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=K9t2gCE8vhgQ7kNvwF1Tm0E&_nc_oc=Adn0cQAgaL_EtkhbXFzyj5P9z8UNC4tyokNRh1oBQaX0VUV7t95VNk5u7ayJz3gvocbM46A-K9eOvPTD2hqkxd6I&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=3b26Knsd_5_MLKUTRFJdsQ&oh=01_Q5Aa2AEwvprwO48emVUx2iuYtEoaE9ZViRNHg-kZBFsLVWHFMQ&oe=68AFDC14"]}},{"type":"BODY","text":"Hello carrousel"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]}]}],"language":"en","status":"PENDING","category":"MARKETING","id":"763467629488481"},{"name":"template_text","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"buy at best price"},{"type":"BODY","text":"hello ,buy at best price"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}],"language":"en","status":"PENDING","category":"MARKETING","id":"715343711298235"},{"name":"hello_world","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Hello World"},{"type":"BODY","text":"Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us."},{"type":"FOOTER","text":"WhatsApp Business Platform sample message"}],"language":"en_US","status":"APPROVED","category":"UTILITY","id":"2492593544437655"}],"paging":{"cursors":{"before":"MAZDZD","after":"MjQZD"}}}
+[29/7/2025, 12:36:12] Processing Meta template: template_carr1 (en)
+[29/7/2025, 12:36:12] Processing Meta template: template_text (en)
+[29/7/2025, 12:36:13] Processing Meta template: hello_world (en_US)
+[29/7/2025, 12:36:13] Fetched 3 templates for page 1 of 1
+[29/7/2025, 12:36:19] Meta API response for template sync: {"data":[{"name":"template_carr1","parameter_format":"POSITIONAL","components":[{"type":"BODY","text":"Hello carrousel"},{"type":"CAROUSEL","cards":[{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491873227_1998613507571652_6242519443063286607_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=YYnQQkv1u_UQ7kNvwHrHJIv&_nc_oc=Adn81AsbS669JtdFo0asrPeyMuVLookvYuB14Tr4oRy0djWMGZqI2ZC1Dvfiy48gIAYPdQfUhywE3g0uZmvPya8N&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=cHIGtm9xCseTAXRNFXEDMg&oh=01_Q5Aa2AENwylt2sBJ5aoP7vRN8XAmvQhG28EmzN0e71JknVfc8A&oe=68AFF50F"]}},{"type":"BODY","text":"Hello carrousel"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]},{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491873612_1288885909253670_5933319049841578051_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=K9t2gCE8vhgQ7kNvwF1Tm0E&_nc_oc=Adn0cQAgaL_EtkhbXFzyj5P9z8UNC4tyokNRh1oBQaX0VUV7t95VNk5u7ayJz3gvocbM46A-K9eOvPTD2hqkxd6I&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=cHIGtm9xCseTAXRNFXEDMg&oh=01_Q5Aa2AF1wqIQzM8GZbNb1NApipwbsHlUKJRSOZZvxV9ExqAoPA&oe=68AFDC14"]}},{"type":"BODY","text":"Hello carrousel"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]}]}],"language":"en","status":"PENDING","category":"MARKETING","id":"763467629488481"},{"name":"template_text","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"buy at best price"},{"type":"BODY","text":"hello ,buy at best price"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}],"language":"en","status":"PENDING","category":"MARKETING","id":"715343711298235"},{"name":"hello_world","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Hello World"},{"type":"BODY","text":"Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us."},{"type":"FOOTER","text":"WhatsApp Business Platform sample message"}],"language":"en_US","status":"APPROVED","category":"UTILITY","id":"2492593544437655"}],"paging":{"cursors":{"before":"MAZDZD","after":"MjQZD"}}}
+[29/7/2025, 12:36:19] Processing Meta template: template_carr1 (en)
+[29/7/2025, 12:36:19] Processing Meta template: template_text (en)
+[29/7/2025, 12:36:19] Processing Meta template: hello_world (en_US)
+[29/7/2025, 12:36:20] Fetched 3 templates for page 1 of 1
+[29/7/2025, 12:36:32] Socket lo6CoB2pmP86zRozAAAJ joined room: 688726580f70016036a6af53
+[29/7/2025, 12:36:32] Socket lo6CoB2pmP86zRozAAAJ joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:36:44] Fetched 3 templates for page 1 of 1
+[29/7/2025, 12:36:50] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:36:52] User disconnected: K4L9p_cysvOxCcA_AAAB
+[29/7/2025, 12:36:52] User disconnected: 8N7yWBds5BuAr1EbAAAL
+[29/7/2025, 12:36:52] User disconnected: lo6CoB2pmP86zRozAAAJ
+[29/7/2025, 12:36:53] A user connected: 1FGNgDEi5RW_hQt7AAAN
+[29/7/2025, 12:36:53] A user connected: f2Fq8WR3z-PFpL0WAAAP
+[29/7/2025, 12:36:53] A user connected: Va5J-tPFLbC-lI5hAAAR
+[29/7/2025, 12:36:54] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:37:10] ✅ Deleted template from Meta: template_text
+[29/7/2025, 12:37:10] Fetched 1 templates for page 1 of 1
+[29/7/2025, 12:37:18] Meta API response for template sync: {"data":[{"name":"template_carr1","parameter_format":"POSITIONAL","components":[{"type":"BODY","text":"Hello carrousel"},{"type":"CAROUSEL","cards":[{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491873227_1998613507571652_6242519443063286607_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=YYnQQkv1u_UQ7kNvwHrHJIv&_nc_oc=Adn81AsbS669JtdFo0asrPeyMuVLookvYuB14Tr4oRy0djWMGZqI2ZC1Dvfiy48gIAYPdQfUhywE3g0uZmvPya8N&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=oA94bP7b3tTbmtTvx7m3aA&oh=01_Q5Aa2AE_buYZ0roxwohstlgCikryFiOarQhYlpjCahOCXt7d0Q&oe=68AFF50F"]}},{"type":"BODY","text":"Hello carrousel"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]},{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491873612_1288885909253670_5933319049841578051_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=K9t2gCE8vhgQ7kNvwF1Tm0E&_nc_oc=Adn0cQAgaL_EtkhbXFzyj5P9z8UNC4tyokNRh1oBQaX0VUV7t95VNk5u7ayJz3gvocbM46A-K9eOvPTD2hqkxd6I&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=oA94bP7b3tTbmtTvx7m3aA&oh=01_Q5Aa2AHiBZWU5pU8ob5omJHaRQGf3lMHlcD4RnEZ_IlWiFcLaw&oe=68AFDC14"]}},{"type":"BODY","text":"Hello carrousel"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]}]}],"language":"en","status":"PENDING","category":"MARKETING","id":"763467629488481"},{"name":"hello_world","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Hello World"},{"type":"BODY","text":"Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us."},{"type":"FOOTER","text":"WhatsApp Business Platform sample message"}],"language":"en_US","status":"APPROVED","category":"UTILITY","id":"2492593544437655"}],"paging":{"cursors":{"before":"MAZDZD","after":"MjQZD"}}}
+[29/7/2025, 12:37:18] Processing Meta template: template_carr1 (en)
+[29/7/2025, 12:37:18] Processing Meta template: hello_world (en_US)
+[29/7/2025, 12:37:19] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:37:32] Meta API response for template sync: {"data":[{"name":"template_carr1","parameter_format":"POSITIONAL","components":[{"type":"BODY","text":"Hello carrousel"},{"type":"CAROUSEL","cards":[{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491873227_1998613507571652_6242519443063286607_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=YYnQQkv1u_UQ7kNvwHrHJIv&_nc_oc=Adn81AsbS669JtdFo0asrPeyMuVLookvYuB14Tr4oRy0djWMGZqI2ZC1Dvfiy48gIAYPdQfUhywE3g0uZmvPya8N&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=mNjmkt151OGlJVNwX08vsw&oh=01_Q5Aa2AEs6wl-yJ_VjZNY2WMxu5KBNC1OOt-QT4TdD1bEWVg0Xg&oe=68AFF50F"]}},{"type":"BODY","text":"Hello carrousel"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]},{"components":[{"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491873612_1288885909253670_5933319049841578051_n.jpg?ccb=1-7&_nc_sid=a80384&_nc_ohc=K9t2gCE8vhgQ7kNvwF1Tm0E&_nc_oc=Adn0cQAgaL_EtkhbXFzyj5P9z8UNC4tyokNRh1oBQaX0VUV7t95VNk5u7ayJz3gvocbM46A-K9eOvPTD2hqkxd6I&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=mNjmkt151OGlJVNwX08vsw&oh=01_Q5Aa2AEyoJdkpW5S3-C_nvuTTfD4nsp2_Ozw3CjRMUoNCqUv2Q&oe=68AFDC14"]}},{"type":"BODY","text":"Hello carrousel"},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quick Reply"}]}]}]}],"language":"en","status":"PENDING","category":"MARKETING","id":"763467629488481"},{"name":"hello_world","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Hello World"},{"type":"BODY","text":"Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us."},{"type":"FOOTER","text":"WhatsApp Business Platform sample message"}],"language":"en_US","status":"APPROVED","category":"UTILITY","id":"2492593544437655"}],"paging":{"cursors":{"before":"MAZDZD","after":"MjQZD"}}}
+[29/7/2025, 12:37:32] Processing Meta template: template_carr1 (en)
+[29/7/2025, 12:37:32] Processing Meta template: hello_world (en_US)
+[29/7/2025, 12:37:33] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:37:52] Socket f2Fq8WR3z-PFpL0WAAAP joined room: 688726580f70016036a6af53
+[29/7/2025, 12:37:52] Socket f2Fq8WR3z-PFpL0WAAAP joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:38:15] Socket bXHKuHiQancwI0QHAAAD joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:38:15] Socket bXHKuHiQancwI0QHAAAD joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:38:40] A user connected: s3jGvlifTl3NmMz-AAAT
+[29/7/2025, 12:38:41] A user connected: VOcEF51JoF7vk5LuAAAV
+[29/7/2025, 12:38:41] A user connected: WPr7xvROfhYerBVuAAAX
+[29/7/2025, 12:39:20] User disconnected: bXHKuHiQancwI0QHAAAD
+[29/7/2025, 12:39:20] User disconnected: q3WNv3vOJ5NDSC85AAAH
+[29/7/2025, 12:39:20] User disconnected: LxCv34ehQ7P179t1AAAF
+[29/7/2025, 12:39:43] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:39:47] Socket Va5J-tPFLbC-lI5hAAAR joined room: 688726580f70016036a6af53
+[29/7/2025, 12:39:47] Socket Va5J-tPFLbC-lI5hAAAR joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:39:59] User disconnected: Va5J-tPFLbC-lI5hAAAR
+[29/7/2025, 12:39:59] User disconnected: f2Fq8WR3z-PFpL0WAAAP
+[29/7/2025, 12:39:59] User disconnected: 1FGNgDEi5RW_hQt7AAAN
+[29/7/2025, 12:40:00] A user connected: e5XmHm1Ra9ve0NV7AAAb
+[29/7/2025, 12:40:00] A user connected: 2objjEX3g44ObjWaAAAc
+[29/7/2025, 12:40:00] A user connected: 40uQWTBcvW9rhVS1AAAd
+[29/7/2025, 12:40:00] Socket 40uQWTBcvW9rhVS1AAAd joined room: 688726580f70016036a6af53
+[29/7/2025, 12:40:00] Socket 40uQWTBcvW9rhVS1AAAd joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:40:12] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:40:16] Socket 40uQWTBcvW9rhVS1AAAd joined room: 688726580f70016036a6af53
+[29/7/2025, 12:40:16] Socket 40uQWTBcvW9rhVS1AAAd joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:40:42] token "688714615ce662ddebdba24d" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[29/7/2025, 12:40:54] Socket 40uQWTBcvW9rhVS1AAAd joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:40:54] Socket 40uQWTBcvW9rhVS1AAAd joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:41:12] User disconnected: e5XmHm1Ra9ve0NV7AAAb
+[29/7/2025, 12:41:12] User disconnected: 40uQWTBcvW9rhVS1AAAd
+[29/7/2025, 12:41:12] User disconnected: 2objjEX3g44ObjWaAAAc
+[29/7/2025, 12:41:13] A user connected: bjOgy3-6hRWt2zS8AAAh
+[29/7/2025, 12:41:13] A user connected: 398arzwNL5k8g7EiAAAi
+[29/7/2025, 12:41:13] A user connected: jWNcWbz7635z4hsUAAAj
+[29/7/2025, 12:41:16] Socket jWNcWbz7635z4hsUAAAj joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:41:16] Socket jWNcWbz7635z4hsUAAAj joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:41:48] Fetched 5 templates for page 1 of 1
+[29/7/2025, 12:42:01] token "688726580f70016036a6af53" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[29/7/2025, 12:42:11] Socket jWNcWbz7635z4hsUAAAj joined room: 688726580f70016036a6af53
+[29/7/2025, 12:42:11] Socket jWNcWbz7635z4hsUAAAj joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:42:28] Socket 398arzwNL5k8g7EiAAAi joined room: 688726580f70016036a6af53
+[29/7/2025, 12:42:28] Socket 398arzwNL5k8g7EiAAAi joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:42:39] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:42:41] Socket 398arzwNL5k8g7EiAAAi joined room: 688726580f70016036a6af53
+[29/7/2025, 12:42:41] Socket 398arzwNL5k8g7EiAAAi joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:42:47] User disconnected: jWNcWbz7635z4hsUAAAj
+[29/7/2025, 12:42:47] User disconnected: 398arzwNL5k8g7EiAAAi
+[29/7/2025, 12:42:47] User disconnected: bjOgy3-6hRWt2zS8AAAh
+[29/7/2025, 12:42:48] A user connected: 4wyUqhLsHb8HuJgMAAAn
+[29/7/2025, 12:42:48] A user connected: euLgU9Y3hE_IVuLkAAAo
+[29/7/2025, 12:42:48] A user connected: rwpokgTwhHumFAzyAAAp
+[29/7/2025, 12:42:48] Socket euLgU9Y3hE_IVuLkAAAo joined room: 688726580f70016036a6af53
+[29/7/2025, 12:42:48] Socket euLgU9Y3hE_IVuLkAAAo joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:43:00] token "688726580f70016036a6af53" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[29/7/2025, 12:43:11] Socket rwpokgTwhHumFAzyAAAp joined room: 688726580f70016036a6af53
+[29/7/2025, 12:43:11] Socket rwpokgTwhHumFAzyAAAp joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:43:26] A user connected: mfAlw1Z4xBPONssKAAAt
+[29/7/2025, 12:43:26] A user connected: sVj5kCXYcrUtuLIyAAAu
+[29/7/2025, 12:43:26] A user connected: z6ONqGsq6JUVVx9TAAAv
+[29/7/2025, 12:43:26] Socket sVj5kCXYcrUtuLIyAAAu joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:43:26] Socket sVj5kCXYcrUtuLIyAAAu joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:43:30] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:43:38] Socket euLgU9Y3hE_IVuLkAAAo joined room: 688726580f70016036a6af53
+[29/7/2025, 12:43:38] Socket euLgU9Y3hE_IVuLkAAAo joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:45:00] imgageId 
+[29/7/2025, 12:45:08] imgageId 
+[29/7/2025, 12:45:08] Header component found: {"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491878467_2317125712023525_8830204382430147073_n.jpg?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=SdwDeofGR1UQ7kNvwHWzAXp&_nc_oc=AdmUF7AjMS6dUXQ8yopGA0rM5VDqFO54dlvL3AsI9J797b7df1tGZhWCfseKwxH2MZ05Uew1Lqwd17XAlerc5h7b&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=A1RnGESI8Z07csJ3m9nLdg&oh=01_Q5Aa2AENaWBEn8ROnKKSpX9oF04wJH2k-OWWtnDLLf-NZPt1gA&oe=68AFF014"]}}
+[29/7/2025, 12:45:08] Header component found: {"type":"HEADER","format":"IMAGE","example":{"header_handle":["https://scontent.whatsapp.net/v/t61.29466-34/491878467_2317125712023525_8830204382430147073_n.jpg?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=SdwDeofGR1UQ7kNvwHWzAXp&_nc_oc=AdmUF7AjMS6dUXQ8yopGA0rM5VDqFO54dlvL3AsI9J797b7df1tGZhWCfseKwxH2MZ05Uew1Lqwd17XAlerc5h7b&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=A1RnGESI8Z07csJ3m9nLdg&oh=01_Q5Aa2AENaWBEn8ROnKKSpX9oF04wJH2k-OWWtnDLLf-NZPt1gA&oe=68AFF014"]}}
+[29/7/2025, 12:45:48] User disconnected: mfAlw1Z4xBPONssKAAAt
+[29/7/2025, 12:45:48] User disconnected: z6ONqGsq6JUVVx9TAAAv
+[29/7/2025, 12:45:48] User disconnected: sVj5kCXYcrUtuLIyAAAu
+[29/7/2025, 12:45:49] imgageId 
+[29/7/2025, 12:46:43] imgageId 
+[29/7/2025, 12:46:50] User disconnected: 4wyUqhLsHb8HuJgMAAAn
+[29/7/2025, 12:46:50] User disconnected: rwpokgTwhHumFAzyAAAp
+[29/7/2025, 12:46:50] User disconnected: euLgU9Y3hE_IVuLkAAAo
+[29/7/2025, 12:46:51] A user connected: b1WKLimt-5VPIA-3AAAx
+[29/7/2025, 12:46:51] A user connected: YXbPH5CrlGTWa88YAAAz
+[29/7/2025, 12:46:51] A user connected: ZInJc_mxFMMVdLwuAAA1
+[29/7/2025, 12:46:52] Socket YXbPH5CrlGTWa88YAAAz joined room: 688726580f70016036a6af53
+[29/7/2025, 12:46:52] Socket YXbPH5CrlGTWa88YAAAz joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:47:10] A user connected: U9Kh1F8xqjvzYK_6AAA5
+[29/7/2025, 12:47:10] A user connected: 8x5SNX33mfEPIhC1AAA6
+[29/7/2025, 12:47:10] A user connected: AMXUPyY-Mk5j8_kXAAA7
+[29/7/2025, 12:47:10] Socket 8x5SNX33mfEPIhC1AAA6 joined room: 688714615ce662ddebdba24d
+[29/7/2025, 12:47:10] Socket 8x5SNX33mfEPIhC1AAA6 joined room: project-6888664a8f18dee34bfdfb78
+[29/7/2025, 12:49:42] User disconnected: U9Kh1F8xqjvzYK_6AAA5
+[29/7/2025, 12:49:42] User disconnected: AMXUPyY-Mk5j8_kXAAA7
+[29/7/2025, 12:49:42] User disconnected: 8x5SNX33mfEPIhC1AAA6
+[29/7/2025, 12:49:51] imgageId 
+[29/7/2025, 12:50:33] User disconnected: s3jGvlifTl3NmMz-AAAT
+[29/7/2025, 12:50:33] User disconnected: WPr7xvROfhYerBVuAAAX
+[29/7/2025, 12:50:33] User disconnected: VOcEF51JoF7vk5LuAAAV
+[29/7/2025, 12:50:33] A user connected: 9U_Wu3TR8TR5b49TAAA-
+[29/7/2025, 12:50:33] A user connected: eRM-dpRIrc4Yps3sAABA
+[29/7/2025, 12:50:33] A user connected: WaER0Oxh9XgBxjiwAABB
+[29/7/2025, 12:50:34] User disconnected: 9U_Wu3TR8TR5b49TAAA-
+[29/7/2025, 12:50:34] User disconnected: WaER0Oxh9XgBxjiwAABB
+[29/7/2025, 12:50:34] User disconnected: eRM-dpRIrc4Yps3sAABA
+[29/7/2025, 12:50:39] User disconnected: b1WKLimt-5VPIA-3AAAx
+[29/7/2025, 12:50:39] User disconnected: YXbPH5CrlGTWa88YAAAz
+[29/7/2025, 12:50:39] User disconnected: ZInJc_mxFMMVdLwuAAA1
+[29/7/2025, 12:50:43] A user connected: Fe-ohRBzkdF93-2mAABF
+[29/7/2025, 12:50:43] A user connected: IFkERqzwGPyS7P7PAABG
+[29/7/2025, 12:50:43] A user connected: qOoKLF5I-agzQy0LAABH
+[29/7/2025, 12:50:45] User disconnected: Fe-ohRBzkdF93-2mAABF
+[29/7/2025, 12:50:45] User disconnected: qOoKLF5I-agzQy0LAABH
+[29/7/2025, 12:50:45] User disconnected: IFkERqzwGPyS7P7PAABG
+[29/7/2025, 12:51:43] A user connected: PJXaxVzjlyR9v-EdAABJ
+[29/7/2025, 12:51:43] A user connected: zqNCnw3LYvHfsbb9AABL
+[29/7/2025, 12:51:43] A user connected: Kms5dx_aXHiF3bfYAABN
+[29/7/2025, 12:51:47] User disconnected: PJXaxVzjlyR9v-EdAABJ
+[29/7/2025, 12:51:47] User disconnected: Kms5dx_aXHiF3bfYAABN
+[29/7/2025, 12:51:47] User disconnected: zqNCnw3LYvHfsbb9AABL
+[29/7/2025, 12:51:47] A user connected: SMvjCH76kOdyr5lnAABQ
+[29/7/2025, 12:51:47] A user connected: s0lPimTSWjZH3jzbAABR
+[29/7/2025, 12:51:47] A user connected: VBu9M_3t9f5LYNkJAABT
+[29/7/2025, 12:51:52] Socket s0lPimTSWjZH3jzbAABR joined room: 688726580f70016036a6af53
+[29/7/2025, 12:51:52] Socket s0lPimTSWjZH3jzbAABR joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:52:06] imgageId 
+[29/7/2025, 12:55:00] imgageId 
+[29/7/2025, 12:58:52] Socket SMvjCH76kOdyr5lnAABQ joined room: 688726580f70016036a6af53
+[29/7/2025, 12:58:52] Socket SMvjCH76kOdyr5lnAABQ joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:58:53] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:59:03] Socket SMvjCH76kOdyr5lnAABQ joined room: 688726580f70016036a6af53
+[29/7/2025, 12:59:03] Socket SMvjCH76kOdyr5lnAABQ joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:59:03] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:59:05] User disconnected: SMvjCH76kOdyr5lnAABQ
+[29/7/2025, 12:59:05] User disconnected: VBu9M_3t9f5LYNkJAABT
+[29/7/2025, 12:59:05] User disconnected: s0lPimTSWjZH3jzbAABR
+[29/7/2025, 12:59:06] A user connected: -YHm1MoShEFnTohTAABV
+[29/7/2025, 12:59:06] A user connected: cqT35dsoqpw02RnXAABX
+[29/7/2025, 12:59:06] A user connected: qAToRaKZOtviz0VEAABZ
+[29/7/2025, 12:59:06] Socket -YHm1MoShEFnTohTAABV joined room: 688726580f70016036a6af53
+[29/7/2025, 12:59:06] Socket -YHm1MoShEFnTohTAABV joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 12:59:07] Fetched 2 templates for page 1 of 1
+[29/7/2025, 12:59:28] Socket cqT35dsoqpw02RnXAABX joined room: 688726580f70016036a6af53
+[29/7/2025, 12:59:28] Socket cqT35dsoqpw02RnXAABX joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 13:00:18] Socket -YHm1MoShEFnTohTAABV joined room: 688726580f70016036a6af53
+[29/7/2025, 13:00:18] Socket -YHm1MoShEFnTohTAABV joined room: project-6887719884440f002a8f00c8
+[29/7/2025, 13:00:18] Fetched 2 templates for page 1 of 1
+[29/7/2025, 13:02:50] User disconnected: -YHm1MoShEFnTohTAABV
+[29/7/2025, 13:02:50] User disconnected: cqT35dsoqpw02RnXAABX
+[29/7/2025, 13:02:50] User disconnected: qAToRaKZOtviz0VEAABZ
+[29/7/2025, 15:46:38] Server running on port 5001
+[29/7/2025, 15:46:40] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 15:47:05] Server running on port 5001
+[29/7/2025, 15:47:05] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 15:47:29] Server running on port 5001
+[29/7/2025, 15:47:29] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 16:01:49] Server running on port 5001
+[29/7/2025, 16:01:52] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 16:06:20] Server running on port 5001
+[29/7/2025, 16:06:20] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 16:06:55] Server running on port 5001
+[29/7/2025, 16:06:56] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 16:07:01] Server running on port 5001
+[29/7/2025, 16:07:01] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 16:07:21] Server running on port 5001
+[29/7/2025, 16:07:22] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 16:08:54] token "688726580f70016036a6af53" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[29/7/2025, 16:09:21] Server running on port 5001
+[29/7/2025, 16:09:21] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 16:09:23] Server running on port 5001
+[29/7/2025, 16:09:23] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 16:09:30] Server running on port 5001
+[29/7/2025, 16:09:30] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 16:10:00] Server running on port 5001
+[29/7/2025, 16:10:01] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 16:15:42] Server running on port 5001
+[29/7/2025, 16:15:43] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 16:28:22] Server running on port 5001
+[29/7/2025, 16:28:23] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 16:31:25] Server running on port 5001
+[29/7/2025, 16:31:26] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 16:31:34] Server running on port 5001
+[29/7/2025, 16:31:34] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 16:31:37] Server running on port 5001
+[29/7/2025, 16:31:38] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 16:32:13] Server running on port 5001
+[29/7/2025, 16:32:14] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 16:32:19] Server running on port 5001
+[29/7/2025, 16:32:20] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 16:32:58] Server running on port 5001
+[29/7/2025, 16:32:59] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[29/7/2025, 16:33:57] A user connected: vEiHagKrL30nU30SAAAC
+[29/7/2025, 16:33:57] A user connected: seGa0ZrcT1XVJ8JnAAAD
+[29/7/2025, 16:33:57] A user connected: gjMMXtzGBwOVwnGAAAAF
+[29/7/2025, 16:33:57] Resolving tenant for domain: http://localhost:5173
+[29/7/2025, 16:35:37] Server running on port 5001
+[29/7/2025, 16:35:37] A user connected: sCNKawova1WMhdpMAAAB
+[29/7/2025, 16:35:38] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[29/7/2025, 16:35:38] A user connected: uZ-Xt83BuWFMswXLAAAD
+[29/7/2025, 16:35:38] A user connected: YFSqNwvlfms6Y33OAAAF
+[29/7/2025, 16:37:07] User disconnected: sCNKawova1WMhdpMAAAB
+[29/7/2025, 16:37:07] User disconnected: YFSqNwvlfms6Y33OAAAF
+[29/7/2025, 16:37:07] User disconnected: uZ-Xt83BuWFMswXLAAAD
+[29/7/2025, 16:38:13] Server running on port 5001
+[29/7/2025, 16:38:14] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 16:38:41] A user connected: vRxe_-NT3sabb1yKAAAB
+[29/7/2025, 16:38:41] A user connected: K-vNu-Da-Qe6_6TLAAAD
+[29/7/2025, 16:38:41] A user connected: VwSN3UkWYfNAfiTvAAAF
+[29/7/2025, 16:39:36] User disconnected: vRxe_-NT3sabb1yKAAAB
+[29/7/2025, 16:39:36] User disconnected: VwSN3UkWYfNAfiTvAAAF
+[29/7/2025, 16:39:36] User disconnected: K-vNu-Da-Qe6_6TLAAAD
+[29/7/2025, 18:26:45] Server running on port 5001
+[29/7/2025, 18:26:46] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[29/7/2025, 18:26:57] Server running on port 5001
+[29/7/2025, 18:26:58] Server running on port 5001
+[29/7/2025, 18:26:58] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[30/7/2025, 10:29:23] Server running on port 5001
+[30/7/2025, 10:29:24] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[30/7/2025, 10:53:18] Server running on port 5001
+[30/7/2025, 10:53:18] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[30/7/2025, 13:38:47] Server running on port 5001
+[30/7/2025, 13:38:48] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[30/7/2025, 13:38:51] Server running on port 5001
+[30/7/2025, 13:38:52] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[30/7/2025, 13:39:37] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 13:40:01] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 13:41:12] Server running on port 5001
+[30/7/2025, 13:41:13] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[30/7/2025, 13:42:35] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 13:44:02] Server running on port 5001
+[30/7/2025, 13:44:03] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[30/7/2025, 13:45:35] Server running on port 5001
+[30/7/2025, 13:45:35] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[30/7/2025, 13:45:37] Server running on port 5001
+[30/7/2025, 13:45:38] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[30/7/2025, 13:46:07] Server running on port 5001
+[30/7/2025, 13:46:07] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[30/7/2025, 13:53:33] Server running on port 5001
+[30/7/2025, 13:53:34] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[30/7/2025, 13:53:42] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 13:55:04] Server running on port 5001
+[30/7/2025, 13:55:04] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[30/7/2025, 13:56:05] Server running on port 5001
+[30/7/2025, 13:56:05] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[30/7/2025, 14:02:25] Server running on port 5001
+[30/7/2025, 14:02:26] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[30/7/2025, 14:02:39] Server running on port 5001
+[30/7/2025, 14:02:40] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[30/7/2025, 14:02:44] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 14:03:21] Server running on port 5001
+[30/7/2025, 14:03:21] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[30/7/2025, 14:03:44] Server running on port 5001
+[30/7/2025, 14:03:45] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[30/7/2025, 14:31:39] Server running on port 5001
+[30/7/2025, 14:31:40] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[30/7/2025, 14:32:41] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 14:33:04] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 14:35:49] Server running on port 5001
+[30/7/2025, 14:35:50] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[30/7/2025, 14:37:09] Server running on port 5001
+[30/7/2025, 14:37:10] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[30/7/2025, 14:37:33] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 14:37:48] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 14:40:24] Server running on port 5001
+[30/7/2025, 14:40:25] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[30/7/2025, 14:41:04] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 14:41:22] token "6889c561377c01f08d6f9ef2" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[30/7/2025, 14:41:39] Server running on port 5001
+[30/7/2025, 14:41:40] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[30/7/2025, 14:41:42] Server running on port 5001
+[30/7/2025, 14:41:42] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[30/7/2025, 17:46:44] Server running on port 5001
+[30/7/2025, 17:46:45] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[31/7/2025, 13:56:29] Server running on port 5001
+[31/7/2025, 13:56:31] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[31/7/2025, 13:57:44] A user connected: 2oZKoRFHVGkgU_uUAAAD
+[31/7/2025, 13:57:44] A user connected: IrA-crGhiyQqA9M5AAAE
+[31/7/2025, 13:57:44] A user connected: yZrbjF1rb7S0Gf20AAAF
+[31/7/2025, 13:57:49] token "688af4dbf09cf091a043b2d5" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[31/7/2025, 13:59:12] User disconnected: 2oZKoRFHVGkgU_uUAAAD
+[31/7/2025, 13:59:12] User disconnected: yZrbjF1rb7S0Gf20AAAF
+[31/7/2025, 13:59:12] User disconnected: IrA-crGhiyQqA9M5AAAE
+[31/7/2025, 13:59:13] A user connected: p2vSxfvA5DrOK9UnAAAJ
+[31/7/2025, 13:59:13] A user connected: e6DRPReYn03IbRJxAAAK
+[31/7/2025, 13:59:13] A user connected: SGpGCQUsXIbXzpooAAAL
+[31/7/2025, 14:01:10] User disconnected: p2vSxfvA5DrOK9UnAAAJ
+[31/7/2025, 14:01:10] User disconnected: e6DRPReYn03IbRJxAAAK
+[31/7/2025, 14:01:10] User disconnected: SGpGCQUsXIbXzpooAAAL
+[31/7/2025, 14:01:12] A user connected: b3AeC6jthMbMTQ75AAAP
+[31/7/2025, 14:01:12] A user connected: Bcz1xsr3LJ7Wh9q1AAAQ
+[31/7/2025, 14:01:12] A user connected: Eei5snohaozJp1CFAAAR
+[31/7/2025, 14:01:50] Server running on port 5001
+[31/7/2025, 14:01:51] Server running on port 5001
+[31/7/2025, 14:01:51] A user connected: Gy3MfxIM7M9gQ0lXAAAB
+[31/7/2025, 14:01:52] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[31/7/2025, 14:01:52] A user connected: CS4B1YFw2xksOFtlAAAD
+[31/7/2025, 14:01:52] A user connected: 7TchwxKLri7ybFUBAAAF
+[31/7/2025, 14:01:56] Server running on port 5001
+[31/7/2025, 14:01:57] A user connected: _R7EKCE2rtn4eEhTAAAB
+[31/7/2025, 14:01:57] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[31/7/2025, 14:01:57] A user connected: JESCB_i8xQGLGvH4AAAD
+[31/7/2025, 14:01:58] A user connected: iGFh2w2pcX3ro8veAAAF
+[31/7/2025, 14:02:12] Server running on port 5001
+[31/7/2025, 14:02:12] A user connected: Y5JsCJ9MRlhLUwJEAAAB
+[31/7/2025, 14:02:13] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[31/7/2025, 14:02:13] A user connected: jL6TDZa_WYWHIOXYAAAD
+[31/7/2025, 14:02:15] A user connected: U6IAJe412pNgzQZhAAAF
+[31/7/2025, 14:02:31] Server running on port 5001
+[31/7/2025, 14:02:31] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[31/7/2025, 14:02:32] A user connected: -NMdBEWJ3nL3I3CkAAAB
+[31/7/2025, 14:02:33] A user connected: Q6hjJTth8A0yWYvDAAAD
+[31/7/2025, 14:02:33] A user connected: xd1-Uj7EV68qYGwIAAAF
+[31/7/2025, 14:02:43] User disconnected: xd1-Uj7EV68qYGwIAAAF
+[31/7/2025, 14:02:43] User disconnected: Q6hjJTth8A0yWYvDAAAD
+[31/7/2025, 14:02:43] User disconnected: -NMdBEWJ3nL3I3CkAAAB
+[31/7/2025, 14:02:44] A user connected: awWvyzgECaPBQN7jAAAJ
+[31/7/2025, 14:02:44] A user connected: 0dt1utOMoWmhsYR7AAAK
+[31/7/2025, 14:02:44] A user connected: oLY3kRRiWkcbCjtHAAAL
+[31/7/2025, 14:02:54] token "688af4dbf09cf091a043b2d5" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[31/7/2025, 14:03:21] Fetched 6 templates for page 1 of 2
+[31/7/2025, 14:27:22] Server running on port 5001
+[31/7/2025, 14:27:23] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[31/7/2025, 14:27:24] A user connected: kXnmKX_3x890oeAFAAAB
+[31/7/2025, 14:29:57] Server running on port 5001
+[31/7/2025, 14:29:58] A user connected: EyvSZa1lC8khaepNAAAB
+[31/7/2025, 14:29:59] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[31/7/2025, 14:30:01] User disconnected: EyvSZa1lC8khaepNAAAB
+[31/7/2025, 14:30:05] A user connected: 1eJF0AEEmh-xo5FJAAAD
+[31/7/2025, 14:30:06] A user connected: bFD1NuXESQi7waAaAAAF
+[31/7/2025, 14:30:07] A user connected: -maUntlgoE4vPwMLAAAH
+[31/7/2025, 14:30:07] token "688af4dbf09cf091a043b2d5" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[31/7/2025, 14:30:17] A user connected: 70ZfPzbtqPSdtYSgAAAL
+[31/7/2025, 14:30:17] A user connected: xnl6YAcR53hH1XTsAAAM
+[31/7/2025, 14:30:17] A user connected: 1-TDBqyCYCzrfXAlAAAN
+[31/7/2025, 14:30:44] User disconnected: bFD1NuXESQi7waAaAAAF
+[31/7/2025, 14:30:44] User disconnected: -maUntlgoE4vPwMLAAAH
+[31/7/2025, 14:30:44] User disconnected: 1eJF0AEEmh-xo5FJAAAD
+[31/7/2025, 14:30:46] A user connected: j4UX38IXii1dAaBjAAAQ
+[31/7/2025, 14:30:46] A user connected: g2gbLhPP344N_vCBAAAR
+[31/7/2025, 14:30:46] A user connected: pgQT33juPv9mFlAOAAAT
+[31/7/2025, 14:30:49] A user connected: A3S5uWgdgFhckaBpAAAX
+[31/7/2025, 14:30:49] A user connected: pIYKSsZaF3dP7IZdAAAY
+[31/7/2025, 14:30:49] A user connected: H3Ojr0d9K9bS6sTuAAAZ
+[31/7/2025, 14:31:32] User disconnected: xnl6YAcR53hH1XTsAAAM
+[31/7/2025, 14:31:32] User disconnected: 1-TDBqyCYCzrfXAlAAAN
+[31/7/2025, 14:31:32] User disconnected: 70ZfPzbtqPSdtYSgAAAL
+[31/7/2025, 14:31:34] User disconnected: H3Ojr0d9K9bS6sTuAAAZ
+[31/7/2025, 14:31:34] User disconnected: pIYKSsZaF3dP7IZdAAAY
+[31/7/2025, 14:31:34] User disconnected: A3S5uWgdgFhckaBpAAAX
+[31/7/2025, 14:31:35] User disconnected: g2gbLhPP344N_vCBAAAR
+[31/7/2025, 14:31:35] User disconnected: pgQT33juPv9mFlAOAAAT
+[31/7/2025, 14:31:35] User disconnected: j4UX38IXii1dAaBjAAAQ
+[31/7/2025, 14:31:37] A user connected: wCsYTgSrIQGeINuCAAAd
+[31/7/2025, 14:31:37] A user connected: k7XE17wVn-NCIK_mAAAe
+[31/7/2025, 14:31:37] A user connected: gAy6Mn-GudIDhXZzAAAf
+[31/7/2025, 14:31:40] A user connected: QphJLUJndHJQ2v4WAAAj
+[31/7/2025, 14:31:40] A user connected: Lire81UoJis-xLquAAAk
+[31/7/2025, 14:31:40] A user connected: P5Fd7OHJ40zKUY9sAAAl
+[31/7/2025, 14:31:53] User disconnected: P5Fd7OHJ40zKUY9sAAAl
+[31/7/2025, 14:31:53] User disconnected: Lire81UoJis-xLquAAAk
+[31/7/2025, 14:31:53] User disconnected: QphJLUJndHJQ2v4WAAAj
+[31/7/2025, 14:31:54] User disconnected: wCsYTgSrIQGeINuCAAAd
+[31/7/2025, 14:31:54] User disconnected: gAy6Mn-GudIDhXZzAAAf
+[31/7/2025, 14:31:54] User disconnected: k7XE17wVn-NCIK_mAAAe
+[31/7/2025, 14:31:58] A user connected: ih-EEnGJUWlyNGxLAAAp
+[31/7/2025, 14:31:58] A user connected: LjXFrWNEQ_BazR4dAAAq
+[31/7/2025, 14:31:58] A user connected: LpI8aZRtFbHhnF5QAAAr
+[31/7/2025, 14:32:15] Fetched 6 templates for page 1 of 2
+[31/7/2025, 14:32:18] Socket ih-EEnGJUWlyNGxLAAAp joined room: 688af4dbf09cf091a043b2d5
+[31/7/2025, 14:32:18] Socket ih-EEnGJUWlyNGxLAAAp joined room: project-688af6cf54f48017fb3c7745
+[31/7/2025, 14:32:18] Fetched 9 templates for page 1 of 1
+[31/7/2025, 14:33:01] Server running on port 5001
+[31/7/2025, 14:33:01] A user connected: QQYiLWj3NDwlRY8DAAAB
+[31/7/2025, 14:33:02] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[31/7/2025, 14:33:03] User disconnected: QQYiLWj3NDwlRY8DAAAB
+[31/7/2025, 14:33:03] A user connected: mjKAoiqJ0_yzFgJnAAAE
+[31/7/2025, 14:33:03] A user connected: iulCKlTMv3X7lPl4AAAF
+[31/7/2025, 14:33:03] A user connected: 0WdQRi6MS41mFMP-AAAH
+[31/7/2025, 14:33:09] token "688af4dbf09cf091a043b2d5" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[31/7/2025, 14:33:20] A user connected: AQPj1b86bcJon2AQAAAL
+[31/7/2025, 14:33:20] A user connected: kSilEWh1Ba5P84RlAAAM
+[31/7/2025, 14:33:20] A user connected: jKXQ17lgD9nYX8kSAAAN
+[31/7/2025, 14:33:35] User disconnected: iulCKlTMv3X7lPl4AAAF
+[31/7/2025, 14:33:35] User disconnected: 0WdQRi6MS41mFMP-AAAH
+[31/7/2025, 14:33:35] User disconnected: mjKAoiqJ0_yzFgJnAAAE
+[31/7/2025, 14:33:36] A user connected: PjyKKOEqwVpZ72MwAAAQ
+[31/7/2025, 14:33:36] A user connected: muPk4Wx8uXEUu97WAAAR
+[31/7/2025, 14:33:36] A user connected: Y_7qhkvchkijVIWcAAAT
+[31/7/2025, 14:33:51] User disconnected: muPk4Wx8uXEUu97WAAAR
+[31/7/2025, 14:33:51] User disconnected: Y_7qhkvchkijVIWcAAAT
+[31/7/2025, 14:33:51] User disconnected: PjyKKOEqwVpZ72MwAAAQ
+[31/7/2025, 14:33:52] A user connected: CIqkL_7xr-o2ZdlMAAAW
+[31/7/2025, 14:33:52] A user connected: 1lXZzGSTYefgSrCdAAAY
+[31/7/2025, 14:33:52] A user connected: FcmE18V3EM_CoI7iAAAZ
+[31/7/2025, 14:34:14] User disconnected: CIqkL_7xr-o2ZdlMAAAW
+[31/7/2025, 14:34:14] User disconnected: FcmE18V3EM_CoI7iAAAZ
+[31/7/2025, 14:34:14] User disconnected: 1lXZzGSTYefgSrCdAAAY
+[31/7/2025, 14:34:15] A user connected: iSKoCoHEFQyqDDVLAAAc
+[31/7/2025, 14:34:15] A user connected: 4RCXXPLgjFdi1UeTAAAd
+[31/7/2025, 14:34:15] A user connected: D82cIYVhbc3NrSiSAAAf
+[31/7/2025, 14:34:31] User disconnected: iSKoCoHEFQyqDDVLAAAc
+[31/7/2025, 14:34:31] User disconnected: D82cIYVhbc3NrSiSAAAf
+[31/7/2025, 14:34:31] User disconnected: 4RCXXPLgjFdi1UeTAAAd
+[31/7/2025, 14:34:31] A user connected: _gSmFal96giSPjAHAAAh
+[31/7/2025, 14:34:31] A user connected: o8KqbdGp3BpOGfj0AAAj
+[31/7/2025, 14:34:31] A user connected: e-UDU59f1TeuXzqCAAAl
+[31/7/2025, 14:34:43] User disconnected: AQPj1b86bcJon2AQAAAL
+[31/7/2025, 14:34:43] User disconnected: jKXQ17lgD9nYX8kSAAAN
+[31/7/2025, 14:34:43] User disconnected: kSilEWh1Ba5P84RlAAAM
+[31/7/2025, 14:34:43] A user connected: Jx6XtP71yeLlypikAAAp
+[31/7/2025, 14:34:43] A user connected: FHdwx6pGNm9caSUxAAAq
+[31/7/2025, 14:34:43] A user connected: 9ds38lo6JKdU5zzZAAAr
+[31/7/2025, 14:34:51] User disconnected: Jx6XtP71yeLlypikAAAp
+[31/7/2025, 14:34:51] User disconnected: 9ds38lo6JKdU5zzZAAAr
+[31/7/2025, 14:34:51] User disconnected: FHdwx6pGNm9caSUxAAAq
+[1/8/2025, 15:30:03] Server running on port 5001
+[1/8/2025, 15:30:04] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[1/8/2025, 15:31:22] A user connected: SWH04NgLaTly3jYEAAAD
+[1/8/2025, 15:31:22] A user connected: 4G_yWKT-ux3FfwfIAAAE
+[1/8/2025, 15:31:22] A user connected: WBzKzM02L9gpa4IMAAAF
+[1/8/2025, 15:31:46] token "688a4c7754f48017fb3c6f55" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[1/8/2025, 15:31:55] User disconnected: SWH04NgLaTly3jYEAAAD
+[1/8/2025, 15:31:55] User disconnected: WBzKzM02L9gpa4IMAAAF
+[1/8/2025, 15:31:55] User disconnected: 4G_yWKT-ux3FfwfIAAAE
+[1/8/2025, 15:31:55] A user connected: v4qTuLB8YjAAGb__AAAI
+[1/8/2025, 15:31:55] A user connected: HK4wfw4VxJjNEVmQAAAJ
+[1/8/2025, 15:31:55] A user connected: fOd4JvkKQhBno7EhAAAL
+[1/8/2025, 15:32:06] User disconnected: fOd4JvkKQhBno7EhAAAL
+[1/8/2025, 15:32:06] User disconnected: HK4wfw4VxJjNEVmQAAAJ
+[1/8/2025, 15:32:06] User disconnected: v4qTuLB8YjAAGb__AAAI
+[1/8/2025, 15:32:08] A user connected: F9DMtIwmvr_Y3bIGAAAP
+[1/8/2025, 15:32:08] A user connected: j3ejt44wBbhA-kUCAAAQ
+[1/8/2025, 15:32:08] A user connected: SDd49tZmxFNl1cf-AAAR
+[1/8/2025, 15:33:03] User disconnected: SDd49tZmxFNl1cf-AAAR
+[1/8/2025, 15:33:03] User disconnected: j3ejt44wBbhA-kUCAAAQ
+[1/8/2025, 15:33:03] User disconnected: F9DMtIwmvr_Y3bIGAAAP
+[1/8/2025, 15:33:05] A user connected: UqtO6dRY6hA1357IAAAV
+[1/8/2025, 15:33:05] A user connected: -gMIzObkN-3LpYcJAAAW
+[1/8/2025, 15:33:05] A user connected: rXSRh_f5HeQL5LSmAAAX
+[1/8/2025, 15:33:12] token "688a4c7754f48017fb3c6f55" YOUR_VERY_STRONG_AND_RANDOM_SECRET_KEY
+[1/8/2025, 15:33:31] User disconnected: UqtO6dRY6hA1357IAAAV
+[1/8/2025, 15:33:31] User disconnected: rXSRh_f5HeQL5LSmAAAX
+[1/8/2025, 15:33:31] User disconnected: -gMIzObkN-3LpYcJAAAW
+[1/8/2025, 15:33:33] A user connected: 9uDep2bJMvPxbCN8AAAb
+[1/8/2025, 15:33:33] A user connected: xzUEPMf8lhLZ7dMSAAAc
+[1/8/2025, 15:33:33] A user connected: ClzoJXXq4pBj5P7rAAAd
+[1/8/2025, 15:34:48] Server running on port 5001
+[1/8/2025, 15:34:48] A user connected: MWSz8AsiGSxLYF6OAAAB
+[1/8/2025, 15:34:48] A user connected: ETj46GdpvKVXFSS5AAAD
+[1/8/2025, 15:34:49] A user connected: asX9vOha_dF_CTXVAAAF
+[1/8/2025, 15:34:49] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[1/8/2025, 15:34:52] Server running on port 5001
+[1/8/2025, 15:34:52] A user connected: yaJLw6p1cPncwfiTAAAB
+[1/8/2025, 15:34:53] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[1/8/2025, 15:34:53] A user connected: M5Xy8CbcvaDRLJjVAAAD
+[1/8/2025, 15:34:53] A user connected: g5_HZu2IuUy4jyJqAAAF
+[1/8/2025, 15:39:11] Server running on port 5001
+[1/8/2025, 15:39:11] A user connected: wIEk7Mj7C6Ke9oJBAAAB
+[1/8/2025, 15:39:11] A user connected: MQl_xIENm72zgrDuAAAD
+[1/8/2025, 15:39:12] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[1/8/2025, 15:39:12] A user connected: rCLZf23HS4slLnv3AAAF
+[1/8/2025, 15:39:20] Server running on port 5001
+[1/8/2025, 15:39:20] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[1/8/2025, 15:39:20] A user connected: 5yam9yJ--QuM19yoAAAB
+[1/8/2025, 15:39:20] A user connected: rdoNAdRbgglK5dlsAAAD
+[1/8/2025, 15:39:20] A user connected: gugImVGoEsFB6z9EAAAF
+[1/8/2025, 15:39:24] Server running on port 5001
+[1/8/2025, 15:39:24] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[1/8/2025, 15:39:24] A user connected: DIfokYJlr_Bl9w1CAAAB
+[1/8/2025, 15:39:24] A user connected: fqDHI612opR2imLAAAAD
+[1/8/2025, 15:39:24] A user connected: lG9-HidjIybtaIRIAAAF
+[1/8/2025, 15:39:46] Server running on port 5001
+[1/8/2025, 15:39:46] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[1/8/2025, 15:39:46] A user connected: uSBqqlFertha3h7OAAAB
+[1/8/2025, 15:39:46] A user connected: YyiGnQ-dz29hMotxAAAD
+[1/8/2025, 15:39:46] A user connected: rcfiJe2zHq7a4x_bAAAF
+[1/8/2025, 15:39:53] Server running on port 5001
+[1/8/2025, 15:39:54] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[1/8/2025, 15:39:54] A user connected: 67MC43y3QXKDPPzgAAAB
+[1/8/2025, 15:39:54] A user connected: hSl-Q_hS6iSuXibuAAAD
+[1/8/2025, 15:39:54] A user connected: xTbFtIR8Yq2XwEzJAAAF
+[1/8/2025, 15:41:07] Server running on port 5001
+[1/8/2025, 15:41:07] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[1/8/2025, 15:41:07] A user connected: EP9o8dIH2Io1T5azAAAB
+[1/8/2025, 15:41:07] A user connected: U4rsAH5m4lq3jrkBAAAD
+[1/8/2025, 15:41:08] A user connected: KM_zi-P8aeqUJqDKAAAF
+[1/8/2025, 15:42:38] Server running on port 5001
+[1/8/2025, 15:42:39] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[1/8/2025, 15:42:39] A user connected: QD0H2zI3EpvNWKZ3AAAB
+[1/8/2025, 15:42:39] A user connected: r4KrYLnO8jufXzqcAAAD
+[1/8/2025, 15:42:43] A user connected: Zxdv8nvib3HpG9WEAAAF
+[1/8/2025, 15:43:17] User disconnected: Zxdv8nvib3HpG9WEAAAF
+[1/8/2025, 15:43:17] User disconnected: r4KrYLnO8jufXzqcAAAD
+[1/8/2025, 15:43:17] User disconnected: QD0H2zI3EpvNWKZ3AAAB
+[1/8/2025, 15:43:18] A user connected: CvNR1Q-oH8Korjk0AAAI
+[1/8/2025, 15:43:18] A user connected: _c85kzieOLrl7GfTAAAK
+[1/8/2025, 15:43:18] A user connected: fubRwG0fS1Bs73peAAAL
+[1/8/2025, 15:44:59] Server running on port 5001
+[1/8/2025, 15:44:59] A user connected: rnl5B1yPMWGOpzr9AAAB
+[1/8/2025, 15:44:59] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[1/8/2025, 15:45:00] A user connected: 4KEo1PiCjMojH5YoAAAD
+[1/8/2025, 15:45:01] A user connected: 0bzf5qBpVHeg2Ae2AAAF
+[1/8/2025, 15:49:09] Server running on port 5001
+[1/8/2025, 15:49:09] A user connected: MEBmmzkWa8--MXuwAAAB
+[1/8/2025, 15:49:09] A user connected: FWbe1RipL4F_dvASAAAD
+[1/8/2025, 15:49:10] A user connected: cI_6-eEVhkjKqSkuAAAF
+[1/8/2025, 15:49:10] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[1/8/2025, 15:50:14] Server running on port 5001
+[1/8/2025, 15:50:14] A user connected: sP-sfB-nLqW3gwHBAAAB
+[1/8/2025, 15:50:15] A user connected: VdgEb5vRK9VEOVRLAAAD
+[1/8/2025, 15:50:15] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[1/8/2025, 15:50:15] A user connected: T0lehcrX6Yy-iXwPAAAF
+[1/8/2025, 15:51:44] Server running on port 5001
+[1/8/2025, 15:51:44] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[1/8/2025, 15:51:44] A user connected: C9LnJHJnHRJmBt8mAAAB
+[1/8/2025, 15:51:44] A user connected: 1h48GItqv_piVV-dAAAD
+[1/8/2025, 15:51:45] A user connected: VPIXJ969YxslyP6QAAAF
+[1/8/2025, 15:52:00] Server running on port 5001
+[1/8/2025, 15:52:00] A user connected: ymQN2AcgWvn4AArdAAAB
+[1/8/2025, 15:52:00] A user connected: pu8KYi8yP8_fsWoZAAAD
+[1/8/2025, 15:52:01] A user connected: aMb5Y7gHe_xfEWgOAAAF
+[1/8/2025, 15:52:01] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[1/8/2025, 15:52:05] Server running on port 5001
+[1/8/2025, 15:52:06] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[1/8/2025, 15:52:06] A user connected: 3C-TMNTFSMQcoQ0DAAAB
+[1/8/2025, 15:52:06] A user connected: Ed4EJixIFqbpOCpXAAAD
+[1/8/2025, 15:52:07] A user connected: qWJ3iI8HKgF5STy0AAAF
+[1/8/2025, 17:26:26] Server running on port 5001
+[1/8/2025, 17:26:27] A user connected: 1KK7lcpZdBF_HcoDAAAB
+[1/8/2025, 17:26:27] A user connected: rH4edxTWm1GsXeYoAAAD
+[1/8/2025, 17:26:27] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[1/8/2025, 17:26:28] A user connected: 5ENjGCRPrAAjeXpwAAAF
+[1/8/2025, 17:36:05] User disconnected: 5ENjGCRPrAAjeXpwAAAF
+[1/8/2025, 17:36:05] User disconnected: 1KK7lcpZdBF_HcoDAAAB
+[1/8/2025, 17:36:05] User disconnected: rH4edxTWm1GsXeYoAAAD
+[1/8/2025, 17:51:55] Server running on port 5001
+[1/8/2025, 17:51:55] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[1/8/2025, 17:52:40] Server running on port 5001
+[1/8/2025, 17:52:40] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[1/8/2025, 18:03:22] Server running on port 5001
+[1/8/2025, 18:03:23] MongoDB Connected: ac-hpitsto-shard-00-00.emmkmiu.mongodb.net
+[1/8/2025, 18:04:11] Server running on port 5001
+[1/8/2025, 18:04:11] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[2/8/2025, 10:38:27] Server running on port 5001
+[2/8/2025, 10:38:28] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[2/8/2025, 10:38:43] Server running on port 5001
+[2/8/2025, 10:38:43] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[2/8/2025, 10:40:04] Server running on port 5001
+[2/8/2025, 10:40:05] Server running on port 5001
+[2/8/2025, 10:40:06] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[2/8/2025, 10:43:07] Server running on port 5001
+[2/8/2025, 10:43:08] Server running on port 5001
+[2/8/2025, 10:43:09] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[2/8/2025, 10:44:37] Server running on port 5001
+[2/8/2025, 10:44:37] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[2/8/2025, 11:00:13] Server running on port 5001
+[2/8/2025, 11:00:14] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[2/8/2025, 11:00:18] Server running on port 5001
+[2/8/2025, 11:00:18] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[2/8/2025, 11:00:21] Server running on port 5001
+[2/8/2025, 11:00:21] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[2/8/2025, 11:00:26] Server running on port 5001
+[2/8/2025, 11:00:26] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[4/8/2025, 17:31:06] Server running on port 5001
+[4/8/2025, 17:31:07] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[4/8/2025, 17:46:58] Server running on port 5001
+[4/8/2025, 17:46:59] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[6/8/2025, 16:37:41] Server running on port 5001
+[6/8/2025, 16:37:41] MongoDB Connected: ac-hpitsto-shard-00-02.emmkmiu.mongodb.net
+[6/8/2025, 16:52:02] Server running on port 5001
+[6/8/2025, 16:52:03] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[6/8/2025, 16:52:16] Server running on port 5001
+[6/8/2025, 16:52:16] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net
+[7/8/2025, 12:48:38] Server running on port 5001
+[7/8/2025, 12:48:39] Server running on port 5001
+[7/8/2025, 12:48:40] MongoDB Connected: ac-hpitsto-shard-00-01.emmkmiu.mongodb.net

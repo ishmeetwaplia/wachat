@@ -1,0 +1,48 @@
+{
+  "name": "multi-tenant-server",
+  "version": "1.0.0",
+  "description": "Backend for a multi-tenant MERN application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "mern",
+    "multi-tenant",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@socket.io/redis-adapter": "^8.3.0",
+    "axios": "^1.11.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.19.2",
+    "express-rate-limit": "^8.0.1",
+    "form-data": "^4.0.3",
+    "fs": "^0.0.1-security",
+    "ioredis": "^5.7.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mime-types": "^3.0.1",
+    "mongoose": "^8.4.1",
+    "multer": "^2.0.1",
+    "nodemailer": "^7.0.5",
+    "path": "^0.12.7",
+    "rate-limit-redis": "^4.2.1",
+    "redis": "^5.5.6",
+    "sharp": "^0.34.3",
+    "socket.io": "^4.8.1",
+    "uninstall": "^0.0.0",
+    "uuid": "^11.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
