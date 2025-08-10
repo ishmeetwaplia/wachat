@@ -133,7 +133,8 @@ const resMessage = {
     Carousel_limit_exceed: "Carousel component cannot have more than 10 cards.",
     Data_fetch_successfully: "Data fetch successfully",
     Data_updated: "Data updated successfully",
-    Catalog_created: "Catalog created successfully"
+    Catalog_created: "Catalog created successfully",
+    Business_already_linked: "This business ID is already linked to another user"
 };
 
 module.exports = {

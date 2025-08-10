@@ -15,6 +15,14 @@ exports.create = async (req) => {
                 message: checkMetaId?.error?.message
             }
         }
+        const existingCatalog = await Catalog.findOne({ metaId: checkMetaId.id });
+        if (existingCatalog && !existingCatalog.userId.equals(req.user._id)) {
+            return {
+                status: statusCode.BAD_REQUEST,
+                success: false,
+                message: resMessage.Business_already_linked
+            }
+        }
         const data = await createProductCatalog(metaBusinessId, name, accessToken);
         if(data?.error) {
             return {
