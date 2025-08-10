@@ -258,3 +258,20 @@ exports.createProductCatalog = async (metaBusinessId, name, accessToken) => {
     throw new Error("Failed to create product catalog");
   }
 };
+
+exports.getOwnedWhatsAppAccounts = async (metaBusinessId, accessToken) => {
+    try {
+        let businessId = metaBusinessId;
+        const url = `https://graph.facebook.com/v20.0/${businessId}`;
+        const params = {
+            fields: 'owned_whatsapp_business_accounts',
+            access_token: accessToken
+        };
+
+        const response = await axios.get(url, { params });
+        return response.data;
+    } catch (error) {
+        console.error('Error fetching WhatsApp Business Accounts:', error.response?.data || error.message);
+        throw new Error(error.response?.data?.error?.message || 'Failed to fetch data');
+    }
+}
