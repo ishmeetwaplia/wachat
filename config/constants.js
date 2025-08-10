@@ -134,7 +134,8 @@ const resMessage = {
     Data_fetch_successfully: "Data fetch successfully",
     Data_updated: "Data updated successfully",
     Catalog_created: "Catalog created successfully",
-    Business_already_linked: "This business ID is already linked to another user"
+    Business_already_linked: "This business ID is already linked to another user",
+    WaBa_not_found: "Whatsapp business account id not found"
 };
 
 module.exports = {

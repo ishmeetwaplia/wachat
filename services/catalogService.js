@@ -1,12 +1,21 @@
 const { statusCode, resMessage } = require("../config/constants");
 const { getBusinessData, createProductCatalog } = require('../functions/functions');
 const Catalog = require('../models/Catalog');
+const Businessprofile = require('../models/BusinessProfile');
 
 exports.create = async (req) => {
     try {
         const { metaBusinessId } = req.params;
         const { accessToken } = req.query;
-        const { name } = req.body;
+        const { name, businessProfileId } = req.body;
+        const existingBusiness = await Businessprofile.findById(businessProfileId);
+        if(!existingBusiness) {
+            return {
+                status: statusCode.NOT_FOUND,
+                success: false,
+                message: resMessage.WaBa_not_found
+            }
+        }
         const checkMetaId = await getBusinessData(metaBusinessId, accessToken);
         if(checkMetaId?.error) {
             return {
@@ -34,6 +43,7 @@ exports.create = async (req) => {
         await Catalog.create({
             userId: req.user._id,
             tenantId: req.tenant._id,
+            businessProfileId,
             catalogId: data.id,
             metaId: checkMetaId.id,
             name,
