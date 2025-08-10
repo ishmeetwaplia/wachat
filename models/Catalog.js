@@ -4,6 +4,7 @@ const catalogSchema = new mongoose.Schema({
     userId: mongoose.Schema.Types.ObjectId,
     tenantId: mongoose.Schema.Types.ObjectId,
     metaId: String,
+    catalogId: String,
     name: {
         type: String,
         trim: true

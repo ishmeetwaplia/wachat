@@ -26,6 +26,7 @@ exports.create = async (req) => {
         await Catalog.create({
             userId: req.user._id,
             tenantId: req.tenant._id,
+            catalogId: data.id,
             metaId: checkMetaId.id,
             name,
             accessToken
