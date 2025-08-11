@@ -133,3 +133,29 @@ exports.syncCatalogs = async (req) => {
         };
     }
 };
+
+exports.catalogList = async (req) => {
+    try {
+        const { metaBusinessId } = req.params;
+        const data = await Catalog.find({ metaId: metaBusinessId, userId: req.user._id, tenantId: req.tenant._id });
+        if(!data) {
+            return {
+                status: statusCode.NOT_FOUND,
+                success: false,
+                message: resMessage.No_data_found
+            }
+        }
+        return {
+            data,
+            status: statusCode.OK,
+            success: true,
+            message: resMessage.Data_fetch_successfully
+        }
+    } catch (error) {
+        return {
+            status: statusCode.INTERNAL_SERVER_ERROR,
+            success: false,
+            message: error.message
+        };
+    }
+}
