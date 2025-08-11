@@ -5,10 +5,11 @@ const Project = require('../models/project');
 const Template = require('../models/Template');
 const generateToken = require('../utils/generateToken');
 const userService = require('../services/userService');
-const { sendEmail } = require('../functions/functions');
+const { sendEmail, getMetaBusinessId } = require('../functions/functions');
 const BlacklistedTokenSchema = require('../models/BlacklistedTokenSchema');
 const { getEmailTemplate } = require('../utils/getEmailTemplate');
 const jwt = require('jsonwebtoken');
+const { getMetaBusinessId } = require("../")
 
 const registerController = async (req) => {
     try {
@@ -57,6 +58,15 @@ const createBusinessProfileLogic = async (req) => {
             };
         }
 
+        const data = await getMetaBusinessId(metaAccessToken);
+        if(data?.error) {
+            return {
+                status: statusCode.BAD_REQUEST,
+                success: false,
+                message: data?.error?.message
+            }
+        }
+
         const newProfile = await BusinessProfile.create({
             userId,
             tenantId,
@@ -64,7 +74,8 @@ const createBusinessProfileLogic = async (req) => {
             businessAddress,
             metaAccessToken,
             metaAppId,
-            metaBusinessId
+            metaBusinessId,
+            metaId: data.businesses.data[0].id
         });
 
         return {

@@ -275,3 +275,17 @@ exports.getOwnedWhatsAppAccounts = async (metaBusinessId, accessToken) => {
         throw new Error(error.response?.data?.error?.message || 'Failed to fetch data');
     }
 }
+
+exports.getMetaBusinessId = async (metaAccessToken) => {
+    try {
+        let ACCESS_TOKEN = metaAccessToken;
+        const response = await axios.get("https://graph.facebook.com/v20.0/me",
+          {
+            params: { fields: "businesses", access_token: ACCESS_TOKEN }
+          });
+        return response.data;
+    } catch (error) {
+        console.error('Error fetching Business Accounts:', error.response?.data || error.message);
+        throw new Error(error.response?.data?.error?.message || 'Failed to fetch data');
+    }
+}
