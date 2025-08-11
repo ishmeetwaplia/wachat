@@ -17,7 +17,7 @@ exports.create = async (req) => {
             }
         }
         const wabaIds = data?.owned_whatsapp_business_accounts?.data.map(acc => acc.id) || [];
-        const existingBusiness = await Businessprofile.findOne({ metaBusinessId: businessProfileId });
+        const existingBusiness = await Businessprofile.findOne({ metaBusinessId: businessProfileId, userId: req.user._id });
         if(!existingBusiness) {
             return {
                 status: statusCode.NOT_FOUND,
