@@ -40,6 +40,7 @@ const BusinessProfileSchema = new mongoose.Schema({
 
     },
     metaId: String,
+    businessIdAccessToken: String,
     isDefault: {
         type: Boolean,
         default: false

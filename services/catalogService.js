@@ -1,5 +1,5 @@
 const { statusCode, resMessage } = require("../config/constants");
-const { getBusinessData, createProductCatalog, getOwnedWhatsAppAccounts } = require('../functions/functions');
+const { getBusinessData, createProductCatalog, getOwnedProductCatalogs } = require('../functions/functions');
 const Catalog = require('../models/Catalog');
 const Businessprofile = require('../models/BusinessProfile');
 
@@ -7,30 +7,14 @@ exports.create = async (req) => {
     try {
         const { metaBusinessId } = req.params;
         const { accessToken } = req.query;
-        const { name, businessProfileId } = req.body;
-        const data = await getOwnedWhatsAppAccounts(metaBusinessId, accessToken);
-        if(data?.error) {
-            return {
-                status: statusCode.BAD_REQUEST,
-                success: false,
-                message: data?.error?.message
-            }
-        }
-        const wabaIds = data?.owned_whatsapp_business_accounts?.data.map(acc => acc.id) || [];
-        const existingBusiness = await Businessprofile.findOne({ metaBusinessId: businessProfileId, userId: req.user._id });
-        if(!existingBusiness) {
-            return {
-                status: statusCode.NOT_FOUND,
-                success: false,
-                message: resMessage.WaBa_not_found
-            }
-        }
-        if (!wabaIds.includes(businessProfileId)) {
+        const { name } = req.body;
+        const isMetaId = await Businessprofile.findOne({ metaId: metaBusinessId });
+        if(!isMetaId) {
             return {
                 status: statusCode.BAD_REQUEST,
                 success: false,
                 message: resMessage.Business_profile_id_not_linked
-            };
+            }
         }
         const checkMetaId = await getBusinessData(metaBusinessId, accessToken);
         if(checkMetaId?.error) {
@@ -56,12 +40,12 @@ exports.create = async (req) => {
                 message: catalogData?.error?.message
             }
         }
-        existingBusiness.metaId = checkMetaId.id;
-        await existingBusiness.save();
+        isMetaId.businessIdAccessToken = accessToken;
+        await isMetaId.save();
         await Catalog.create({
             userId: req.user._id,
             tenantId: req.tenant._id,
-            businessProfileId,
+            businessProfileId: isMetaId.metaId,
             catalogId: catalogData.id,
             metaId: checkMetaId.id,
             name,
@@ -80,3 +64,72 @@ exports.create = async (req) => {
         };
     }
 }
+
+exports.syncCatalogs = async (req) => {
+    try {
+        const { metaBusinessId } = req.params;
+        const exitingData = await Businessprofile.findOne({ metaId: metaBusinessId });
+        if (!exitingData) {
+            return {
+                status: statusCode.NOT_FOUND,
+                success: false,
+                message: resMessage.Business_profile_id_not_linked
+            };
+        }
+        const catalogs = await getOwnedProductCatalogs(metaBusinessId, exitingData.businessIdAccessToken);
+
+        if (catalogs?.error) {
+            return {
+                status: statusCode.BAD_REQUEST,
+                success: false,
+                message: catalogs?.error?.message
+            };
+        }
+
+
+        const catalogDocs = catalogs?.data.map(item => ({
+            userId: req.user._id,
+            tenantId: req.tenant._id,
+            businessProfileId: exitingData.metaBusinessId,
+            metaId: metaBusinessId,
+            catalogId: item.id,
+            name: item.name || "Untitled Catalog"
+        })) || [];
+
+        if (catalogDocs.length === 0) {
+            return {
+                status: statusCode.SUCCESS,
+                success: true,
+                message: "No catalogs found from Meta API"
+            };
+        }
+
+        const existingIds = await Catalog.find({
+            catalogId: { $in: catalogDocs.map(c => c.catalogId) },
+            userId: req.user._id,
+            tenantId: req.tenant._id,
+            businessProfileId: exitingData.metaBusinessId,
+            metaId: metaBusinessId
+        }).distinct("catalogId");
+
+        const newCatalogs = catalogDocs.filter(c => !existingIds.includes(c.catalogId));
+
+        if (newCatalogs.length > 0) {
+            await Catalog.insertMany(newCatalogs);
+        }
+
+        return {
+            status: statusCode.SUCCESS,
+            success: true,
+            message: resMessage.Catalogs_sync_successfully,
+            newCatalogsAdded: newCatalogs.length
+        };
+
+    } catch (error) {
+        return {
+            status: statusCode.INTERNAL_SERVER_ERROR,
+            success: false,
+            message: error.message
+        };
+    }
+};

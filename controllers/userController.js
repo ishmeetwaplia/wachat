@@ -9,7 +9,6 @@ const { sendEmail, getMetaBusinessId } = require('../functions/functions');
 const BlacklistedTokenSchema = require('../models/BlacklistedTokenSchema');
 const { getEmailTemplate } = require('../utils/getEmailTemplate');
 const jwt = require('jsonwebtoken');
-const { getMetaBusinessId } = require("../")
 
 const registerController = async (req) => {
     try {

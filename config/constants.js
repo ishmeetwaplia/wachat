@@ -136,7 +136,8 @@ const resMessage = {
     Catalog_created: "Catalog created successfully",
     Business_already_linked: "This business ID is already linked to another user",
     WaBa_not_found: "Whatsapp business account id not found",
-    Business_profile_id_not_linked: "Provided businessProfileId is not linked to this Meta Business ID"
+    Business_profile_id_not_linked: "Provided businessProfileId is not linked to this Meta Business ID",
+    Catalogs_sync_successfully: "Catalogs sync successfully"
 };
 
 module.exports = {

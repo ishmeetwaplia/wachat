@@ -6,5 +6,6 @@ const controller = require("../controllers/catalogController");
 const router = express.Router();
 
 router.post("/:metaBusinessId", protect, responseHandler(controller.createContactController));
+router.get("/sync/:metaBusinessId", protect, responseHandler(controller.syncCatalogsController));
 
 module.exports = router;
