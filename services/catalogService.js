@@ -56,6 +56,8 @@ exports.create = async (req) => {
                 message: catalogData?.error?.message
             }
         }
+        existingBusiness.metaId = checkMetaId.id;
+        await existingBusiness.save();
         await Catalog.create({
             userId: req.user._id,
             tenantId: req.tenant._id,

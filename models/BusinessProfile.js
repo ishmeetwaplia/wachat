@@ -39,6 +39,7 @@ const BusinessProfileSchema = new mongoose.Schema({
         trim: true
 
     },
+    metaId: String,
     isDefault: {
         type: Boolean,
         default: false
