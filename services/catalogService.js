@@ -1,7 +1,8 @@
 const { statusCode, resMessage } = require("../config/constants");
-const { getBusinessData, createProductCatalog, getOwnedProductCatalogs } = require('../functions/functions');
+const { getBusinessData, createProductCatalog, getOwnedProductCatalogs, createProduct } = require('../functions/functions');
 const Catalog = require('../models/Catalog');
 const Businessprofile = require('../models/BusinessProfile');
+const Product = require('../models/Product');
 
 exports.create = async (req) => {
     try {
@@ -150,6 +151,74 @@ exports.catalogList = async (req) => {
             status: statusCode.OK,
             success: true,
             message: resMessage.Data_fetch_successfully
+        }
+    } catch (error) {
+        return {
+            status: statusCode.INTERNAL_SERVER_ERROR,
+            success: false,
+            message: error.message
+        };
+    }
+}
+
+exports.createProduct = async (req) => {
+    try {
+        let { catalogId } = req.params;
+        const formattedPrice = req.body.price / 100;
+        const productData = {
+            retailer_id: req.body.retailer_id,
+            name: req.body.name,
+            description: req.body.description,
+            price: formattedPrice,
+            currency: req.body.currency,
+            availability: req.body.availability,
+            condition: req.body.condition,
+            image_url: req.body.image_url,
+        };
+        const catalogData = await Catalog.findOne({ userId: req.user._id, tenantId: req.tenant._id, catalogId });
+        if(!catalogData) {
+            return {
+                status: statusCode.NOT_FOUND,
+                success: false,
+                message: resMessage.Catalog_not_found
+            }
+        }
+        const businessData = await Businessprofile.findOne({ metaBusinessId: catalogData.businessProfileId });
+        if (!businessData) {
+            return {
+                status: statusCode.NOT_FOUND,
+                success: false,
+                message: resMessage.Business_profile_id_not_linked
+            };
+        }
+        let ACCESS_TOKEN = businessData.businessIdAccessToken;
+        const result = await createProduct(productData, catalogId, ACCESS_TOKEN);
+        if (result?.error) {
+            return {
+                status: statusCode.BAD_REQUEST,
+                success: false,
+                message: result?.error?.message
+            };
+        }
+        const dbData = {
+            retailer_id: req.body.retailer_id,
+            name: req.body.name,
+            description: req.body.description,
+            price: req.body.price,
+            currency: req.body.currency,
+            availability: req.body.availability,
+            condition: req.body.condition,
+            image_url: req.body.image_url,
+            userId: req.user._id,
+            tenantId: req.tenant._id,
+            catalogId: catalogData._id,
+            meta_product_id: result.id
+        };
+        await Product.create(dbData);
+        return {
+            status: statusCode.CREATED,
+            success: true,
+            message: resMessage.Product_created
         }
     } catch (error) {
         return {

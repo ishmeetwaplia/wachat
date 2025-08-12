@@ -301,3 +301,29 @@ exports.getOwnedProductCatalogs = async (metaBusinessId, accessToken) => {
     throw error.response?.data || error.message;
   }
 }
+
+exports.createProduct = async (productData, catalogId, ACCESS_TOKEN) => {
+  try {
+    const response = await axios.post(
+      `https://graph.facebook.com/v16.0/${catalogId}/products`,
+      productData,
+      {
+        headers: {
+          Authorization: `Bearer ${ACCESS_TOKEN}`,
+          'Content-Type': 'application/json'
+        }
+      }
+    );
+
+    console.log("Meta API Response:", response.data);
+    return response.data;
+
+  } catch (error) {
+    console.error("Meta API Error:", error.response?.data || error.message);
+
+    return {
+      error: true,
+      details: error.response?.data || { message: error.message }
+    };
+  }
+};
