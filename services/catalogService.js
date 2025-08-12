@@ -164,12 +164,11 @@ exports.catalogList = async (req) => {
 exports.createProduct = async (req) => {
     try {
         let { catalogId } = req.params;
-        const formattedPrice = req.body.price / 100;
         const productData = {
             retailer_id: req.body.retailer_id,
             name: req.body.name,
             description: req.body.description,
-            price: formattedPrice,
+            price: req.body.price,
             currency: req.body.currency,
             availability: req.body.availability,
             condition: req.body.condition,
