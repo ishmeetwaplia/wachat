@@ -15,7 +15,7 @@ exports.create = async (req) => {
             return { status: statusCode.BAD_REQUEST, success: false, message: "Invalid business ID" };
         }
 
-        const isMetaId = await Businessprofile.findOne({ _id: metaBusinessId });
+        const isMetaId = await Businessprofile.findOne({ _id: metaBusinessId, userId: req.user._id, tenantId: req.tenant._id });
         if(!isMetaId) {
             return {
                 status: statusCode.BAD_REQUEST,
