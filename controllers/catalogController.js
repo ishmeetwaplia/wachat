@@ -48,3 +48,15 @@ exports.createProductController = async (req) => {
         }
     }
 }
+
+exports.syncProductController = async (req) => {
+    try {
+        return await service.syncProduct(req);
+    } catch (error) {
+        return {
+            status: statusCode.INTERNAL_SERVER_ERROR,
+            success: false,
+            message: error.message,
+        }
+    }
+}
