@@ -60,3 +60,7 @@ exports.authTemplateController = async (req) => {
 exports.getPlainTextController = async (req) => {
   return await templateService.getPlainTextTemplates(req);
 };
+
+exports.createCatalogueTemplate = async (req) => {
+    return await templateService.createCatalogueTemplate(req);
+};

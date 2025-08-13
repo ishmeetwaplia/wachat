@@ -1443,3 +1443,123 @@ exports.getPlainTextTemplates = async (req) => {
     };
   }
 };
+
+exports.createCatalogueTemplate = async (req) => {
+  const { name, category, language, components, businessProfileId } = req.body;
+  const tenantId = req.tenant._id;
+  const userId = req.user._id;
+
+  if (!name || !language || !category || !components || !businessProfileId) {
+    console.log("Missing required fields in request body");
+    return {
+      status: statusCode.BAD_REQUEST,
+      success: false,
+      message:
+        resMessage.Missing_required_fields +
+        " (name, language, category, components, businessProfileId are required).",
+    };
+  }
+
+  try {
+    const businessProfile = await BusinessProfile.findOne({
+      _id: businessProfileId,
+      userId,
+      tenantId,
+    });
+    if (!businessProfile) {
+      return {
+        status: statusCode.NOT_FOUND,
+        success: false,
+        message:
+          "Selected Business Profile not found or does not belong to your account.",
+      };
+    }
+
+    const templateExistsLocally = await Template.findOne({
+      name,
+      language,
+      tenantId,
+      userId,
+      businessProfileId,
+    });
+    if (templateExistsLocally) {
+      return {
+        status: statusCode.CONFLICT,
+        success: false,
+        message:
+          "Catalogue template with this name and language already exists locally for this business profile. Please use a different name or language.",
+      };
+    }
+
+    const metaCredentials = await getBusinessProfileMetaApiCredentials(
+      businessProfileId,
+      userId,
+      tenantId
+    );
+    if (!metaCredentials.success) {
+      return {
+        status: metaCredentials.status || statusCode.BAD_REQUEST,
+        success: false,
+        message: metaCredentials.message,
+      };
+    }
+
+    const { accessToken, wabaId, facebookUrl, graphVersion } = metaCredentials;
+    const metaApiUrl = `${facebookUrl}/${graphVersion}/${wabaId}/message_templates`;
+
+    const componentsForMeta = cleanComponentsForMeta(components);
+
+    const metaPayload = {
+      name,
+      language,
+      category,
+      components: componentsForMeta,
+    };
+
+    const metaResponse = await axios.post(metaApiUrl, metaPayload, {
+      headers: {
+        Authorization: `Bearer ${accessToken}`,
+        "Content-Type": "application/json",
+      },
+    });
+
+    const templateType = "STANDARD";
+
+    const newTemplate = await Template.create({
+      name,
+      category,
+      language,
+      components: components || [],
+      tenantId,
+      userId,
+      businessProfileId,
+      metaTemplateId: metaResponse.data.id,
+      metaStatus: metaResponse.data.status,
+      metaCategory: metaResponse.data.category,
+      isSynced: true,
+      lastSyncedAt: new Date(),
+      type: templateType,
+    });
+
+    return {
+      status: statusCode.CREATED,
+      success: true,
+      message:
+        resMessage.Template_submitted +
+        " (Catalogue) to Meta for approval and saved locally.",
+      data: newTemplate,
+    };
+  } catch (error) {
+    console.error(
+      "Error creating catalogue template (Meta API or DB save):",
+      error.response?.data || error.message
+    );
+    const metaError = error.response?.data?.error?.message || error.message;
+    return {
+      status: statusCode.INTERNAL_SERVER_ERROR,
+      success: false,
+      message: `Failed to create catalogue template: ${metaError}. Please check Meta API response for details.`,
+      metaError: error.response?.data || null,
+    };
+  }
+};
