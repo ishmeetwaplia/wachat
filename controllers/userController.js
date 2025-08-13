@@ -225,6 +225,9 @@ const authUser = async (req, res) => {
 
             await sendEmail(email, subject, text, getEmailTemplate(html));
 
+            user.token = token;
+            await user.save();
+            
             return res.json({
                 _id: user._id,
                 username: user.username,
