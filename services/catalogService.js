@@ -79,15 +79,25 @@ exports.create = async (req) => {
 exports.syncCatalogs = async (req) => {
     try {
         const { metaBusinessId } = req.params;
-        const exitingData = await Businessprofile.findOne({ metaId: metaBusinessId });
-        if (!exitingData) {
-            return {
-                status: statusCode.NOT_FOUND,
+
+        if (!mongoose.Types.ObjectId.isValid(metaBusinessId)) {
+            return { 
+                status: statusCode.BAD_REQUEST,
                 success: false,
-                message: resMessage.Business_profile_id_not_linked
+                message: resMessage.Invalid_business_ID
             };
         }
-        const catalogs = await getOwnedProductCatalogs(metaBusinessId, exitingData.businessIdAccessToken);
+
+        const isMetaId = await Businessprofile.findOne({ _id: metaBusinessId, userId: req.user._id, tenantId: req.tenant._id });
+        if(!isMetaId) {
+            return {
+                status: statusCode.BAD_REQUEST,
+                success: false,
+                message: resMessage.Business_profile_not_found
+            }
+        }
+
+        const catalogs = await getOwnedProductCatalogs(isMetaId.metaId, isMetaId.businessIdAccessToken);
 
         if (catalogs?.error) {
             return {
@@ -97,43 +107,59 @@ exports.syncCatalogs = async (req) => {
             };
         }
 
-
         const catalogDocs = catalogs?.data.map(item => ({
             userId: req.user._id,
             tenantId: req.tenant._id,
-            businessProfileId: exitingData.metaBusinessId,
-            metaId: metaBusinessId,
+            businessProfileId: metaBusinessId,
             catalogId: item.id,
             name: item.name || "Untitled Catalog"
         })) || [];
 
         if (catalogDocs.length === 0) {
+            await Catalog.deleteMany({
+                userId: req.user._id,
+                tenantId: req.tenant._id,
+                businessProfileId: metaBusinessId
+            });
+
             return {
                 status: statusCode.SUCCESS,
                 success: true,
-                message: "No catalogs found from Meta API"
+                message: "All catalogs deleted because none were found from Meta API"
             };
         }
 
-        const existingIds = await Catalog.find({
-            catalogId: { $in: catalogDocs.map(c => c.catalogId) },
+        const existingCatalogs = await Catalog.find({
             userId: req.user._id,
             tenantId: req.tenant._id,
-            businessProfileId: exitingData.metaBusinessId,
-            metaId: metaBusinessId
+            businessProfileId: metaBusinessId
         }).distinct("catalogId");
 
-        const newCatalogs = catalogDocs.filter(c => !existingIds.includes(c.catalogId));
+        const metaCatalogIds = catalogDocs.map(c => c.catalogId);
+
+        const newCatalogs = catalogDocs.filter(c => !existingCatalogs.includes(c.catalogId));
+
+        const catalogsToDelete = existingCatalogs.filter(id => !metaCatalogIds.includes(id));
 
         if (newCatalogs.length > 0) {
             await Catalog.insertMany(newCatalogs);
+        }
+
+        if (catalogsToDelete.length > 0) {
+            await Catalog.deleteMany({
+                catalogId: { $in: catalogsToDelete },
+                userId: req.user._id,
+                tenantId: req.tenant._id,
+                businessProfileId: metaBusinessId
+            });
         }
 
         return {
             status: statusCode.SUCCESS,
             success: true,
             message: resMessage.Catalogs_sync_successfully,
-            newCatalogsAdded: newCatalogs.length
+            newCatalogsAdded: newCatalogs.length,
+            catalogsDeleted: catalogsToDelete.length
         };
 
     } catch (error) {
