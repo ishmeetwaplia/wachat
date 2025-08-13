@@ -3,8 +3,7 @@ const mongoose = require('mongoose');
 const catalogSchema = new mongoose.Schema({
     userId: mongoose.Schema.Types.ObjectId,
     tenantId: mongoose.Schema.Types.ObjectId,
-    businessProfileId: String,
-    metaId: String,
+    businessProfileId: mongoose.Schema.Types.ObjectId,
     catalogId: String,
     name: {
         type: String,

@@ -1,3 +1,4 @@
+const mongoose = require('mongoose');
 const { statusCode, resMessage } = require("../config/constants");
 const { getBusinessData, createProductCatalog, getOwnedProductCatalogs, createProduct } = require('../functions/functions');
 const Catalog = require('../models/Catalog');
@@ -9,15 +10,20 @@ exports.create = async (req) => {
         const { metaBusinessId } = req.params;
         const { accessToken } = req.query;
         const { name } = req.body;
-        const isMetaId = await Businessprofile.findOne({ metaId: metaBusinessId });
+
+        if (!mongoose.Types.ObjectId.isValid(metaBusinessId)) {
+            return { status: statusCode.BAD_REQUEST, success: false, message: "Invalid business ID" };
+        }
+
+        const isMetaId = await Businessprofile.findOne({ _id: metaBusinessId });
         if(!isMetaId) {
             return {
                 status: statusCode.BAD_REQUEST,
                 success: false,
-                message: resMessage.Business_profile_id_not_linked
+                message: resMessage.Business_profile_not_found
             }
         }
-        const checkMetaId = await getBusinessData(metaBusinessId, accessToken);
+        const checkMetaId = await getBusinessData(isMetaId.metaId, accessToken);
         if(checkMetaId?.error) {
             return {
                 status: statusCode.BAD_REQUEST,
@@ -33,7 +39,7 @@ exports.create = async (req) => {
                 message: resMessage.Business_already_linked
             }
         }
-        const catalogData = await createProductCatalog(metaBusinessId, name, accessToken);
+        const catalogData = await createProductCatalog(isMetaId.metaId, name, accessToken);
         if(catalogData?.error) {
             return {
                 status: statusCode.BAD_REQUEST,
@@ -46,7 +52,7 @@ exports.create = async (req) => {
         await Catalog.create({
             userId: req.user._id,
             tenantId: req.tenant._id,
-            businessProfileId: isMetaId.metaId,
+            businessProfileId: metaBusinessId,
             catalogId: catalogData.id,
             metaId: checkMetaId.id,
             name,
