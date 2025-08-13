@@ -12,7 +12,11 @@ exports.create = async (req) => {
         const { name } = req.body;
 
         if (!mongoose.Types.ObjectId.isValid(metaBusinessId)) {
-            return { status: statusCode.BAD_REQUEST, success: false, message: "Invalid business ID" };
+            return { 
+                status: statusCode.BAD_REQUEST,
+                success: false,
+                message: resMessage.Invalid_business_ID
+            };
         }
 
         const isMetaId = await Businessprofile.findOne({ _id: metaBusinessId, userId: req.user._id, tenantId: req.tenant._id });
@@ -144,7 +148,24 @@ exports.syncCatalogs = async (req) => {
 exports.catalogList = async (req) => {
     try {
         const { metaBusinessId } = req.params;
-        const data = await Catalog.find({ metaId: metaBusinessId, userId: req.user._id, tenantId: req.tenant._id });
+
+        if (!mongoose.Types.ObjectId.isValid(metaBusinessId)) {
+            return { 
+                status: statusCode.BAD_REQUEST,
+                success: false,
+                message: resMessage.Invalid_business_ID
+            };
+        }
+
+        const isMetaId = await Businessprofile.findOne({ _id: metaBusinessId, userId: req.user._id, tenantId: req.tenant._id });
+        if(!isMetaId) {
+            return {
+                status: statusCode.BAD_REQUEST,
+                success: false,
+                message: resMessage.Business_profile_not_found
+            }
+        }
+        const data = await Catalog.find({ businessProfileId: metaBusinessId, userId: req.user._id, tenantId: req.tenant._id });
         if(!data) {
             return {
                 status: statusCode.NOT_FOUND,
