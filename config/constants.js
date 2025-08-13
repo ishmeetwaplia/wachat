@@ -140,7 +140,11 @@ const resMessage = {
     Catalogs_sync_successfully: "Catalogs sync successfully",
     Catalog_not_found: "Catalog not found",
     Product_created: "Product created successfully",
-    Invalid_business_ID: "Invalid business ID"
+    Invalid_business_ID: "Invalid business ID",
+    No_products_found_in_Meta_catalog: "No products found in Meta catalog",
+    Product_synced: "Product synced successfully",
+    Already_synced: "All products are already synced",
+    All_products_deleted: "All products deleted because none were found in Meta catalog"
 };
 
 module.exports = {

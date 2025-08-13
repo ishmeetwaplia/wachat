@@ -327,3 +327,32 @@ exports.createProduct = async (productData, catalogId, ACCESS_TOKEN) => {
     };
   }
 };
+
+exports.fetchFacebookProducts = async (CATALOG_ID, FB_ACCESS_TOKEN) => {
+  const fields = [
+    'id',
+    'name',
+    'price',
+    'availability',
+    'retailer_id',
+    'description',
+    'currency',
+    'condition',
+    'image_url'
+  ].join(',');
+
+  const url = `https://graph.facebook.com/v17.0/${CATALOG_ID}/products`;
+
+  try {
+    const response = await axios.get(url, {
+      params: {
+        fields,
+        access_token: FB_ACCESS_TOKEN
+      }
+    });
+    return response.data;
+  } catch (error) {
+    console.error('Error fetching products:', error.response?.data || error.message);
+    throw new Error(error.response?.data?.error?.message || 'Failed to fetch products');
+  }
+}
