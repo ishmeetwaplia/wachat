@@ -246,17 +246,18 @@ exports.catalogList = async (req) => {
 exports.createProduct = async (req) => {
     try {
         let { catalogId } = req.params;
+        const formatedPrice = req.body.price * 100;
         const productData = {
             retailer_id: req.body.retailer_id,
             name: req.body.name,
             description: req.body.description,
-            price: req.body.price,
+            price: formatedPrice,
             currency: req.body.currency,
             availability: req.body.availability,
             condition: req.body.condition,
             image_url: req.body.image_url,
         };
-        const catalogData = await Catalog.findOne({ userId: req.user._id, tenantId: req.tenant._id, catalogId });
+        const catalogData = await Catalog.findOne({ _id: catalogId, userId: req.user._id, tenantId: req.tenant._id });
         if(!catalogData) {
             return {
                 status: statusCode.NOT_FOUND,
@@ -264,7 +265,7 @@ exports.createProduct = async (req) => {
                 message: resMessage.Catalog_not_found
             }
         }
-        const businessData = await Businessprofile.findOne({ metaBusinessId: catalogData.businessProfileId });
+        const businessData = await Businessprofile.findOne({ _id: catalogData.businessProfileId });
         if (!businessData) {
             return {
                 status: statusCode.NOT_FOUND,
@@ -273,12 +274,12 @@ exports.createProduct = async (req) => {
             };
         }
         let ACCESS_TOKEN = businessData.businessIdAccessToken;
-        const result = await createProduct(productData, catalogId, ACCESS_TOKEN);
+        const result = await createProduct(productData, catalogData.catalogId, ACCESS_TOKEN);
         if (result?.error) {
             return {
                 status: statusCode.BAD_REQUEST,
                 success: false,
-                message: result?.error?.message
+                message: result?.details?.error?.message
             };
         }
         const dbData = {
