@@ -356,3 +356,29 @@ exports.fetchFacebookProducts = async (CATALOG_ID, FB_ACCESS_TOKEN) => {
     throw new Error(error.response?.data?.error?.message || 'Failed to fetch products');
   }
 }
+
+exports.updateProduct = async (productId, ACCESS_TOKEN, {
+    name,
+    description,
+    price,
+    currency,
+    availability,
+    condition,
+    image_url
+}) => {
+    const url = `https://graph.facebook.com/v17.0/${productId}`;
+    let formatedPrice = price * 100;
+    const payload = {
+        name,
+        description,
+        price: formatedPrice,
+        currency,
+        availability,
+        condition,
+        image_url,
+        access_token: ACCESS_TOKEN
+    };
+
+    const response = await axios.post(url, payload);
+    return response.data;
+}

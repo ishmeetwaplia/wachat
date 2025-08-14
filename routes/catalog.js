@@ -11,5 +11,6 @@ router.get("/sync/:metaBusinessId", protect, responseHandler(controller.syncCata
 
 router.post("/:catalogId/product", protect, responseHandler(controller.createProductController));
 router.get("/sync/:catalogId/product", protect, responseHandler(controller.syncProductController));
+router.put("/product/:productId", protect, responseHandler(controller.editProductController));
 
 module.exports = router;
