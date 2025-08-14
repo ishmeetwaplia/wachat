@@ -70,3 +70,6 @@ exports.downloadMediaController = async (req, res) => {
   }
 };
 
+exports.sendCatalogMessageController = async (req) => {
+  return await messageService.sendCatalogMessageService(req);
+};

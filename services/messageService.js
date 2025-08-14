@@ -1205,6 +1205,143 @@ const downloadMedia = async (req) => {
   }
 };
 
+const sendCatalogMessageService = async (req) => {
+  const { to, templateName, languageCode } = req.body;
+  const userId = req.user._id;
+  const tenantId = req.tenant._id;
+  const projectId = req.params.projectId;
+
+  // ✅ Step 1: Validate request body
+  if (!to || !templateName) {
+    return {
+      status: statusCode.BAD_REQUEST,
+      success: false,
+      message:
+        resMessage.Missing_required_fields +
+        " (to and templateName are required for catalog message).",
+    };
+  }
+
+  // ✅ Step 2: Find the project
+  const project = await Project.findOne({
+    _id: projectId,
+    tenantId,
+    userId,
+  }).populate("businessProfileId");
+
+  if (!project) {
+    return {
+      status: statusCode.NOT_FOUND,
+      success: false,
+      message:
+        resMessage.No_data_found +
+        " (Project not found or does not belong to you).",
+    };
+  }
+
+  // ✅ Step 3: Verify WhatsApp setup
+  if (!project.isWhatsappVerified || !project.metaPhoneNumberID) {
+    return {
+      status: statusCode.BAD_REQUEST,
+      success: false,
+      message:
+        resMessage.Project_whatsapp_number_not_configured +
+        " (WhatsApp number not verified or Meta Phone Number ID is missing).",
+    };
+  }
+  const phoneNumberId = project.metaPhoneNumberID;
+
+  // ✅ Step 4: Validate Business Profile
+  const businessProfile = project.businessProfileId;
+  businessProfile.graphVersion = businessProfile.graphVersion || "v16.0";
+  businessProfile.facebookUrl = businessProfile.facebookUrl || "https://graph.facebook.com";
+
+  if (
+    !businessProfile ||
+    !businessProfile.metaAccessToken ||
+    !businessProfile.metaBusinessId ||
+    !businessProfile.facebookUrl ||
+    !businessProfile.graphVersion
+  ) {
+    return {
+      status: statusCode.BAD_REQUEST,
+      success: false,
+      message:
+        resMessage.Meta_API_credentials_not_configured +
+        " for the linked Business Profile. Please update it.",
+    };
+  }
+
+  const accessToken = businessProfile.metaAccessToken;
+  const facebookUrl = businessProfile.facebookUrl;
+  const graphVersion = businessProfile.graphVersion;
+
+  try {
+    // ✅ Step 5: Make API call to send catalog message
+    const apiUrl = `${facebookUrl}/${graphVersion}/${phoneNumberId}/messages`;
+
+    const payload = {
+      messaging_product: "whatsapp",
+      to: to,
+      type: "template",
+      template: {
+        name: templateName,
+        language: { code: languageCode || "en" },
+        components: [
+          {
+            type: "button",
+            sub_type: "catalog",
+            index: "0",
+          },
+        ],
+      },
+    };
+
+    const headers = {
+      Authorization: `Bearer ${accessToken}`,
+      "Content-Type": "application/json",
+    };
+
+    const sendResult = await axios.post(apiUrl, payload, { headers });
+
+    // ✅ Step 6: Save in DB
+    const messageData = new Message({
+      to,
+      type: "template",
+      message: payload.template,
+      metaResponse: sendResult.data,
+      status: sendResult.status === 200 ? "sent" : "failed",
+      userId,
+      tenantId,
+      projectId,
+      metaPhoneNumberID: phoneNumberId,
+      direction: "outbound",
+      templateName,
+      templateLanguage: languageCode || "en",
+    });
+
+    await messageData.save();
+
+    return {
+      status: statusCode.OK,
+      success: true,
+      message: resMessage.Message_sent_successfully,
+      data: {
+        apiResponse: sendResult.data,
+        dbEntry: messageData,
+      },
+    };
+  } catch (error) {
+    console.error("❌ Error sending catalog message:", error.response?.data || error.message);
+    return {
+      status: error.response?.status || statusCode.INTERNAL_SERVER_ERROR,
+      success: false,
+      message: error.response?.data?.error?.message || resMessage.Message_send_failed,
+      error: error.response?.data || error.message,
+    };
+  }
+};
+
 module.exports = {
   sendMessageService,
   sendWhatsAppMessages,
@@ -1213,5 +1350,6 @@ module.exports = {
   sendBulkMessageService,
   getAllBulkSendJobsService,
   getBulkSendJobDetailsService,
-  downloadMedia
+  downloadMedia,
+  sendCatalogMessageService
 }
