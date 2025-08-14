@@ -599,3 +599,45 @@ exports.resendOtp = async (req) => {
     };
   }
 };
+
+exports.createBusinessProfileLogic = async (req) => {
+    const userId = req.user._id;
+    const tenantId = req.tenant._id;
+    const { name, metaAccessToken, metaAppId, metaBusinessId, catalogAccess, businessPortfolioId } = req.body;
+ 
+    try {
+        const existing = await BusinessProfile.findOne({ metaBusinessId });
+        if (existing) {
+            return {
+                status: statusCode.CONFLICT,
+                success: false,
+                message: resMessage.Business_already_exists
+            };
+        }
+ 
+        const newProfile = await BusinessProfile.create({
+            userId,
+            tenantId,
+            name,
+            metaAccessToken,
+            metaAppId,
+            metaBusinessId,
+            catalogAccess,
+            businessPortfolioId: businessPortfolioId || ""
+        });
+ 
+        return {
+            data: newProfile,
+            status: statusCode.CREATED,
+            success: true,
+            message: resMessage.Business_created,
+        };
+ 
+    } catch (error) {
+        return {
+            status: statusCode.INTERNAL_SERVER_ERROR,
+            success: false,
+            message: error.message || resMessage.Server_error
+        };
+    }
+};

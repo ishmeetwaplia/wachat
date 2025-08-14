@@ -259,37 +259,6 @@ exports.createProductCatalog = async (metaBusinessId, name, accessToken) => {
   }
 };
 
-// exports.getOwnedWhatsAppAccounts = async (metaBusinessId, accessToken) => {
-//     try {
-//         let businessId = metaBusinessId;
-//         const url = `https://graph.facebook.com/v20.0/${businessId}`;
-//         const params = {
-//             fields: 'owned_whatsapp_business_accounts',
-//             access_token: accessToken
-//         };
-
-//         const response = await axios.get(url, { params });
-//         return response.data;
-//     } catch (error) {
-//         console.error('Error fetching WhatsApp Business Accounts:', error.response?.data || error.message);
-//         throw new Error(error.response?.data?.error?.message || 'Failed to fetch data');
-//     }
-// }
-
-exports.getMetaBusinessId = async (metaAccessToken) => {
-    try {
-        let ACCESS_TOKEN = metaAccessToken;
-        const response = await axios.get("https://graph.facebook.com/v20.0/me",
-          {
-            params: { fields: "businesses", access_token: ACCESS_TOKEN }
-          });
-        return response.data;
-    } catch (error) {
-        console.error('Error fetching Business Accounts:', error.response?.data || error.message);
-        throw new Error(error.response?.data?.error?.message || 'Failed to fetch data');
-    }
-}
-
 exports.getOwnedProductCatalogs = async (metaBusinessId, accessToken) => {
   let businessId = metaBusinessId;
   const url = `https://graph.facebook.com/v16.0/${businessId}/owned_product_catalogs?access_token=${accessToken}`;

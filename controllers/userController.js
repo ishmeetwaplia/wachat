@@ -5,10 +5,8 @@ const Project = require('../models/project');
 const Template = require('../models/Template');
 const generateToken = require('../utils/generateToken');
 const userService = require('../services/userService');
-const { sendEmail, getMetaBusinessId } = require('../functions/functions');
-const BlacklistedTokenSchema = require('../models/BlacklistedTokenSchema');
+const { sendEmail } = require('../functions/functions');
 const { getEmailTemplate } = require('../utils/getEmailTemplate');
-const jwt = require('jsonwebtoken');
 
 const registerController = async (req) => {
     try {
@@ -34,70 +32,14 @@ const verifyOtpController = async (req) => {
     }
 };
 
-const createBusinessProfileLogic = async (req) => {
-    const userId = req.user._id;
-    const tenantId = req.tenant._id;
-    const { name, businessAddress, metaAccessToken, metaAppId, metaBusinessId } = req.body;
-
-    if (!name || !metaAccessToken || !metaBusinessId || !metaAppId) {
-        return {
-            status: statusCode.BAD_REQUEST,
-            success: false,
-            message: resMessage.Missing_required_fields + " (name, metaAccessToken, metaAppId, metaBusinessId required)."
-        };
-    }
-
+const createBusinessProfile = async (req) => {
     try {
-        const existing = await BusinessProfile.findOne({ tenantId, metaBusinessId });
-        if (existing) {
-            return {
-                status: statusCode.CONFLICT,
-                success: false,
-                message: "A business profile with this Meta Business ID already exists in this tenant."
-            };
-        }
-
-        const data = await getMetaBusinessId(metaAccessToken);
-        if(data?.error) {
-            return {
-                status: statusCode.BAD_REQUEST,
-                success: false,
-                message: data?.error?.message
-            }
-        }
-
-        const newProfile = await BusinessProfile.create({
-            userId,
-            tenantId,
-            name,
-            businessAddress,
-            metaAccessToken,
-            metaAppId,
-            metaBusinessId,
-            metaId: data.businesses.data[0].id
-        });
-
-        return {
-            status: statusCode.CREATED,
-            success: true,
-            message: resMessage.Business_profile_created_successfully,
-            data: newProfile.toObject()
-        };
-
+        return await userService.createBusinessProfileLogic(req);
     } catch (error) {
-        if (error.code === 11000) {
-            return {
-                status: statusCode.CONFLICT,
-                success: false,
-                message: "Duplicate entry: a profile with this Meta Business ID already exists."
-            };
-        }
-
-        console.error("Create BusinessProfile error:", error);
         return {
             status: statusCode.INTERNAL_SERVER_ERROR,
             success: false,
-            message: error.message || resMessage.Server_error
+            message: error.message,
         };
     }
 };
@@ -179,11 +121,6 @@ const deleteBusinessProfile = async (req, res) => {
             message: error.message || resMessage.Server_error
         });
     }
-};
-
-const createBusinessProfile = async (req, res) => {
-    const result = await createBusinessProfileLogic(req);
-    res.status(result.status).json(result);
 };
 
 const updateBusinessProfile = async (req, res) => {
