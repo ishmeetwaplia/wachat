@@ -12,7 +12,7 @@ exports.createProjectSchema = Joi.object({
     whatsappNumber: Joi.string().required(),
     about: Joi.string().allow('').optional(),
     address: Joi.string().allow('').optional(),
-    email: Joi.string().email().allow('', 'N/A').optional(),
+    email: Joi.string().email().allow('').optional(),
     websites: Joi.array().items(Joi.string().uri()).allow(null).optional(),
     vertical: Joi.string().allow('').optional(),
     profilePictureUrl: Joi.string().uri().allow('').optional(),
