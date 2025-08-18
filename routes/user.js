@@ -14,7 +14,7 @@ router.get('/profile', protect, userController.getUserProfile);
 router.put('/profile', protect, validateRequest(update), userController.updateUserProfile);
 router.get('/', protect, authorizeRoles('tenant_admin', 'super_admin'), userController.getAllUsersForTenant);
 router.post('/admin-register', protect, authorizeRoles('tenant_admin', 'super_admin'), validateRequest(register), userController.registerUserByAdmin);
-router.post('/business-profiles', protect, userController.createBusinessProfile);
+router.post('/business-profiles', protect, responseHandler(userController.createBusinessProfile));
 router.get('/business-profiles', protect, userController.getAllBusinessProfilesForUser);
 router.put('/business-profiles/:id', protect, responseHandler(userController.updateBusinessProfileController));
 router.put('/reset-password', protect, validateRequest(resetPassword), userController.resetPasswordController);

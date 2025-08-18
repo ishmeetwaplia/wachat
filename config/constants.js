@@ -144,7 +144,11 @@ const resMessage = {
     No_products_found_in_Meta_catalog: "No products found in Meta catalog",
     Product_synced: "Product synced successfully",
     Already_synced: "All products are already synced",
-    All_products_deleted: "All products deleted because none were found in Meta catalog"
+    All_products_deleted: "All products deleted because none were found in Meta catalog",
+    Product_id_not_found: "Product ID not found",
+    Product_updated: "Product updated successfully",
+    Business_already_exists: "A business profile with this Meta Business ID already exists",
+    Business_created: "Business profile created successfully"
 };
 
 module.exports = {

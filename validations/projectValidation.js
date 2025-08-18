@@ -8,9 +8,8 @@ exports.createProjectSchema = Joi.object({
     isWhatsappVerified: Joi.boolean().required(),
     metaPhoneNumberID: Joi.string().required(),
     name: Joi.string().required(),
-    planDuration: Joi.number().allow(null).required(),
+    planDuration: Joi.string().allow(null).required(),
     whatsappNumber: Joi.string().required(),
-
     about: Joi.string().allow('').optional(),
     address: Joi.string().allow('').optional(),
     email: Joi.string().email().allow('').optional(),

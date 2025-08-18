@@ -1,6 +1,13 @@
 const mongoose = require('mongoose');
 const { statusCode, resMessage } = require("../config/constants");
-const { getBusinessData, createProductCatalog, getOwnedProductCatalogs, createProduct, fetchFacebookProducts } = require('../functions/functions');
+const {
+    getBusinessData,
+    createProductCatalog,
+    getOwnedProductCatalogs,
+    createProduct,
+    fetchFacebookProducts,
+    updateProduct
+} = require('../functions/functions');
 const Catalog = require('../models/Catalog');
 const Businessprofile = require('../models/BusinessProfile');
 const Product = require('../models/Product');
@@ -428,3 +435,66 @@ exports.syncProduct = async (req) => {
         };
     }
 };
+
+exports.editProduct = async (req) => {
+    try {
+        const { productId } = req.params;
+        const productData = await Product.findOne({ _id: productId, userId: req.user._id, tenantId: req.tenant._id });
+        if(!productData) {
+            return {
+                status: statusCode.NOT_FOUND,
+                success: false,
+                message: resMessage.Product_id_not_found
+            }
+        }
+        const catalogData = await Catalog.findOne({
+            _id: productData.catalogId,
+            userId: req.user._id,
+            tenantId: req.tenant._id
+        });
+        if (!catalogData) {
+            return {
+                status: statusCode.NOT_FOUND,
+                success: false,
+                message: resMessage.Catalog_not_found
+            };
+        }
+        const businessData = await Businessprofile.findOne({
+            _id: catalogData.businessProfileId
+        });
+        if (!businessData) {
+            return {
+                status: statusCode.NOT_FOUND,
+                success: false,
+                message: resMessage.Business_profile_id_not_linked
+            };
+        }
+        const data = await updateProduct(productData.meta_product_id, businessData.businessIdAccessToken, req.body);
+        if (data?.error) {
+            return {
+                status: statusCode.BAD_REQUEST,
+                success: false,
+                message: data?.details?.error?.message
+            };
+        }
+        productData.name = req.body.name,
+        productDatadescription = req.body.description,
+        productData.price = Number(req.body.price);
+        productData.currency = req.body.currency,
+        productData.availability = req.body.availability,
+        productData.condition = req.body.condition,
+        productData.image_url = req.body.image_url
+        await productData.save();
+        return {
+            status: statusCode.SUCCESS,
+            success: true,
+            message: resMessage.Product_updated
+        }
+    } catch (error) {
+        return {
+            status: statusCode.INTERNAL_SERVER_ERROR,
+            success: false,
+            message: error.message
+        };
+    }
+}

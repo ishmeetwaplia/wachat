@@ -60,3 +60,15 @@ exports.syncProductController = async (req) => {
         }
     }
 }
+
+exports.editProductController = async (req) => {
+    try {
+        return await service.editProduct(req);
+    } catch (error) {
+        return {
+            status: statusCode.INTERNAL_SERVER_ERROR,
+            success: false,
+            message: error.message,
+        }
+    }
+}

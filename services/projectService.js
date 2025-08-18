@@ -112,7 +112,7 @@ exports.getProjectById = async (req) => {
     const userId = req.user._id;
 
     try {
-        const project = await Project.findOne({ _id: projectId, tenantId, userId }).populate('businessProfileId', 'name metaBusinessId');
+        const project = await Project.findOne({ _id: projectId, tenantId, userId }).populate('businessProfileId', 'name metaBusinessId catalogAccess');
 
         if (!project) {
             return {
