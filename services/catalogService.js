@@ -214,6 +214,7 @@ exports.catalogList = async (req) => {
         
         const data = await Catalog.find({ 
             businessProfileId: isMetaId.businessPortfolioId, 
+            metaId: metaBusinessId,
             userId: req.user._id, 
             tenantId: req.tenant._id 
         })
@@ -222,6 +223,7 @@ exports.catalogList = async (req) => {
 
         const totalRecords = await Catalog.countDocuments({
             businessProfileId:  isMetaId.businessPortfolioId, 
+            metaId: metaBusinessId,
             userId: req.user._id, 
             tenantId: req.tenant._id 
         });
