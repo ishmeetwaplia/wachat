@@ -210,11 +210,9 @@ exports.catalogList = async (req) => {
         }
 
         const skip = (Number(page) - 1) * Number(limit);
-
-        console.log("metaBusinessId" , metaBusinessId);
         
         const data = await Catalog.find({ 
-            businessProfileId: metaBusinessId, 
+            businessProfileId: isMetaId.businessPortfolioId, 
             userId: req.user._id, 
             tenantId: req.tenant._id 
         })
@@ -222,7 +220,7 @@ exports.catalogList = async (req) => {
         .limit(Number(limit));
 
         const totalRecords = await Catalog.countDocuments({
-            businessProfileId: metaBusinessId, 
+            businessProfileId:  isMetaId.businessPortfolioId, 
             userId: req.user._id, 
             tenantId: req.tenant._id 
         });
