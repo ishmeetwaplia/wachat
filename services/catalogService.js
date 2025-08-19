@@ -123,6 +123,7 @@ exports.syncCatalogs = async (req) => {
             userId: req.user._id,
             tenantId: req.tenant._id,
             businessProfileId: isMetaId.businessPortfolioId,
+            metaId: metaBusinessId,  
             catalogId: item.id,
             name: item.name || "Untitled Catalog"
         })) || [];

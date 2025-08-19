@@ -18,7 +18,8 @@ const catalogSchema = new mongoose.Schema({
         required: true
     },
     metaId: {
-        type: String,
+        type: mongoose.Schema.Types.ObjectId,
+        required: true
     },
     name: {
         type: String,
