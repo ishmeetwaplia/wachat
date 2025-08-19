@@ -95,7 +95,12 @@ exports.syncCatalogs = async (req) => {
             };
         }
 
-        const isMetaId = await Businessprofile.findOne({ _id: metaBusinessId, userId: req.user._id, tenantId: req.tenant._id });
+        const isMetaId = await Businessprofile.findOne({ 
+            _id: metaBusinessId, 
+            userId: req.user._id, 
+            tenantId: req.tenant._id 
+        });
+
         if(!isMetaId) {
             return {
                 status: statusCode.BAD_REQUEST,
@@ -104,7 +109,7 @@ exports.syncCatalogs = async (req) => {
             }
         }
 
-        const catalogs = await getOwnedProductCatalogs(isMetaId.metaId, isMetaId.businessIdAccessToken);
+        const catalogs = await getOwnedProductCatalogs(isMetaId.businessPortfolioId, isMetaId.metaAccessToken);
 
         if (catalogs?.error) {
             return {
@@ -117,7 +122,7 @@ exports.syncCatalogs = async (req) => {
         const catalogDocs = catalogs?.data.map(item => ({
             userId: req.user._id,
             tenantId: req.tenant._id,
-            businessProfileId: metaBusinessId,
+            businessProfileId: isMetaId.businessPortfolioId,
             catalogId: item.id,
             name: item.name || "Untitled Catalog"
         })) || [];
@@ -126,7 +131,7 @@ exports.syncCatalogs = async (req) => {
             await Catalog.deleteMany({
                 userId: req.user._id,
                 tenantId: req.tenant._id,
-                businessProfileId: metaBusinessId
+                businessProfileId: isMetaId.businessPortfolioId
             });
 
             return {
@@ -139,7 +144,7 @@ exports.syncCatalogs = async (req) => {
         const existingCatalogs = await Catalog.find({
             userId: req.user._id,
             tenantId: req.tenant._id,
-            businessProfileId: metaBusinessId
+            businessProfileId: isMetaId.businessPortfolioId
         }).distinct("catalogId");
 
         const metaCatalogIds = catalogDocs.map(c => c.catalogId);
@@ -206,6 +211,8 @@ exports.catalogList = async (req) => {
 
         const skip = (Number(page) - 1) * Number(limit);
 
+        console.log("metaBusinessId" , metaBusinessId);
+        
         const data = await Catalog.find({ 
             businessProfileId: metaBusinessId, 
             userId: req.user._id, 

@@ -1,7 +1,7 @@
 const service = require('../services/catalogService');
 const { statusCode } = require("../config/constants");
 
-exports.createContactController = async (req) => {
+exports.createCatalogController = async (req) => {
     try {
         return await service.create(req);
     } catch (error) {

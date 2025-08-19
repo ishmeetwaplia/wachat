@@ -1,15 +1,33 @@
 const mongoose = require('mongoose');
 
 const catalogSchema = new mongoose.Schema({
-    userId: mongoose.Schema.Types.ObjectId,
-    tenantId: mongoose.Schema.Types.ObjectId,
-    businessProfileId: mongoose.Schema.Types.ObjectId,
-    catalogId: String,
+    userId: {
+        type: mongoose.Schema.Types.ObjectId,
+        required: true
+    },
+    tenantId: {
+        type: mongoose.Schema.Types.ObjectId,
+        required: true
+    },
+    businessProfileId: {
+       type: String,
+        required: true
+    },
+    catalogId: {
+        type: String,
+        required: true
+    },
+    metaId: {
+        type: String,
+    },
     name: {
         type: String,
-        trim: true
+        trim: true,
+        default: "Untitled Catalog"
     },
-    accessToken: String
+    accessToken: {
+        type: String
+    }
 }, { versionKey: false, timestamps: true });
 
 const catalogModel = mongoose.model('catalog', catalogSchema);
