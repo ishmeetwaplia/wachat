@@ -34,7 +34,7 @@ exports.create = async (req) => {
                 message: resMessage.Business_profile_not_found
             }
         }
-        const checkMetaId = await getBusinessData(isMetaId.metaId, accessToken);
+        const checkMetaId = await getBusinessData(isMetaId.businessPortfolioId, accessToken); // metaId
         if(checkMetaId?.error) {
             return {
                 status: statusCode.BAD_REQUEST,
@@ -42,7 +42,7 @@ exports.create = async (req) => {
                 message: checkMetaId?.error?.message
             }
         }
-        const existingCatalog = await Catalog.findOne({ metaId: checkMetaId.id });
+        const existingCatalog = await Catalog.findOne({ businessProfileId: checkMetaId.id });   // metaId
         if (existingCatalog && !existingCatalog.userId.equals(req.user._id)) {
             return {
                 status: statusCode.BAD_REQUEST,
@@ -50,7 +50,7 @@ exports.create = async (req) => {
                 message: resMessage.Business_already_linked
             }
         }
-        const catalogData = await createProductCatalog(isMetaId.metaId, name, accessToken);
+        const catalogData = await createProductCatalog(isMetaId.businessProfileId, name, accessToken);   // metaId
         if(catalogData?.error) {
             return {
                 status: statusCode.BAD_REQUEST,
@@ -58,7 +58,7 @@ exports.create = async (req) => {
                 message: catalogData?.error?.message
             }
         }
-        isMetaId.businessIdAccessToken = accessToken;
+        isMetaId.metaAccessToken = accessToken;   //businessIdAccessToken
         await isMetaId.save();
         await Catalog.create({
             userId: req.user._id,
